@@ -1,0 +1,4086 @@
+﻿@ list Location = 
+- courts
+- court
+- district
+- room
+- Canada
+- bank
+- RICO
+- Chicago
+- district court
+- Bridge
+- Banger
+- France
+- court of appeals
+- Jacksonville
+- checkpoint
+- poison
+- district courts
+- States
+- City of Chicago
+- United States
+- United
+- high school
+- Court
+- bankruptcy
+- New York
+- Aramco
+- Thailand
+- Federal court
+- New Jersey
+- London
+- Australia
+- VA
+- Dabit
+- checkpoints
+- Shoe Stores
+- grade school
+- Brooklyn Bridge
+- school
+- headquarters
+- New Haven
+- pool
+- city
+- Miami
+- Hartford
+- KATYAL
+- Brooklyn
+- bankruptcy court
+- Germany
+- fire department
+- Bank
+- United Kingdom
+- Underwood
+- Circuit
+- Florida
+- Courts
+- HAMILTON
+- case
+@ list PersonType = 
+- holder
+- judge
+- district
+- CEO
+- defendant
+- Chief Justice
+- PETITIONERS
+- respondent
+- plaintiffs
+- American
+- Court
+- private
+- lawyer
+- JUSTICE
+- JUSTICE KENNEDY
+- Americans
+- firefighters
+- payee
+- RESPONDENT
+- investor
+- members
+- debtor
+- creditor
+- head
+- CHIEF
+- Respondent
+- representative payee
+- African-American
+- creditors
+- Official
+- scienter
+- plaintiff
+- citizens
+- government lawyer
+- reporter
+- trustee
+- beneficiaries
+- qualified
+- applicant
+- firefighter
+- judges
+- brokers
+- client
+- African-Americans
+- beneficiary
+- JUSTICE SCALIA
+- employers
+- recipient
+- JUSTICE GINSBURGH
+- forward
+- JUSTICE BREYER
+- JUSTICE ALITO
+- expert
+- agents
+- experts
+- debtors
+- employer
+- citizen
+- attorney
+- employee
+- foreigner
+- masterminds
+- colleague
+- French
+- clients
+- Petitioner
+- JUSTICE SOTOMAYOR
+- issuers
+- purchasers
+- Australian
+- claimant
+- CHIEF JUSTICE
+- bankrupt
+- ADR holders
+- SOTOMAYOR
+- attorneys
+- title holder
+- counsel
+- Veterans
+- clerk
+- Australians
+- bankruptcy judge
+- friend
+- disabled
+- parent
+- cook
+- attorneys
+- broker
+- applicants
+- psychologist
+- foreign
+- Petitioners
+- candidates
+- investment bankers
+- friends
+- investors
+- JUSTICE STEVENS
+- graduates
+@ list Quantity = 
+- sixth
+- one billion
+- two
+- One
+- six
+- a third
+- Forty-six percent
+- four
+- one
+- Two
+- three
+- Fifty-four
+- dollars
+- percent
+- Second
+- degree
+- all one
+- seventh
+- one in
+- two-tenths
+- one-third
+- first
+- First
+- years old
+- third
+- age
+- second
+- nine
+- bit
+@ list Organization = 
+- Australian bank
+- National Australia Bank
+- Ninth Circuit
+- Blue
+- Department of Justice
+- Social Security
+- Treasury Department
+- Eighth Circuit
+- Toronto Stock Exchange
+- Court of Veterans Appeal
+- Were
+- JUSTICE GINSBURG
+- National
+- EAJA
+- Im
+- JUSTICE SCALIA
+- RICO
+- court of appeals
+- Judge Friendly
+- Department of Treasury
+- United
+- Court
+- Leasco
+- Social
+- FTAIA
+- National Security Exchange
+- Aramco
+- JUSTICE BREYER
+- EEOC
+- JUSTICE ALITO
+- PSLRA
+- Australia Bank
+- BAPCPA
+- Microsoft
+- IRS
+- Seventh Circuit
+- Ill
+- Equal Access to Justice
+- JUSTICE
+- MR
+- EAGA
+- National Australia
+- Id
+- SEC
+- Novagold
+- Congress
+- Friendly
+- Second Circuit
+- New York Stock Exchange
+- Swiss government
+- Treasury
+- MS
+- AT&T
+- JUSTICE SOTOMAYOR
+- Banks
+@ list Person = 
+- Shay
+- JAMES D
+- JOHN A
+- Roberts
+- JUSTICE GINSBURG
+- ROBERTS
+- Ratliff
+- Leasco
+- Aramco
+- Gisbrecht
+- Jones
+- JUSTICE
+- Boureslan
+- JUSTICE KENNEDY
+- Sotomayor
+- HARRINGTON
+- Payton
+- Berger
+- CONWAY, III
+- Filardo
+- Yang
+- Ricci
+- Stephanie Lanning
+- SARAH HARRINGTON
+- YANG
+- Pierce
+- Anderson
+- THOMAS A
+- GINSBURG
+- MATTHEW D
+- KATYAL
+- Underwood
+- PAYTON
+- Stevens
+- Wolfson
+- Kennedy
+- Plant
+- Sinochem
+- JUSTICE SCALIA
+- Katyal
+- Ledbetter
+- ALITO
+- Solomon
+- JUSTICE BREYER
+- THOMAS C
+- Morrison
+- KAYTAL
+- Betsy
+- Harrington
+- Scalia
+- ANTHONY YANG
+- Beale
+- DUBBS
+- Griggs
+- Satterlee
+- Sachs
+- SOLOMON
+- SCALIA
+- NEAL K
+- Goldstein
+- Betsy Rule
+- Judge Friendly
+- SOTOMAYOR
+- GOLDSTEIN
+- Dubbs
+- GEORGE T
+- Saul Steinberg
+- Breyer
+- CONWAY
+- Conway
+- Alito
+- Leach
+- Ginsburg
+- LEACH
+- Barnhart
+- JUSTICE STEVENS
+- BENNA RUTH SOLOMON
+- HAMILTON
+- Schmidt
+@ list Skill = 
+- foreign transactions
+- implementing
+- selling
+- commerce
+- general practice
+- securities law
+- foreclosure
+- legislating
+- investment
+- filing
+- Empagran
+- collections
+- petition
+- training
+- legal advice
+- payment
+- offset
+- public enforcement
+- inflation
+- Social Security
+- economic
+- test
+- project
+- calculations
+- offsetting
+- frame
+- -confirmation
+- projecting
+- government
+- articulate
+- market regulation
+- financial management
+- export
+- data
+- employment
+- determining
+- mechanical
+- charging
+- deferral
+- discovery
+- hiring
+- Discovery
+- statistics
+- legal
+- Good faith
+- justice
+- Security
+- litigating
+- language
+- compliance
+- French
+- cognitive
+- impact
+- binding
+- security
+- estimate
+- repayment plan
+- causation
+- checkpoint
+- prosecution
+- test results
+- rank
+- promotion
+- code
+- Honor
+- litigation
+- strategic filing
+- ADR
+- compilation
+- speculation
+- pleading
+- rebuttal
+- budget plan
+- calculation
+- interstate commerce
+- construction
+- law
+- derivatives
+- economy
+- representation
+- tax
+- confirmation
+- cert petition
+- Foreign
+- policy
+- processing
+@ list Product = 
+- Chip Stamps
+- candy
+- suit
+- doors
+- poison candy
+- GOLDSTEIN
+- wheel
+- engine
+- boilerplate
+- portfolio
+- PC
+- car
+- fish
+- disk
+- oil
+- briefs
+- home
+- window
+- boiler
+@ list DateTime = 
+- the end of the day
+- one
+- now
+- may
+- a year later
+- daily
+- previous  months
+- five years
+- more than a decade
+- each week
+- a second
+- monthly
+- the summer
+- Now
+- previously
+- January
+- today
+- two months
+- Right now
+@ list Event = 
+- lawsuit
+- hearing
+- buyout
+- foreclosure
+- foreclosure proceedings
+- Fire
+- litigation
+- class
+- race
+- trial
+- exam
+- confirmation hearing
+- fallout
+- test
+- practice
+- Hartford Fire
+
+
+@ speech:phoneticlexicon
+- cat/k ae t
+- cat/f i l ai n
+
+# SomeTrainingSentence
+- about {@Location}
+- {@PersonType} {@Person}: Well, wouldn't your {@PersonType}s have an adequate remedy under {@Location}n {@Skill} in
+- {@Location}, in the {@Location}n {@Location} system? {@Organization}
+- {@Person}: We might or we might not
+- But that is not determinative
+- {@PersonType} {@Person}: that they do not
+- Let's assume that on the facts of this {@Location} they could not prevail under {@Location}n {@Skill} in
+- the {@Location}n {@Location} system
+- Then what {@Location} {@Location} {@Organization}
+- {@Person}: {@PersonType} {@Person}: -- that should override that? {@Organization}
+- {@Person}: There is a strong {@Location} {@Location} interest
+- It's on {@Quantity} levels
+- The {@Quantity} strong {@Location} {@Location} -- {@Location} {@Location} interest deals with the conduct
+- at issue here, namely the conduct in {@Location} by
+- HomeSide
+- This was the {@Quantity} largest mortg{@Quantity} service provider in the {@Location} {@Location}
+- {@PersonType} {@Person}: If we had only HomeSide's conduct, nothing else, there wouldn't be any violation
+- of (b); is that right? {@Organization}
+- {@Person}: We do not agree with that, Your {@Skill}
+- We believe that they made a {@Skill} by
+- creating the false numbers, or otherwise it's within the
+- scope of the statute
+- What they did is create a {@PersonType} {@Person}: But nothing has happened
+- Suppose it had been caught by the {@Location}n {@Location}, and
+- they didn't act on it? {@Organization}
+- {@Person}: Your -- Your {@Skill}, that goes to a different element of the cause of action
+- That doesn't go to the scope of the statute
+- That goes to how the {@PersonType} cause of action is enforced
+- {@PersonType} {@Person}: {@DateTime}, I concede your argument that a big comp{@Quantity}nt of this fraud was what
+- went on in {@Location}, but it needed to be disclosed to the
+- public
+- It needed to be put out there
+- And that wasn't d{@Quantity} in {@Location} by the {@Location} {@PersonType}s
+- {@Organization}
+- {@Person}: It was d{@Quantity} in {@Location} and we can prove that
+- And -- the point is we are not -- all we are proving through doing that is the effects of the
+- fraud in {@Location}
+- To use Professor {@Person}'s {@Event}ple, where you have {@Location} {@Product} in {@Quantity} jurisdiction, that
+- {@Location} {@Product} is sent to another jurisdiction, and in the
+- {@Quantity} jurisdiction there is a {@Skill} that says "thou shalt
+- not make {@Location} {@Product};" through the exercise of
+- legislative jurisdiction that statute in the {@Quantity}
+- jurisdiction is appropriate, and both jurisdictions have
+- an interest in that
+- {@DateTime}, if we are in the {@Location} {@Product} jurisdiction and we are bringing a {@Location} about {@Location}
+- {@Product}, if the statute in addition says, "you have to
+- show some harm from the {@Location} {@Product}," indeed you might
+- as a matter of proof have to show effects from that
+- other forum
+- But that's different than regulating conduct in the {@Quantity} forum or anything else in the
+- {@Quantity} forum
+- That is simply looking at the statute or the {@Skill} prescription against making {@Location} {@Product}
+- And we say section (b) is like the {@Location} {@Product} statute
+- {@PersonType} {@Person}: {@PersonType} BREYER: {@DateTime}, that's -- I would like you to follow that up specifically
+- That is, in my mind the difficult issue in this {@Location} is not the
+- jurisdictional issue under principles of international
+- {@Skill}
+- It's the question of the scope of the statute
+- And there the things against you are {@Quantity}
+- {@Quantity} is Professor {@Person}'s argument, which I would like to k{@DateTime}
+- your answer to
+- The {@Quantity} is in {@Organization}'s {@Quantity} opinions
+- The {@Quantity} opinion -- the {@Quantity} {@Quantity}, rather, Bersch, he says if you had a {@PersonType} exchange and
+- {@PersonType} {@PersonType} as -- and there was no {@PersonType}
+- {@PersonType}, the {@Skill} issued over a {@PersonType} exchange,
+- even if that fraud takes place totally in the {@Location}
+- {@Location}, the statute wouldn't cover it
+- That's {@Organization}, which started this
+- And the {@Quantity} thing is what he says in {@Organization}
+- He says: We cannot see any sound reason for not taking your position, at least for the {@PersonType}
+- who are {@PersonType}s
+- Okay? {@DateTime}, {@Location}, Britain and {@Location} have filed {@Product} in this {@Location} giving what they consider very
+- sound reasons, which are reasons that {@Organization}
+- never considered
+- And those {@Quantity} reasons, as we k{@DateTime}, is they point to a number of conflicts, that if you win,
+- how that will interfere with their efforts to regulate
+- their own securities markets, right? That's all {@Quantity} question: Professor {@Person}, {@Organization} in Bersch, and {@Organization} in {@Organization}
+- But that's what I'd like to hear your answer to
+- {@Organization}
+- {@Person}: I will try to keep the subparts in mind
+- Why don't we start from the end and try to work backwards
+- Perhaps {@Quantity} of the most important parts of the record is the Solicitor General's view that as a
+- general matter -- and I will get to the specifics; I'm
+- not ducking that
+- But as a general matter the enforcement of the {@Skill}s, unlike the antitrust
+- {@Skill}s, has not historically and {@DateTime} they do not believe
+- runs -- raises a substantial risk of interstate
+- conflict
+- {@DateTime}, as to the specific {@Product} that Your {@Skill} referenced, if we look at those {@Product} and we look
+- at those compared to what happened in {@Location} {@Event},
+- those {@Product} -- and let's focus on {@Location}'s for the
+- moment because that's the country we are talking about
+- {@Location}'s brief essentially says they have a
+- regulatory system that {@DateTime} -- that we {@DateTime} or {@DateTime} not
+- have been able to litigate this cause of action in
+- {@Location}, but let's assume that we could
+- They are not saying -- they did not say in that brief that there was some fundamental conflict,
+- like the plurality found in {@Location} {@Event}; nor did they
+- say that there was the kind of conflict that comes up in
+- the application of (h) of the Restatement, which
+- Justice {@Person} looked to in his opinion in {@Location}
+- {@Event}
+- So there is not the kind of conflict that leads necessarily -- necessarily -- to not reasonably applying
+- the statute
+- The reason there's not is that because, {@Quantity}, there is not a rule in {@Location} that {@Quantity} has to abide
+- by and a rule in the {@Location} {@Location} that {@Quantity} has to abide
+- by that are contradictory
+- At most, what you have is you have a clear rule in the {@Location} {@Location} that says
+- thou shalt not commit fraud in {@Location} through either
+- the {@Location} through either -- for or in interstate
+- {@Skill}, the mails or through an exchange
+- And on the other side of the equation what you have is {@DateTime}be they
+- could have brought {@Product} over here and we have a robust
+- regulatory system and a robust {@Skill} system; more
+- power to them
+- But that doesn't mean -- saying that, that doesn't mean that the {@Quantity} State where the {@Location} {@Product}
+- was made suddenly has no interest in that
+- {@PersonType} {@Person}: Well, but -- but {@Location} says: Look, it's up to us to decide whether there has been a mis{@Skill}, point {@Quantity}; and whether it's
+- been relied upon by the -- by the {@PersonType}, point {@Quantity}
+- And we should be able to decide that and we don't want
+- it decided by a {@PersonType} {@Location}
+- You are talking about a mis{@Skill}, if there was {@Quantity} in this {@Location}, made in {@Location} to
+- {@Location}n {@PersonType}; it ought to be up to us to decide
+- that issue; and here you are dragging the {@PersonType}
+- {@Location} into it
+- {@Organization}
+- {@Person}: Well, let me deal with the dragging in part in a minute, because that's
+- subliminally very important to the {@Location}
+- But let me address the direct question
+- He
+- {@Location}ns {@DateTime} believe that, but the question is was
+- there a mis{@Skill} both in the {@Location} {@Location} and
+- possibly in {@Location}? If there was in {@Location}, that's for the {@Location}ns
+- That's dealing with the effects of eating the {@Location} {@Product}
+- But we say a {@PersonType} {@Person}: Not to these {@PersonType}
+- {@Organization}
+- {@Person}: {@PersonType} {@Person}: You -- you have to join the mis{@Skill} to the {@PersonType}
+- {@Organization}
+- {@Person}: {@PersonType} {@Person}: The only mis{@Skill} to these {@PersonType} was made in {@Location} by an
+- {@Location}n company
+- {@Organization}
+- {@Person}: There are {@Quantity} ways to connect the fraud to the {@PersonType}
+- The {@Quantity} is the "in connection with" requirement that deals with conduct,
+- which we meet, and this {@Location} has construed very broadly
+- in {@Location}, in Zandford and any other number of {@Location}s
+- That's number {@Quantity}
+- Number {@Quantity}, assuming that the scope of the statute is broad enough to cover the conduct in {@Location},
+- we then get to the {@Quantity} question, which is the
+- reasonableness of the application of the statute, and
+- without a conflict, we would then look at -- to the
+- interest of the {@Location} {@Location} and compare them to the
+- {@Location}ns
+- And the {@Location}ns can say, we can -- you k{@DateTime}, we can go after eating that {@Location} {@Product}
+- And we say, fine, if you want to, that's great
+- But that doesn't mean we can't go after the act of {@Location}ing the
+- {@Product} in {@Location}
+- {@PersonType} {@Person}: But that -- that isn't the issue
+- The -- the -- the issue for the {@Location}ns is: We want to determine whether there has been a
+- mis{@Skill} or not
+- {@Organization}
+- {@Person}: {@PersonType} {@Person}: We don't want the determination of whether there has been a
+- mis{@Skill} on the {@Location}n exchange and whether
+- {@Location}n {@PersonType} relied upon that mis{@Skill}
+- to be determined by an {@PersonType} {@Location}
+- {@Organization}
+- {@Person}: And we say more power to you, you can decide that question
+- {@PersonType} {@Person}: Not if it's decided here, unless you want to say, the {@Location}n {@Location} to say, the
+- {@Location} {@Location} taking this {@Location} is so outr{@Quantity}ous that we
+- will not respect its judgment
+- And that's a factor, too
+- It's -- what conflict of {@Skill}s is all about is you have {@Quantity} jurisdictions, both with an interest in
+- applying their own {@Skill}, but sometimes {@Quantity} defers to the
+- other
+- {@Organization}
+- {@Person}: That's correct, Your {@Skill}
+- And the question is should there be {@Skill} in this {@Location}
+- And we say if you apply the standards of -- of {@Location}
+- {@Event} or the standards of the Restatement, you don't end
+- up in {@Skill}
+- You end up in {@Skill} of the Section (b) cause of action in {@Location}
+- And you do that for a couple of different reasons
+- {@Quantity}, you look at the magnitude of the conduct in {@Location}, the size of this
+- This is a $
+- billion writedown in a {@Product}
+- You have a {@Product} of $ billion worth of mortg{@Quantity}s sitting
+- down in {@Location}, {@Location}
+- Those are all mortg{@Quantity}s on {@PersonType} {@Product}s,  million {@PersonType} {@Product}s
+- So, this is not just {@Location}, {@Location}, {@Location}
+- That's what's in the {@Product} and that's what's being
+- misrepresented
+- And when they doctor the numbers and send them to {@Location}, it's a mis{@Skill} of
+- that
+- In addition, you have the overarching consideration of is it appropriate to sue {@Organization}
+- {@Location} {@Location} in the {@Location} {@Location} at -- at a -- at a
+- more abstract level? And the answer to that, we submit, is yes
+- They have invested -- if you {@Product}e to look, it's on the SA- and SA- of the supplemental appendix,
+- they have invest -- they have $ billion worth of
+- assets here
+- They own a {@Location} in Michigan, they have a huge trading operation on Park Avenue that trades
+- billions of {@Quantity} in {@Skill} every day
+- This is not the situation -- this is not the stereotype of a
+- {@PersonType} {@PersonType} {@Person}: Those {@Skill} are not at issue here, right? {@Organization}
+- {@Person}: {@PersonType} {@PersonType} {@Person}: I presume -- I'm sorry, go a{@PersonType}
+- {@Organization}
+- {@Person}: They are only at issue in the following sense, which is that the position on the
+- mortg{@Quantity} servicing rights was hedged in {@Location}
+- When the hedge came und{@Quantity}, there were losses in {@Location} on
+- the other side of the hedge
+- That goes to the point of were there any affects in the {@Location} {@Location}, because
+- there seems to be some confusion on that
+- There were some effects here from the hedge
+- There were some effects on -- in the {@Skill} market, but we are not -- we
+- {@PersonType} {@Person}: {@Organization}
+- {@Person}: -- disputing that most of the effects were over there
+- {@PersonType} {@Person}: Mr
+- {@Person}, {@Person}, the
+- {@Quantity}-named {@PersonType}, was a derivative {@PersonType}
+- {@Organization}
+- {@Person}: No, Your {@Skill}
+- He was the {@PersonType} of an {@Skill}
+- The {@Skill} come in because they are the activity in {@Location} that is the other side of
+- the transaction
+- {@PersonType} {@Person}: But do you have -- you have {@Quantity} {@Event}es of {@PersonType}, {@Quantity} the {@Location}ns, who
+- bought their shares in {@Location}; then you have
+- {@Person}, who has an {@Skill}, and who is dismissed because
+- he wasn't able to show dam{@Quantity}s
+- {@Organization}
+- {@Person}: That's true
+- There -- there are no {@PersonType}s left
+- This is strictly {@Location}ns
+- {@PersonType} {@Person}: So what U
+- {@PersonType} was harmed? {@Organization}
+- {@Person}: The -- the question is, were there effects on the U
+- market? There were U
+- {@PersonType}s who were, in all likelihood, harmed but n{@Quantity}
+- have stepped {@PersonType} with respect to {@Skill} {@PersonType}s
+- But if the question in the abstract is were there {@Skill}
+- effects from this transaction in the {@Location} {@Location}, the
+- answer is -- is yes, there were {@Event} from -- on -- on
+- the derivative side, which is the other side -- which
+- was the other side, in effect, the short side of what
+- the long position was, which was $ billion worth of
+- mortg{@Quantity}s in {@Location} that what is -- what the {@Product}
+- consisted of
+- {@PersonType} BREYER: What do you -- do you want to finish? {@Organization}
+- {@Person}: No, Your {@Skill}
+- {@PersonType} BREYER: Then -- I mean, I can see
+- I will give you all that
+- That isn't what is bothering me
+- I think you are right so far as what you have argued
+- But the part that I think is most difficult is why I -- I shorthand referred to Professor {@Person}'
+- article
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: Because what {@Location} is actually saying is what we don't like about -- about the
+- {@PersonType} system, you k{@DateTime}, their -- their common
+- criticisms of {@Event} actions
+- We say, {@Quantity} of all, the {@PersonType} rule means even if our companies here are
+- right, that they are going to have to pay their {@Skill}
+- fees
+- We don't like punitive dam{@Quantity}s
+- We don't like that we have the opt-out
+- And these are all our {@PersonType}, and we don't want to subject our companies on
+- our exchange to that stuff
+- {@DateTime}, fine, they have a reason on their side
+- Then Professor {@Person} says: Read the statute, because they argue -- it was never intended to cover that kind
+- of stuff
+- {@DateTime}, that's what I would like you to address
+- specifically
+- {@Organization}
+- {@Person}: Well, it was -- there are {@Quantity} issues
+- The statute was intended to cover that kind of stuff if the antecedent of "stuff" is fraud in {@Location}
+- {@DateTime}, that's a separate question from how we deal with
+- the {@PersonType} right of action in these circumstances
+- {@DateTime}, let's back up
+- The general criticism of these {@Location}s is that they are gotcha {@Location}s
+- You put in a little {@Quantity} and all of a sudden the {@PersonType} bar
+- comes and attacks you
+- I mean, that's the stereotype
+- Well, the stereotype is wrong and it's important to
+- understand why the stereotype is wrong
+- Because if all you have is a very modest {@Skill} in the {@Skill} market,
+- {@Quantity} like my {@PersonType}s from NAB, those {@Location}s get
+- bounced at the beginning on personal jurisdiction as
+- they did in the {@Location} of {@Location} in SCORS and the
+- {@Organization} {@Location}
+- We are not aware of any {@Location} where if all you've got is that little toehold that you stay in
+- You get bounced by -- on personal jurisdiction
+- And to pick up on the discussion that I was having with Justice {@Person}, we thought that in
+- addition to that, if the {@Location} wanted to send signals
+- with respect to these kinds of {@Location}s, if you put, as you
+- can, {@Person} at the beginning of the train, even more
+- of these {@Location}s if they are fallacious are going to be
+- screened out of the system
+- So, the point is that we can all tell our {@Location}n {@PersonType}s that there are very rigid safeguards
+- in place so that this horror story in reality doesn't
+- happen and it has not been proven to happen
+- It is an attractive myth, but it hasn't happened
+- Those {@Location}s go out and they go out early
+- {@PersonType} KENNEDY: I'm not sure that it happens in advance of considerable {@Skill}
+- I -- I --I would agree that the {@PersonType} can confine {@Skill} to
+- forum non conveniens or for personal jurisdiction, but
+- in -- in these {@Location}s {@Quantity} of the things we are really
+- talking about is the burden of {@Skill}
+- That's the cost of {@Skill}
+- You k{@DateTime} that
+- {@Organization}
+- {@Person}: I do k{@DateTime} that and let me answer briefly, because I want to reserve my time for {@Skill}
+- I disagree with your fundamental observation, Justice
+- {@Person}
+- These {@Location}s are paid attention to by the {@Location} {@PersonType}s and they go out early
+- They go out early on personal jurisdiction; there is not a lot of
+- {@Skill} on that
+- They go out early -- if {@Person} gets applied faithfully, it would go out early on that
+- if there is a close question
+- And then you go to the (b)()
+- And pursuant to the Private Securities
+- Litigation Reform Act, {@Quantity} of the purposes of that is no
+- {@Skill}, no {@Skill} until after the motion to
+- dismiss is decided
+- So it is not true that there is a lot of {@Skill}, there is a lot of transaction costs, before
+- we k{@DateTime} the answer to {@Quantity} of the threshold questions,
+- which is: Should this {@Location} be in our system or not? That can be handled and it is being handled on a {@DateTime}
+- basis, notwithstanding, you k{@DateTime}, some stereotypes
+- {@DateTime}, my final point with respect to Professor {@Person}' articles and some of the other articles
+- is they in effect -- if they advocate a rule, which many
+- of them do, which it should be limited to exchanges,
+- that goes back to my threshold point of the scope of the
+- statute
+- And it takes an eraser to the statute and it says: It's only exchanges; it's not in connection with {@PersonType} or interstate {@Skill} or through the mails;
+- it's limited, contrary to the express words of the
+- statute, in a way that the statutory {@Skill} we
+- don't believe can stand it
+- {@DateTime}, there are other legitimate ways of cabining the {@PersonType} cause of action
+- But that -- if you are faithful to the statute, we submit that is not
+- {@Quantity} of them
+- {@PersonType} {@PersonType} {@Person}: Thank you,
+- Mr
+- {@Person}
+- Mr
+- {@Person}
+- ORAL ARGUMENT OF {@Person}
+- {@Person}, ON BEHALF OF THE {@PersonType}S {@Organization}
+- {@Person}: Thank you, Mr
+- {@PersonType}, and {@DateTime} it please the {@Location}: The judgment of the {@Location} of appeals should be affirmed for {@Quantity} reasons
+- {@Quantity}, {@PersonType}s have identified nothing in the text of section (b) that overcomes the
+- presumption against extraterritoriality or the Charming
+- {@Person} Rule
+- The statutes should thus be construed not to apply to transactions and shares of {@PersonType} {@PersonType}
+- on {@PersonType} exchanges
+- {@Quantity}, unlike the rights of action that this {@Location} has addressed in other extraterritoriality
+- {@Location}s, the section (b) right is purely implied
+- {@Organization} didn't intend for this right of action to exist
+- even domestically, let al{@Quantity} extraterritorially
+- Given the threat that the section (b} implied right presents to the sovereign authority of
+- other nations, as reflected in the amicus {@Product} of
+- {@Location}, the {@Location} Kingdom, {@Location}, and the
+- diplomatic note from the {@Organization}, the {@Location}
+- should construe the implied right not to extend to
+- claims of {@PersonType} and sellers of securities of
+- {@PersonType} {@PersonType} on {@PersonType} markets
+- The {@Quantity} clear statement rules are, obviously, the presumption against extraterritoriality
+- and the Charming {@Person} Rule require that the {@Organization}
+- Both require an affirmative intention of the {@Organization}
+- clearly expressed before the statute can be applied to
+- apply to {@PersonType} transactions or to, you k{@DateTime}, matters
+- that it infringes on the sovereign authority on other
+- nations
+- My {@PersonType}s don't identify anything in the statute that comets even close to a clear statement
+- They principally rely on the definition of "interstate
+- {@Skill}," but as this {@Location} said in {@Location}, that kind
+- of {@Product} simply doesn't suffice to overcome the
+- presumption against extraterritoriality
+- {@PersonType} {@Person}: Well, what is your {@Skill} for whether -- whether it's being applied internationally or
+- not? {@Organization}
+- {@Person}: Well, our {@Skill} is that, at a minimum, section b should be held not to apply to
+- transactions involving shares of {@PersonType} issues on
+- {@PersonType} exchanges, because that presents the grea{@Skill}
+- danger of conflict of {@PersonType} {@Skill}, particularly in the
+- context of the modern section b implied right, which
+- has the fraud on the market presumption and holds
+- {@PersonType} liable, as here for {@Event}ple, for {@Quantity} and a half
+- years of trading, all on an {@Location}n exchange
+- That is massive transfer of wealth that the {@PersonType}s here
+- basically, it's a direct form of {@Skill} that
+- {@Location} has not seen fit to impose upon itself
+- {@PersonType} STEVENS: May I ask you on that point: Supposing the {@Event} of {@PersonType} included a group of {@PersonType}s who were share{@PersonType}s of the
+- {@Location}n {@Location} and who -- but who purchased their stock
+- over the {@Location}n exchange
+- {@Organization}
+- {@Person}: We would -- well, we would submit that that rule should be the same
+- That they should -- they should not also, they should not be
+- allowed to sue under section b
+- They -- they -- you k{@DateTime}, those people chose to purchase on the {@Location}n
+- exchange
+- And in terms of the threat to international comity, I think it would be probably take -- I don't
+- think other countries would take nicely to a -- to a
+- rule of {@Skill} that would allow {@PersonType}s, essentially, to
+- bring their rules, their {@Skill}, their remedies, fraud, on
+- {@PersonType} BREYER: Give me reasons for it
+- The strongest {@Quantity} for it, the strongest {@Event}ple against
+- you it seems to me, is {@Organization}'s {@Event}ple
+- {@Person}, a {@PersonType} of {@Location}, flies to {@Location} and
+- meets J{@Quantity}s in the hotel
+- And J{@Quantity}s says, I have a bridge I want to sell you
+- Look out the {@Product}
+- Say, Do you own the {@Location} {@Location}? Yes
+- And that's a lie
+- Here's what you do
+- You invest in buying shares of my company sold on the German exchange
+- Okay? {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: Conduct took place in the {@Location} {@Location}, a terrible fraud
+- This is contrary to fraud and, says, I think, {@Organization} and others, it
+- should apply at least where {@Person} is an {@PersonType}
+- {@PersonType} and Professor {@Person} says no, not even then
+- What do you do with that {@Location}? The fraud took place totally here
+- {@Organization}
+- {@Person}: Well, I disagree with that, Your {@Skill}, I think the fraud is {@Product}ried out when the
+- transaction occurs in a {@PersonType} country
+- But I do agree {@PersonType} BREYER: Sign the paper here in {@Location}
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: Sign the paper, right here, and give me the m{@Quantity}y, because I have an urgent
+- appointment
+- {@Organization}
+- {@Person}: Yes, sir
+- (Laughter
+- ) {@Organization}
+- {@Person}: That's a much different {@Location}, obviously, than the fraud in the market {@Location} that we
+- have here
+- But Your {@Skill}, yes, that is a stronger circumstance
+- {@PersonType} BREYER: Yes, but your position and hers is: That's no more a valid claim than this {@Quantity} or any other {@Quantity} we dream up
+- That's why it's a pure {@Event}ple, and I want to k{@DateTime} how you feel about it
+- {@Organization}
+- {@Person}: Well, I think that -- I think the problem is, in order to have that conduct swept
+- within the statute, you have to ignore the langu{@Quantity} and
+- the presumption against extraterritoriality
+- If you go to {@Skill} appendix , that has its text in section b, and section b refers to the
+- use or {@Skill} of any manipulative device or
+- contrivance, and it's in connection with the purchase or
+- sale of any {@Skill} registered on a national securities
+- exchange
+- {@PersonType} BREYER: Or any other
+- Or -- read the next word
+- {@Organization}
+- {@Person}: That's correct
+- Any {@Skill} not so registered
+- And this {@Location} has held -- it has
+- held in {@Location}s like {@Location}, {@PersonType} Banana, Moritson,
+- that the words "any" and "every," words of universal
+- scope, do not -- do not mean that these -- that
+- something referred to is anything, anywhere else in the
+- world
+- And for {@Event}ple, the {@Location} is small against the {@Location} {@Location}
+- In the {@Location} where the presumption of extraterritoriality didn't really apply the {@Location} held
+- that in a statute, you normally assume that things being
+- referred to are thing in the {@Location} {@Location}
+- {@PersonType} KENNEDY: Is the {@Skill} going to tell us that its {@Skill}, which differs from the {@PersonType}
+- exchange {@Skill}, is based on considerations like those
+- suggested in Justice {@Person}'s {@Location} {@Location}
+- hypothetical? {@Organization}
+- {@Person}: I think they do
+- I think they look to -- I think their view is that the statute is
+- vague and you have to do essentially what {@Organization}
+- did and the Seventh {@Location} did for many years, is you
+- have to make do and decide what the best rule is
+- And with respect to the {@Skill}, that is essentially
+- doing what this {@Location} has said under the presumption
+- against extraterritoriality the {@Location} shouldn't do
+- That's essentially {@Skill}, trying to figure out
+- what {@Organization} would have d{@Quantity}, had "a particular
+- {@PersonType} {@Person}: {@PersonType} KENNEDY: Would the limitations on {@Skill} give you substantial protection were we to
+- adopt the {@Skill}'s {@Skill} or say the {@PersonType} exchange
+- {@Skill} with the subset exceptions for the -- that takes
+- account of the {@Skill}'s {@Skill}? {@Organization}
+- {@Person}: Your {@Skill}, I think the problem with the {@Skill}'s {@Skill} and with the {@Quantity} {@Location}'s
+- {@Skill}, is that it would still allow the application of U
+- {@Skill} in a manner that would infringe the sovereign authority of other nations
+- And I can give an {@Event}ple
+- There was a {@Location} over {@DateTime} that the {@PersonType}s attached to their
+- {@Quantity} supplemental brief on the {@Skill} for certiorari
+- And it's a {@Location} called {@Product} shifts
+- And it's an interesting {@Location} because it involved a Canadian company
+- with {@Location} in Britain and most of whose shares
+- traded on the {@Organization}
+- And what happened there was that the {@PersonType} spent time in {@Location} -- it was a shipping company
+- We spent time in, {@Location} running the show from {@Location}
+- And the {@Location} of appeals for the Eleventh {@Location}, in a
+- ruling that it held was consistent with the {@Quantity}
+- {@Location} decision in this {@Location} held that n{@Quantity}theless, the
+- application of U
+- {@Skill} could be applied to transactions
+- of -- of {@PersonType} {@PersonType} on the Toronto Stock
+- Exchange
+- {@PersonType} KENNEDY: Is it a consideration that {@Organization}
+- {@Person}: Yes, {@Skill} al{@Quantity}
+- Yes, Your {@Skill}
+- {@Skill} al{@Quantity}
+- I think the {@PersonType} brief, for {@Event}ple, points that out
+- I think a number of the brief -- there have been blocking statutes that have
+- been enacted by various countries because of the -- what
+- they deem to be the offensive scope of {@Skill}
+- In {@Location}, you are really only allowed to obtain evidence
+- that is actually admissible in {@Event}
+- {@PersonType} {@Person}: I'm not sure how you interpret the langu{@Quantity} that you -- that you just read,
+- when you say to use or employ in connection with the
+- purchase or sale of any {@Skill} registered on the
+- {@Organization} {@Skill} Exchange or any {@Skill} not so
+- registered
+- {@DateTime}, is it your point that in order to avoid an international extension of it, it should apply only
+- to securities? What? {@Organization}
+- {@Person}: {@PersonType} {@Person}: Securities purchased and sold in the {@Location} {@Location}? Is that it? {@Organization}
+- {@Person}: That -- that's correct, Your
+- {@Skill}
+- I think that's a fair reading of the statute
+- And this {@Location} is required, under both the presumption
+- against extraterritoriality under its decision and the
+- Charming {@Person} Rule to interpret a statute, take the
+- permissible {@Skill} of the statute that is least
+- likely to result in an extraterritorial of the {@Skill}
+- {@PersonType} {@Person}: Purchased -- purchased or sold? {@Organization}
+- {@Person}: Purposed or sold, Your {@Skill}
+- {@PersonType} {@Person}: What if it's not -- what if it -- what if the fraud produces neither a purchase or a
+- sale but induces somebody to hold on to stock that
+- otherwise the person would dispose of? {@Organization}
+- {@Person}: Well, I -- I don't k{@DateTime} that that would state a claim, a {@PersonType} claim under {@Organization}
+- {@Product}
+- And any -- and if the share or the securities are held abroad, if it's a {@PersonType} {@Skill},
+- and I think the liability in that hypothetical -- I'm
+- assuming that if it's a {@PersonType} {@Skill} held by a
+- {@PersonType} -- that really would be something that would
+- be subject to {@PersonType} {@Skill}, whether or not {@Location}
+- wants to represent -- recognize {@PersonType} claims of the
+- sort that this {@Location} rejected in {@Organization} {@Product}
+- That's a question for {@Location} to decide
+- {@PersonType} {@PersonType} {@Person}: Under these same
+- facts if you had -- altering according to the
+- hypothetical, you had U
+- {@PersonType} who purchased
+- {@Organization} {@Location} {@Location} {@Skill}s on the {@Location} exchange,
+- you don't doubt that they can sue, do you? {@Organization}
+- {@Person}: No, and in fact, we told the {@Location} {@Location}, we did not move to defense on
+- extraterritoriality grounds the claims of Mr
+- {@Person},
+- who inexplicably is still here
+- {@PersonType} {@PersonType} {@Person}: Right
+- {@Organization}
+- {@Person}: We argued that Mr
+- {@Person}'s claims should be defeated on the grounds that he had no
+- dam{@Quantity}s, which was an absolutely ironclad {@Skill}
+- best based on a -- on a provision of the {@Organization}, and we
+- also argued that all of the claims should be dismissed
+- for failure to plead fraud with the requisite
+- particularity of the {@Organization}
+- But we certainly do not dispute that when a company like ours registers shares on -- registers
+- shares with the {@Organization}, {@Skill}s with its {@Organization} and lists them on
+- a {@Location} stock exchange, it's subjecting itself to New
+- {@PersonType} {@PersonType} {@Person}: And presumably that would impose the same {@Skill} on the {@Location} as the
+- Sudanese {@Location}
+- {@Organization}
+- {@Person}: It could, Your {@Skill}, that's
+- absolutely true
+- But on the other hand, I mean, a lot of the other aspects of -- of this {@Skill}, which
+- this {@Location} has, you k{@DateTime}, noted that is potentially
+- highly vexatious, I mean, that is only
+- {@Quantity} of
+- the flow -- of the total equity securities of the -- the
+- {@Organization} {@Location} {@Location}
+- So the dangers of -- of a threat of -- of coerced settlements is much, much less
+- It's a much, much easier {@Location} to deal with if -- if -- if you are only dealing with the {@Skill}s
+- {@DateTime} if another company decides to list half its equity on
+- the {@Location} Stock Exchange, well, it can -- it makes
+- the determination for itself, how much of this kind of
+- {@Skill} it wants to subject itself to
+- {@PersonType} KENNEDY: Suppose there were {@Skill} with substantial allegations of wire fraud
+- violations as predicate for {@Location} violations, and the
+- {@Location} begins to proceed, and then there is a {@Quantity} cause
+- of action under the {@Skill}
+- Would -- would the fact that there is going to be {@Skill} and substantial
+- {@Skill} in the -- in the {@Location} {@Location} {@Location} be a
+- factor in retaining the -- the securities violation in
+- this {@Product}? Or would the {@Skill} be just the same in your view? {@Organization}
+- {@Person}: I think the -- I think you have to take each statute separately
+- You have to look at
+- what the langu{@Quantity} of the statute says, whether it -- it
+- admits fault in an extraterritorial reading, and whether
+- that -- f{@Skill}ly whether that extraterritorial reading is
+- required or compelled
+- If there is any other possible {@Skill}, as the {@Location} said in -- in Charming {@Person},
+- the {@Location} is required to accept that {@Skill},
+- accept the {@Skill} that doesn't result in
+- {@PersonType} {@Person}: On the -- on the extraterritorial presumption against it, your {@PersonType}
+- on the other side tells us that in all the {@Location}s where
+- the presumption applied, all of the conduct was
+- someplace else, and they give the {@Location} {@Location} and say
+- {@Organization}
+- {@Person}: {@PersonType} {@Person}: -- and everything happened outside the country
+- {@Organization}
+- {@Person}: {@PersonType} {@Person}: Here, I mean, you have to concede that a comp{@Quantity}nt of the alleged fraud occurred
+- in {@Location}
+- {@Organization}
+- {@Person}: We do concede that some of the conduct that ultimately, you k{@DateTime}, led -- in a but-for
+- causal relationship to what happened in the {@Location}
+- occurred in the {@Location} {@Location}, but that's true in a lot
+- of other {@Location}s
+- For {@Event}ple, {@Location}, Mr
+- {@Person} was hired in Houston
+- So was the {@PersonType} in Foley Brothers v
+- {@Person}
+- And in {@Organization} v
+- {@Organization}, basically all of the conduct, the relevant conduct was in the {@Location} {@Location},
+- because what the -- what section (f) proscribed in
+- {@Organization} was the shipment -- the supply in or from the
+- {@Location} {@Location} of a comp{@Quantity}nt of a patented invention
+- And what this {@Location} held in {@Organization} was that notwithstanding {@Organization}'s argument that, "Hey, the
+- presumption against extraterritoriality doesn't really
+- apply because this is just regulating the supply in and
+- from the {@Location} {@Location}," this {@Location} held that the
+- presumption against extraterritoriality applied because
+- what would happen is, a single act of supply would
+- result in a springboard for liability each time a -- a
+- {@Product} was put into a computer abroad
+- And that is exactly analogous to the circumstances in this {@Location}, where what we -- what
+- happened was some -- some allegedly false information
+- was transmitted to {@Location}; it was then republished in
+- allegedly, as they would have it -- resulted in
+- purchased a share of stock of the {@Organization} {@Location}
+- {@Location} on the {@Location}n securities exchange
+- And so that is exactly analogous to -- to {@Organization} v
+- {@Organization}
+- Again, another point I think that's relevant is the, section  of the Exchange Act
+- {@Organization} did not make a clear statement in section
+- It did make clear statements in section
+- Section (a) addresses transactions on {@PersonType} exchanges
+- Section  as a whole is entitled {@Skill} Exchanges, and section (a)
+- makes it -- makes -- gives the {@Organization} power to promulgate
+- regulations that -- that apply to {@PersonType} and dealers
+- who effect transactions of securities on {@PersonType}
+- exchanges, if those transactions are transactions of
+- shares of shares of U
+- {@PersonType}
+- And that's at -- for reference, the text of section  is at p{@Quantity}  of the {@Skill} professors' brief
+- And section (b) also, it says that the {@Organization} can
+- of businesses -- securities that are abroad, but only to
+- the extent the {@Organization} finds it necessary to prevent evasion
+- of the Act domestically
+- And so {@Organization} made {@Quantity} clear statements in section
+- It did not make any clear statement in section
+- {@PersonType} {@Person}: Well, is that your only point? Or is your point also that you wouldn't need
+- {@Organization}
+- {@Person}: {@PersonType} {@Person}: -- were read as broadly
+- {@Organization}
+- {@Person}: That's absolutely right
+- The reading -- my {@PersonType}'s reading of section  would
+- render section (b) -- I mean the reading of section
+- (b) would render section  superfluous
+- And there are other provisions of -- that are in the Exchange Act
+- where {@Organization} has made clear statements to show that it
+- can make clear statements
+- Section A which immediately follows section , is the {@Skill} Corrupt
+- Practices Act
+- So {@Organization} -- if {@Organization} -- if there is a loophole, and that's what this {@Location} said in {@Organization} v
+- {@Organization}; if there is some kind of loophole that presents some kind of a problem, that {@Organization} needs to fix,
+- {@Organization} can do it
+- {@Organization} can do it with a clear statement
+- In sum, Your {@Skill}s, countries -- nations of the world do things differently
+- They -- they -- they have different rules of liability
+- We see in the amicus {@Product} different rules of materiality, different rules
+- of disclosure
+- And some rely on -- on {@Skill} more than others
+- The {@PersonType} rely on l'action publique, as
+- they say; and some nations approach ours in their
+- generosity to {@PersonType}
+- {@Location} allows opt-out {@Event} actions; so does {@Location}
+- {@Location} allows opt-out {@Event} actions; it dispenses with, for {@Event}ple, the proof
+- of reliance, it dispenses with {@PersonType} in some {@Location}s
+- Yet it -- it does all that, but it restricts liability
+- {@PersonType} BREYER: How does it hurt the other countries if what we would say on their reading of this
+- is, {@Organization} has said, "Look, if some terribly bad
+- conduct happens in the {@Location} {@Location}; they lie through
+- their teeth; and you, whoever you are in the world, who
+- buys some shares and as a result you are hurt, we will
+- give you a remedy
+- Come to us" -- {@DateTime}, how does that hurt {@Location}? {@Organization}
+- {@Person}: {@PersonType} BREYER: Or {@Location} or England or any of these others? {@Organization}
+- {@Person}: Exactly the same way this {@Location} said it hurts in {@Skill}
+- In {@Skill} this {@Location} noted that -- that a reading of the rule that would allow -- a
+- reading of the {@Organization} that would have allowed {@PersonType}
+- {@PersonType} to come and sue for -- for {@PersonType} vitamins
+- transaction in a {@PersonType} country would essentially allow
+- {@PersonType} to avoid the -- the narrower rules of the
+- liability and the narrower remedies that other nations
+- provide
+- And that is exactly true here, where, you k{@DateTime}, for {@Event}ple, {@Location} does not permit
+- fraud-on-the-market {@Event} actions
+- it doesn't recognize the fraud-on-the-market
+- presumption
+- And as I said, for {@Event}ple, {@Location} restricts these actions, it has generous liability rules and
+- allows opt-out {@Event} actions, but it says -- it caps
+- dam{@Quantity}s at  {@Quantity} of an issuer's market
+- capitalization or $ million, whichever is greater
+- And so that's the -- that is the problem
+- It's not just substance but it's remedy
+- Other nations want to do things in different ways; they should be
+- allowed to
+- What is going on here is essentially a --Brandeising -- experiment a global scale
+- And that's a good thing
+- It's a good thing because it enables countries to {@PersonType} for themselves what kind of rules
+- they want to have for people who buy shares on their own
+- exchanges
+- And to apply section (b) it {@Location}s like this would cut that experiment short
+- It would amount to exactly the soft of {@Skill} imperialism that this {@Location}
+- rejected, rightly, in {@Skill}
+- The {@Location} should reject it here as well and it should affirm the judgment of the
+- {@Location} of appeals
+- I thank you
+- {@PersonType} {@PersonType} {@Person}: Thank you, Mr
+- {@Person}
+- Mr
+- {@Person}
+- ORAL ARGUMENT OF {@Person}
+- {@Person}, ON BEHALF OF THE UNITED STATES, AS AMICUS CURIE, SUPPORTING THE {@PersonType}S {@Organization}
+- {@Person}: Mr
+- {@PersonType}, and {@DateTime} it please the {@Location}: This {@Location} presents {@Quantity} distinct questions: {@Quantity} whether the fraud alleged by {@PersonType}s violated
+- Section b; and {@Quantity}, whether {@PersonType}s {@DateTime} bring a
+- {@PersonType} action
+- In our view, the alleged fraud violated Section b, because significant conduct material to the
+- fraud's success occurred in the {@Location} {@Location}
+- {@PersonType} {@PersonType} {@Person}: There are -- there are a lot of moving parts in that {@Skill}
+- You k{@DateTime}, significant conduct, material, you require it to have a
+- direct causal relationship
+- Doesn't the complication of that kind of defeat the whole purpose? {@Organization}
+- {@Person}: No, Your {@Skill}, we don't think so
+- In terms of the -- of the direct cause part, which it will be -- the significant limit on {@PersonType} actions,
+- as this {@Location} illustrates, the {@Location} {@Location} even
+- accepting the allegations in the {@PersonType}'s complaint
+- will often be able to dismiss the {@Product} on the {@Skill}
+- for its failure to satisfy that {@Skill}
+- It's not a {@PersonType} {@PersonType} {@Person}: That's only for the {@PersonType} companies? {@Organization}
+- {@Person}: That's right
+- And in terms of the other {@Skill}, again, I don't think it's that
+- complicated
+- The -- the significance part of it is essentially trying to assess the amount of the conduct
+- {@PersonType} {@PersonType} {@Person}: what if significant elements of the fraud occur in {@Quantity}
+- different countries? {@Organization}
+- {@Person}: If -- if -- the critical question is whether there's significant conduct here
+- that's material to the broad success
+- And the reason for that is if Section b didn't cover that kind of
+- conduct, then that would risk allowing the {@Location} {@Location}
+- to become a base for orchestrating securities frauds for
+- {@Skill}
+- It would allow thing like {@PersonType} in the {@Location} {@Location} {@Product}ering international b{@Product}er {@Location}
+- schemes in which they direct {@PersonType} in {@PersonType} countries
+- to make fraudulent {@Skill}s that victimize
+- {@PersonType}s
+- {@PersonType} BREYER: So it's not as easy to apply this, you think? {@DateTime}, on your theory, I guess {@Person} is in {@Location} and we have our {@Location} {@Location}
+- Okay, {@DateTime} wait
+- What happens is he calls {@Person} on the teleph{@Quantity}, J{@Quantity}s, and he says I own the {@Location} {@Location}
+- Actual, right, direct? Under your {@Skill}, correct? {@Organization}
+- {@Person}: {@Person} is in {@Location}? {@PersonType} BREYER: {@Person} is in {@Location}
+- He calls him up
+- {@Organization}
+- {@Person}: The defrauder is in {@Location}? {@PersonType} BREYER: All -- everything -- you have to assume he's going to buy the thing on the
+- exchange in {@Location} but the fraud is in {@Location}
+- He is lying about -- he doesn't really own the {@Location}
+- {@Location}
+- So he calls {@Person}
+- I am interested in -- he calls {@Person}
+- Causation, that's what your last p{@Quantity}s of your brief, focus on that
+- He calls him and he lies to him
+- Actual
+- {@Organization}
+- {@Person}: I'm sorry, Your {@Skill}, can I ask you if everybody is in {@Location}? {@PersonType} BREYER: No
+- (Laughter
+- ) {@PersonType} BREYER: Go back to my {@Location} {@Location} {@Event}ple
+- Everything is hatched in your b{@Product}er
+- {@Location}
+- {@Organization}
+- {@Person}: Okay
+- {@PersonType} BREYER: And they communicate the lie by calling {@Person} in Berlin on the teleph{@Quantity},
+- directly
+- {@Organization}
+- {@Person}: Okay
+- {@PersonType} {@Person}: {@Person} is the German
+- He's in {@Location}
+- (Laughter
+- ) {@Organization}
+- {@Person}: I'm sorry
+- {@PersonType} BREYER: {@Organization}
+- {@Person}: The question is, is there {@PersonType} BREYER: No, I'm focusing on the last p{@Quantity}s of your brief
+- Where you turn this whole thing on the directness of the {@Skill}
+- {@Organization}
+- {@Person}: That's right
+- And the {@Organization} would be able to take action if there is significant
+- {@PersonType} BREYER: I'm accepting that for the moment
+- What's bothering me, taking off from what the {@PersonType} said, is the feasibility of your {@Skill}
+- Your {@Skill}, it seems to me on {@Skill}, would say that
+- when you ph{@Quantity} {@Person} and lie to him, he can sue
+- But when you ph{@Quantity} your {@PersonType} company, k{@DateTime}ing that they
+- will put it in the prospectus and {@Person} will read it,
+- you can't sue
+- And then what occurs to me is suppose you ph{@Quantity}d a {@PersonType}, or suppose you ph{@Quantity}d your {@PersonType}
+- company and you knew they would tell a {@PersonType}
+- I'm focusing on the practicality of your {@Skill} {@Skill}
+- {@Organization}
+- {@Person}: If the conduct is directed or {@PersonType} BREYER: Correct
+- {@Organization}
+- {@Person}: -- then it would -- then the direct {@Skill} {@Skill} would be -- would be met
+- The critical question is, is the conduct in the {@Location}
+- {@PersonType} BREYER: You think that's the question here? You think the question is whether this really took place in {@Location}? I didn't think that was the question
+- {@Organization}
+- {@Person}: In terms of a {@PersonType} {@PersonType} suing, in our view, the question is whether
+- the {@Location} {@Location}' conduct has a close enough connection
+- {@PersonType} BREYER: Let's skip -- skip my question because other people {@DateTime} ask
+- {@PersonType} {@Person}: If the {@PersonType} in this {@Location} had clearly alleged in their complaint that nobody
+- in {@Location} reviewed the numbers that were sent from
+- {@Location} to any {@Quantity}, they just directly copied them,
+- some low-level {@PersonType} directly copied them, would the
+- direct cause {@Skill} be met? {@Organization}
+- {@Person}: Yes, if the action was just ministerial over overseas, it would -- it would be met
+- Again, the critical question, in our view, under the
+- direct cause {@Skill} is, was there culpable conduct in the
+- {@Location} {@Location} that is directly responsible for the
+- {@PersonType}'s injury? {@PersonType} {@Person}: {@PersonType} KENNEDY: Well, then you give no weight to the fact that it was on the {@Location}n
+- exchange? {@Organization}
+- {@Person}: The -- the fact that the transaction happens on the {@Location}n exchange is not
+- dispositive, because if -- if somebody in the {@Location}
+- {@Location} is directly -- is -- is executing the fraud -- if
+- it turned on just a transaction on the {@Location}n
+- exchange, then a domestic {@PersonType} could be injured by a
+- fraud that is hatched entirely here that is executed
+- entirely here, and he is tricked into executing a
+- transaction on an overseas exchange
+- {@PersonType} {@Person}: Mr
+- {@Person}, because your time is running out, there is a basic question here
+- You are asking us to make a distinction between what the
+- {@Organization} can sue for and what a {@PersonType} party can sue for
+- {@Organization} did that with respect to aiders and abettors
+- Is there any other instance in which we have made a distinction, yes, the {@Organization} has a claim but the
+- {@PersonType} litigant doesn't? {@Organization}
+- {@Person}: Yes, the -- the -- the {@PersonType} litigants are -- have numerous elements that they have
+- to show that the {@Organization} doesn't have to show: Reliance, loss, loss {@Skill}
+- All of those go to the causal link between the injury and -- and the fraud
+- And we think that the direct injury requirement is an
+- appropriate application of those more general {@Skill}
+- requirements in the context of transnational fraud
+- {@PersonType} {@Person}: I am f{@Skill}ly less concerned with your -- your {@Skill} for the {@PersonType} cause of action,
+- the direct cause {@Skill} -- I -- I guess I could work with
+- that -- than I am with your {@Skill} for -- for the
+- jurisdiction of the -- of the {@Organization}, which is sort of a
+- totality of the circumstances {@Skill}
+- It doesn't seem to me that's an appropriate {@Skill} for a jurisdictional
+- question
+- You don't want to spend time {@Skill} the totality of the circumstances
+- {@Organization}
+- {@Person}: We don't think it's a -- a jurisdictional question in the sense of the subject
+- matter jurisdiction, Your {@Skill}
+- It's a -- a {@Skill} about the scope of the statutory cover{@Quantity}
+- {@PersonType} {@Person}: Well, okay
+- {@Organization}
+- {@Person}: And it's true that bright line rules -- it's true that bright line rules are easier to
+- administer, but the -- there is a danger in bright line
+- rules for fraud prohi{@Quantity}ions because they can provide a
+- road map for evasion of the statute
+- {@PersonType} {@PersonType} {@Person}: Do you have any indication that our {@PersonType}s around the world are
+- comfortable with your {@Skill}? {@Organization}
+- {@Person}: Well, the {@Product} that have been filed by {@Location} and {@Location} Kingdom and {@Location}
+- are limited to the {@PersonType} right of action
+- They base their -- what they want to do is to limit the {@PersonType}
+- rights
+- And I think the {@Location} Kingdom brief specifically says that -- it thinks that {@Organization} action
+- could be appropriate here, and that's a reason why, if
+- the {@Location} adopts the -- a limit on the {@PersonType} actions,
+- that it need not -- it need not be concerned about the
+- possibility that -- that fraud would be launched in the
+- {@Location} {@Location} or directed in the {@Location} {@Location} and it
+- couldn't be addressed
+- {@PersonType} {@Person}: I guess we don't have to say anything about -- about what the {@Skill} can do,
+- do we? {@Organization}
+- {@Person}: No, Your {@Skill}
+- And we would certainly prefer that you decided the {@Location} solely on the
+- {@PersonType} right of action if the alternative for a holding
+- substantive prohi{@Quantity}ions didn't apply here
+- {@PersonType} {@PersonType} {@Person}: Mr
+- {@Person}, you urge deference to the {@Organization}'s interpretation in
+- administrative adjudications? {@Organization}
+- {@Person}: Yes
+- {@PersonType} {@PersonType} {@Person}: Do you have anything other than those {@Quantity} proceedings over the last  years? {@Organization}
+- {@Person}: Those are the {@Quantity} administrative adjudications
+- The {@Organization}'s administrative adjudicatory authority is limited to people involved in
+- the securities industry, and a lot of these frauds that
+- happen are -- don't involve people that are registered
+- {@PersonType}/dealers and the like
+- There are numerous Civil Actions that the {@Organization} has brought where it has taken the
+- same approach
+- The {@Organization} v
+- {@Person} {@Location} that we cite in our brief is {@Quantity} of them
+- I can name some others
+- There is {@Organization} v
+- {@Person}, which is a {@Location} that's in the {@Location}
+- {@Location} in Utah, and {@Organization} v
+- {@Person} in -- in the southern
+- {@Location} of {@Location}
+- {@Organization} v
+- {@Location} in the northern {@Location} of {@Organization}inois
+- Those involve international
+- b{@Product}er-{@Location} schemes of the kind I was alluding to
+- before, where {@PersonType} in the {@Location} {@Location} basically
+- direct {@PersonType} that they have got in countries like
+- {@Location} or Spain to -- to make false statements and
+- eng{@Quantity} in high-pressure {@Skill} to target {@PersonType}s in
+- other countries
+- Sometimes they induce them to eng{@Quantity} in transactions in still other countries
+- {@PersonType} {@PersonType} {@Person}: Thank you, Mr
+- {@Person}
+- Mr
+- {@Person}, you have {@Quantity} minutes remaining
+- REBUTTAL ARGUMENT OF {@Person}
+- {@Person} ON BEHALF OF THE {@PersonType} {@Organization}
+- {@Person}: Thank you, Your {@Skill}
+- Let me begin with Justice {@Person}'s question, and I promise to
+- get back to {@Organization} and the {@Location} {@Location}
+- As to -- we have alleged that in -- that effectively, ministerial activities did occur here
+- The {@Quantity} {@Location} held, interpreting our complaint, that
+- the numbers were {@Skill}ly incorporated
+- That's as close to ministerial as you get
+- We used, in the complaint, the were "adopted
+- " We said that they were asleep at the {@Product}
+- The meaning is the same, but the -- there were no
+- {@Location}s
+- The {@Location}s are illusory
+- If there was a {@Location}, the guard was asleep at the
+- {@Location}, and the {@Organization}R number went right through the
+- {@Location}
+- Those are the allegations, and we should be able to stick with the allegations
+- {@DateTime}, turning to the statute, my {@PersonType} indicated that the langu{@Quantity} with respect to {@PersonType} and
+- interstate {@Skill} and so on, based on the {@Location}
+- decision, was {@Product}
+- That's wrong
+- In this statute, those specific statutory approaches towards
+- stopping fraud are in the substance of the statute
+- They are not in the jurisdictional statute
+- That's important
+- That's why that's different
+- As to the {@Organization} {@Event}ple and Bersch {@Event}ple, what {@Organization} shows is a long chain of {@Skill}, because
+- {@Organization} involved an {@PersonType}, not a {@PersonType}, which was
+- very important under {@Organization}'s typology
+- And in {@Organization}, you have this extended line of {@Skill}
+- beginning with {@Skill}s in the {@Location} {@Location}
+- about a {@PersonType}ly, tender offer
+- Then there was a ph{@Quantity} call, {@DateTime}be in {@Location}, {@DateTime}be in the {@Location} {@Location}, and
+- then there was a command by {@Person} to his
+- {@Skill} {@Location}ers: Go into the {@Location} Stock Exchange and start to buy
+- That extended line of {@Skill} would not pass muster under the direct cause {@Skill}
+- The direct cause {@Skill} as this {@Location} is using it in the {@Location} area
+- State {@Skill}? I mean, it's -- it's commonplace for the Federal {@Skill} to look to State {@Skill} on issues of ownership
+- And, in fact, if there is this doctrine of equitable
+- ownership on the part of the {@PersonType}, what right does
+- the {@Skill} have to do the setoff? {@Organization}
+- {@Person}: Well, that might be true if we were relying on a common {@Skill} {@Skill}
+- But in this context, {@Organization} has directed that all Federal
+- {@Skill}s, unless there is an exception -- and there is
+- no exception in this {@Location} -- are to be {@Skill} before
+- {@Skill}, any {@Skill}, to the {@PersonType}
+- So in this {@Location}, {@Organization} has effectively established a priority scheme
+- whereby when a {@PersonType} owes a delinquent valid debt to
+- the {@Location} {@Location} and the {@Location} {@Location} owes an
+- {@Skill}ting obligation to that individual, {@Organization} has
+- provided that no Federal funds shall be paid to the
+- individual and instead that the debt -- the {@Skill}'s
+- debt shall be {@Skill} against the debt that the --{@PersonType} {@PersonType} {@Person}: What if the {@PersonType} is {@Location}rupt? What happens then? {@Organization}
+- {@Person}: The same rule would apply
+- No Federal {@Skill} would -- well -- I believe that the same
+- rule would apply
+- I've not {@Product}efully studied the {@Location}ruptcy provisions, and I hate to venture into a very
+- complicated area to give you something definitive
+- But
+- my belief is that, based on the very clear text of
+- section  of Title , which was amended by the Debt
+- Collection {@Organization}provement Act, that no {@Skill} shall be --
+- even in {@Location}ruptcy, the {@Skill} goes to the -- has
+- to go to the {@PersonType} {@Quantity}, and then it goes to the estate
+- -- that no {@Skill} shall be made from the {@Organization} and
+- instead an administrative {@Skill} shall be undertaken to
+- collect the {@Skill}'s debt
+- {@PersonType} BREYER: Is there a way for the {@PersonType} -- a {@PersonType} sees that his {@PersonType} has a good {@Location}
+- against the {@Skill}, and thinks he can get an {@Organization}
+- fee, so he says to the {@PersonType}: I'd like to represent you and I can get paid for this
+- But the {@PersonType} says: There are a lot of debts I owe the {@Skill}
+- {@DateTime}, is there any way they can work it out so he can get the {@Skill}? {@Organization}
+- {@Person}: Well, sure
+- Theres --{@PersonType} BREYER: What? {@Organization}
+- {@Person}: As we indicated in our brief, there's several things that can be d{@Quantity}
+- {@Quantity}, the {@PersonType} can determine whether there is in fact a debt
+- which is eligible for {@Skill}, and that can be d{@Quantity} by
+- asking the {@Organization} with a valid Privacy Act waiver from
+- the {@PersonType}
+- If that is the {@Location}, the {@PersonType} retains the right, which {@Organization} expressly codified in section
+- , the right to enter into a re{@Skill} agreement
+- If that is d{@Quantity}, there will be no {@Skill}, and the re{@Skill}
+- agreement is largely governed by the Federal claims
+- {@Skill} standards, which are codified at  C
+- to , and those -- those provisions provide in section
+- , for instance, that installments shall -- should
+- bear a reasonable relation to the size of the debt and
+- the {@PersonType}'s ability to pay
+- And in some instances, the {@Skill} {@Quantity}ncy is able to compromise that debt if the
+- {@PersonType} is unable to repay it within a reasonable amount of
+- time
+- The {@Quantity}ncy should consider the {@Quantity}, health, present and potential income, as well as assets of the
+- {@PersonType}, in order to determine the --{@PersonType} BREYER: In other words, the {@PersonType} and the {@Quantity}ncy and the {@PersonType} sit down, and the {@PersonType}
+- says: Here, I can get some m{@Quantity}y for this {@PersonType} and that will help everybody, but I want to be paid
+- So I want you, Agency, to agree that on the re{@Skill}
+- schedule if I get an {@Organization} fee, then I get to keep it and
+- I don't have to give it to my {@PersonType}, who will have to
+- give it to the {@Skill}
+- And then they can sign a piece of paper and then that's d{@Quantity} and the {@PersonType} gets
+- to keep the m{@Quantity}y
+- {@Organization}
+- {@Person}: That -- that's correct
+- {@PersonType} BREYER: And has that ever happened?
+- {@Organization}
+- {@Person}: I don't k{@DateTime} that that's happened in this {@Skill} context
+- {@PersonType} BREYER: But it could {@DateTime}
+- {@DateTime} people would k{@DateTime} about, and they could do it
+- {@Organization}
+- {@Person}: It could well happen, and in fact --{@PersonType} KENNEDY: Well, whats -- whats the authority for the {@Skill} to enter into the agreement? {@Organization}
+- {@Person}: The authority --{@PersonType} KENNEDY: I mean, if the statute says there has to be an {@Skill}, that's it
+- {@Organization}
+- {@Person}: Well, the statute also provides, under section , for the {@Organization} and the
+- {@Organization} to establish guidelines for
+- {@Quantity}ncies
+- They have d{@Quantity} so in Parts  to -- or  to  of Title  of the Code of Federal Regulations
+- {@PersonType} KENNEDY: But do the guidelines reflect Justice {@Person}'s hypothetical? {@Organization}
+- {@Person}: Well, the statute actually reflects Justice {@Person}'s hypothetical, because at
+- section  -- this is at p{@Quantity} a of the {@Skill}'s
+- briefs appendix -- the {@PersonType} of the {@Quantity}ncy, prior to
+- {@Skill} an administrative {@Skill} must advise --
+- this is on a -- the {@PersonType} of the opportunity to make a
+- written agreement with the {@PersonType} of the {@Quantity}ncy to repay
+- the amount of the claim
+- That reflects the {@Event} in the Federal claims {@Skill} standards of agreeing to
+- re{@Skill} of such claims
+- {@PersonType} {@PersonType}: Could you tell me what would motivate the {@Skill} to agree to give to a
+- {@PersonType} a piece of a recovery that it, the {@Skill},
+- thinks it's entitled to? I mean, it's {@Quantity} thing to work a re{@Skill} plan
+- That starts on the proposition that the individual can only {@DateTime} or month or whatever
+- give a certain amount of m{@Quantity}y over
+- But what --{@Organization}
+- {@Person}: Well, I think the hypothetical was premised at the beginning of the {@Skill}{@Product} rather than at
+- the end
+- If -- if the {@Location} were at the end and the {@Skill} were ordered to pay {@Organization} fees, the {@Skill}
+- would be automatic
+- We would not agree at that point to split the -- the {@Skill} with -- with the {@PersonType}
+- But in the beginning of the {@Skill}{@Product}, when the {@PersonType} is
+- undertaking {@Skill} of the {@PersonType}, the {@PersonType}
+- is able to do precisely what {@Organization} intended, which
+- was to have {@PersonType}s come to the {@Location} {@Location} and
+- take -- to avail themselves of the opportunity to repay
+- their debts to avoid an {@Skill}
+- {@PersonType} {@PersonType} {@Person}: Well, but that's a fanciful answer, because {@Organization} requires that the
+- {@Skill}'s position, to get fees, is substantially
+- unjustified
+- And so the {@Skill} {@PersonType} is going to sit down and say, well, you k{@DateTime}, if I take a position
+- that is substantially unjustified, I will at that point
+- pay the fees to you, not to the {@PersonType}
+- {@Organization}
+- {@Person}: Well, not at all
+- The {@Skill}'s interest in an installment plan is not
+- motivated by {@Organization}
+- The {@Skill}s interest is --{@PersonType} {@PersonType} {@Person}: Yes, but the {@PersonType}'s interest -- I thought in the hypothetical we
+- were talking about, the {@PersonType}'s interest is
+- He thinks the {@Skill} is going to take a substantially
+- unjustified position, and he wants to make sure in that
+- {@Location} that he gets paid
+- {@Organization}
+- {@Person}: This is a separate question, which is whether there is really any deterrent or how
+- large the deterrent effect would be having the specter
+- of a fee {@Skill}
+- And as we explained in our brief, this {@Location} in {@Location} explained that, because {@Organization} awards
+- are not given to every prevailing party and are only
+- given to parties where the {@Skill}'s position is not
+- substantially justified, it is -- {@Quantity} cannot reliably
+- determine in advance whether the {@Skill}'s position
+- is going to be so unreasonable that youre going to get
+- an award of fees
+- And that -- that suggests that any deterrent
+- effect of having the possibility of an {@Skill}ting -- an
+- {@Skill} for the {@PersonType}'s debt is small
+- And that --{@PersonType} {@PersonType} {@Person}: Well, that's going to look awful bad to a {@Location} that comes in and he's --
+- and the {@Location} is asked to award {@Organization} fees, and there is
+- an agreement already in effect
+- The {@Skill} says, well, if were -- you k{@DateTime}, if were liable for {@Organization}
+- fees, this is how we are going to handle it
+- {@Organization}
+- {@Person}: I {@DateTime} have misspoken --{@PersonType} {@PersonType} {@Person}: That would be the {@Quantity} piece of -- that would be the {@Quantity} piece of
+- evidence that I would want to put in saying I should get
+- {@Organization} fees
+- The {@Skill} thought they might even take a position that {@PersonType}
+- {@Organization}
+- {@Person}: Let me back up
+- I {@DateTime} have misspoken
+- What I intended to convey is that at the beginning of the {@Location} when an {@PersonType} is deciding
+- whether to represent a {@PersonType}, the {@Location} has not been
+- litigated, we don't k{@DateTime} whether the {@Skill}'s
+- position is going to be found to be substantially
+- unjustified or not, the {@PersonType} -- if the {@PersonType}
+- checks and wants to determine whether the {@PersonType} has
+- a -- a debt owed to the {@Skill} that would be subject
+- to {@Skill}, the {@PersonType} can go to the {@Skill} and say:
+- Let's enter into a re{@Skill} plan so that my {@PersonType} gets
+- on the {@Skill}'s good g{@Event}s and no longer is subject to
+- have a {@Skill} -- a {@Skill} return, for instance, {@Skill} or any
+- other {@Skill} that the {@Skill} {@DateTime} owe to that
+- {@PersonType} in the future, including {@Organization}
+- But it's not because of the {@Organization} {@Skill} that you would enter into
+- the agreement
+- The {@Skill} --{@PersonType} {@PersonType} {@Person}: No, but say he goes in to the {@Skill} and says, look, Im about to sue
+- you, and Id like to sit down and negotiate a nice
+- agreement about the re{@Skill}
+- {@Organization}
+- {@Person}: Well, I guess the {@PersonType} {@DateTime} say, I'm about to sue you, but the {@Skill} certainly
+- is not motivated because of the {@Skill}{@Product}
+- The {@Skill} -- whether an {@PersonType} is going to sue the
+- {@Skill} or not, the question is --{@PersonType} {@PersonType} {@Person}: Government {@PersonType}s are always sympathetic to people who come in and say:
+- I'm going to sue you
+- (Laughter
+- ) {@Organization}
+- {@Person}: Well, I guess that certainly gets our attention
+- But the reason that the {@Skill} would enter into a re{@Skill} agreement is because that is an
+- opportunity for the {@Skill} to collect a debt that is
+- delinquent, valid, and outstanding
+- And what {@Organization} intended to do in the Debt
+- Collection {@Organization}provement Act was not to have additional
+- Federal funds be paid to {@PersonType}s who have been given
+- multiple warnings of the debt and are essentially, you
+- k{@DateTime} --{@PersonType} {@PersonType}: The problem with your argument is this pot of m{@Quantity}y is actually not going
+- to -- it's going to the {@PersonType}, according to your
+- argument, because in theory the {@PersonType} is the prevailing
+- party and is entitled to get the award
+- But the m{@Quantity}y is not being paid to the {@PersonType}
+- It's for the benefit of the {@PersonType} who has d{@Quantity} the work that {@Organization} wanted
+- d{@Quantity}
+- {@Organization}
+- {@Person}: Well, actually, either --{@PersonType} {@PersonType}: I don't k{@DateTime} what the --I don't k{@DateTime} what the motivation would be for a {@PersonType}
+- to undertake to represent the meritorious claim when
+- they have to not only do the work in the {@Location}, but {@DateTime}
+- have to do the work for the {@Skill} in getting their
+- {@PersonType} to negotiate an agreement with the {@Skill} on
+- something that's completely unrelated to the claim
+- {@Organization}
+- {@Person}: I guess a --{@PersonType} {@PersonType}: It's -- it's sort of --{@Organization}
+- {@Person}: Theres a few answers --{@PersonType} {@PersonType}: -- illogical
+- {@Organization}
+- {@Person}: Theres a few answers to that
+- {@Organization} applies not only in the {@Organization} context; it
+- applies in all civil actions in which -- not sounding in
+- tort, in which theres not another specific fee
+- provision, brought -- brought by or against the {@Location}
+- {@Location}
+- {@Organization} intended -- and this is in the statutory findings which precede {@Organization} in section -- I
+- believe it's  of the Act; it is -- to diminish the
+- financial deterrent on individuals, businesses, and
+- organizations caused by the expense of providing -- of
+- {@Skill} a {@Location}
+- This is --{@PersonType} {@Person}: That sounds like you're -- you have -- the {@PersonType} has an agreement to pay
+- the {@PersonType} or the {@PersonType} has paid the {@PersonType}
+- It would make sense if the {@PersonType} has paid the {@PersonType} and then
+- there is reimbursement under {@Organization} that what -- what
+- you're describing would make sense in that situation
+- But in most of these situations, the {@PersonType} doesn't have
+- the wherewithal to pay the {@PersonType} upfront, of course
+- {@Organization}
+- {@Person}: That {@DateTime} be true in the {@Organization} context, but there are many instances in
+- which -- this is the -- this is the normal way that,
+- you k{@DateTime}, {@PersonType}s and -- and -- and their -- their
+- {@PersonType}s work out fee arrangements
+- Sometimes {@PersonType}s will pay their {@PersonType} in advance; sometimes they will
+- pay as the {@Skill} goes {@PersonType}
+- And by the time you have the {@Organization} award the {@PersonType} will have paid all or
+- part -- sometimes n{@Quantity} -- but all or part of the -- of
+- the fee award
+- {@PersonType} {@Person}H: Is it --{@Organization}
+- {@Person}: {@Organization} directed -- the langu{@Quantity} is very clear: {@Location}s shall award to the prevailing party fees and expenses --{@PersonType} {@Person}: And does that mean --{@Organization}
+- {@Person}: -- incurred by the party
+- {@PersonType} {@Person}: The award goes to the prevailing party
+- So, therefore, the {@PersonType}'s fee is income to the {@PersonType} --{@Organization}
+- {@Person}: I --{@PersonType} {@Person}: -- is {@Skill}able income to the {@PersonType}? {@Organization}
+- {@Person}: This is -- the answer to that is complicated and, generally, yes
+- The {@Organization} is of the view that {@PersonType} fee awards to prevailing parties, whether
+- it's {@Organization} or otherwise, are deemed to be {@Skill}able income
+- to the {@PersonType}
+- {@DateTime}, the {@PersonType}s, of course, will have an {@Skill}ting deduction for expenses incurred by -- in --
+- in the course of producing or collecting income, and
+- that was recognized by this {@Location}'s opinion in {@Location}s
+- That deduction is, of course, subject to certain limits
+- It has to be in excess of  {@Quantity} of the adjusted
+- gross income and subject to the alternative minimum {@Skill},
+- which wouldn't apply to {@Organization} claims
+- But the general answer is yes, it is income when the prevailing party receives a fee
+- There is an {@Skill}ting deduction
+- However, there's a -- some uncertainty with whether some fee awards when the
+- underlying benefit obtained is not {@Skill}able, whether
+- that -- the {@Organization} will treat such {@Skill}s to -- the fee
+- awards, as --{@PersonType} {@Person}: Like pain and suffering, but that's not --{@Organization}
+- {@Person}: Yes, so, but also certain Federal benefits, including {@Organization} benefits,
+- have a very complicated {@Skill} relationship
+- {@Organization} benefits are {@Skill}able in part
+- It depends on the size and the amount of other income
+- So, the answer is actually quite complicated whether fees are {@Skill}able under {@Organization} in the {@Organization}
+- {@Skill} context
+- But the general rule is, yes, fee awards to a prevailing party are income and subject
+- to --{@PersonType} {@Person}: And then, in turn, income to the {@PersonType} when -- if the {@PersonType} --
+- {@Organization}
+- {@Person}: Correct
+- Just as, you k{@DateTime}, when I'm -- you k{@DateTime}, I am paid my salary and {@Skill}ed on it,
+- and then when I pay for services, the person to whom I
+- pay also has income, and they are {@Skill}ed as well
+- This is not an unusual situation
+- {@PersonType} KENNEDY: It seems to me the underlying assumption -- and some of the question would
+- have been put to you by the {@Location} -- is that the
+- {@Skill} has somehow benefited because the m{@Quantity}y is
+- created to {@Skill} the debt
+- It really isn't
+- It would -- this would be true if an {@PersonType} were suing
+- {@Quantity} party and creating a fund, and the {@Skill}
+- said, ah, there's the m{@Quantity}y
+- In this {@Location}, it's just being paid from {@Quantity} account to the other
+- The {@Skill} would be better off if there were no {@Product}
+- at all
+- {@Organization}
+- {@Person}: That's correct
+- If the {@Skill} never had an {@Organization} award, it at least would
+- be less of a debt that it could collect
+- {@PersonType} KENNEDY: It's just paying itself from {@Quantity} account to the other
+- {@Organization}
+- {@Person}: That's correct
+- The {@Skill} is -- ultimately zeroes out here
+- The person that gets the benefit is the prevailing party, because the
+- prevailing party has eliminated a debt to the {@Location}
+- {@Location} by having that {@Skill} by the {@Organization} award
+- So the prevailing party obtains the benefit, which is precisely
+- what {@Organization} intended here
+- {@PersonType} {@PersonType} {@Person}: The {@Skill} zeroes out, but in the course of it, it has taken a
+- {@Skill} position in {@Location} against a small business that
+- was substantially unjustified
+- {@Organization}
+- {@Person}: And it has paid its {@Organization} award by {@Skill}ting that award against the debt that the business
+- owed to the {@Location} {@Location}
+- The {@Skill} is -- at {@DateTime}, the balance sheets of the {@Skill}
+- have not changed
+- And with -- from the perspective of --{@PersonType} {@PersonType} {@Person}: But I think the idea -- well --{@Organization}
+- {@Person}: From the perspective of the prevailing party as well
+- The prevailing party has an obligation to the {@PersonType}
+- Those are the {@PersonType}'s fees incurred which have not yet been paid
+- The prevailing party also has an obligation to the
+- {@Skill} in the -- in the amount of a debt
+- It has income that comes in through the -- through the fee
+- award, and whether that goes to {@Skill} the debt to the
+- {@Skill} or {@Skill} the -- for use to pay the {@PersonType},
+- the prevailing party ultimately gets the benefit of that
+- fee award
+- And the {@Skill} has paid the {@Organization} award
+- as required by statute
+- {@PersonType} {@Person}: Do you happen to k{@DateTime} how much the -- the {@Organization} typically collects in a year
+- under these {@Organization} {@Skill}s? Does it put a dent in the Federal deficit? {@Organization}
+- {@Person}: We don't, and the reason we don't is because each {@Quantity}ncy that -- which is the subject of
+- an {@Organization} order submits to {@Organization} a {@Skill} request
+- based on that order, and they check miscellaneous
+- {@Skill}
+- That {@Quantity}ncy doesn't k{@DateTime} whether that {@Skill} is {@Skill}
+- {@Organization} receives that -- that request of {@Skill} and sees that it's a miscellaneous {@Skill},
+- checks it against a debt, and {@DateTime} {@Skill}
+- But {@Organization} doesn't k{@DateTime} that the miscellaneous {@Skill} was an {@Organization}
+- award
+- So we don't have any {@Skill} that we can point to, to say how often this -- this occurs
+- I can say that the financial man{@Quantity}ment service executes {@Quantity}
+- -- over {@Quantity} {@Skill}s per year, and that {@Skill}s
+- of those {@Skill}s account for $
+- billion
+- So about {@Quantity}-tenths of  {@Quantity} of {@Skill}s from the Federal
+- Government result in {@Skill}s
+- Id like to reserve the balance of my time
+- {@PersonType} {@PersonType} {@Person}: Thank you, {@PersonType}
+- Mr
+- {@Person}
+- ORAL ARGUMENT OF {@Person}
+- {@Person} ON BEHALF OF THE {@PersonType} {@Organization}
+- {@Person}: Mr
+- {@PersonType}, {@DateTime} it please the {@Location}: Id like to discuss with you this morning {@Quantity} reasons why Catherine {@Person}, and not the
+- {@Skill}, is entitled to receive the fee for the {@Skill}
+- services she performed, that {@Organization} invited her to
+- perform, to show that the {@Skill}'s position was
+- {@Skill}ly err{@Quantity}ous and was not even substantially
+- justified
+- And my {@Quantity} point arises from your question, Justice {@Person}
+- You asked whether State {@Skill} determines who has the priorities here in terms of
+- {@Skill}, if I understood
+- And the answer is that actually Federal {@Skill} determines that, specifically the
+- Debt Collection {@Organization}provement Act and regulations
+- The Act requires mutuality of a debt between the {@PersonType} and
+- the {@Skill} before the {@Skill} can {@Skill}
+- And the regulations, which Ill quote in just an instant,
+- require that before {@Skill} can occur, the {@Skill} must
+- look to who has the beneficial interest in the {@Skill}
+- In other words, who is entitled to benefit from it
+- Specifically,  C
+- (b), which is
+- quoted at p{@Quantity}  of the red brief, defines, quote,
+- "{@Skill}," close quote, as withholding funds to satisfy
+- a debt owed by a {@PersonType}
+- And "{@PersonType}" -- and this is critical -- is defined as the same -- in the same
+- regulation, also quoted at p{@Quantity}  of our reply brief,
+- as "the person entitled" -- as the person entitled to
+- the benefit of all or part of a {@Skill}
+- In other words, not the {@Skill} title {@PersonType} if there is a
+- difference, but the person with the beneficial interest
+- {@PersonType} {@PersonType} {@Person}: The prevailing party gets the benefit in the sense that she is relieved of
+- the debt she owed to the {@Skill}
+- That's a real benefit
+- {@Organization}
+- {@Person}: Well, Your {@Skill}, I think that's a benefit -- true, that's a benefit, I agree; but that's
+- not a benefit, I don't think, in the sense of who --
+- because the question is who has the beneficial interest
+- in the fee {@Skill}? And when we look to that question, because that's what's at issue here, is the fee {@Skill}
+- {@PersonType} {@Person}: Isn't this argument circular? The -- the issue is who is -- to whom is this {@Skill} to be made
+- And if it's to be made to the --the {@PersonType}, then it's not for the beneficial interest
+- of the -- of the {@PersonType}
+- {@Organization}
+- {@Person}: {@Quantity} responses, if I could,
+- Justice {@Person}: {@Quantity}, the word "{@Skill}" gets thrown around a lot in the {@Product}
+- It can mean {@Quantity} separate things
+- It can mean who receives the {@Skill} {@Quantity}; in other words, who is the check mailed to; or it can mean
+- who the check is ultimately entitled to -- who is
+- entitled to benefit from it
+- And the {@Skill}'s -- my {@Quantity} point is the {@Skill}'s reply brief at p{@Quantity}  to  concedes
+- that, but for the {@Skill}'s alleged right to {@Skill},
+- the {@PersonType} does indeed have the beneficial interest in
+- the {@PersonType}'s fee
+- And the {@Skill} gives {@Quantity} reasons, and only {@Quantity} reasons, why its alleged right
+- to {@Skill} trumps the {@PersonType}'s beneficial interest
+- The {@Quantity} reason the {@Skill} gives is the {@Skill} says that the -- the constructive trust, which
+- the {@Skill} ack{@DateTime}ledges exists in the -- in -- in
+- favor of the {@PersonType} with respect to the fee {@Skill},
+- does not arise until the instant the fee reaches the
+- {@PersonType}
+- And that's true, but that's not the point
+- The point is the {@PersonType} had the beneficial interest in the fee, which had to precede the
+- moment the fee reached the {@PersonType}, if it's payable to
+- the {@PersonType} in the sense of "sent to
+- " The beneficial interest had to precede that in order for a constructive
+- trust to arise
+- The {@Skill}'s {@Quantity} argument --{@PersonType} BREYER: On the {@Quantity} {@Quantity}, imagine that the -- a trust owes some m{@Quantity}y to the {@Skill}
+- {@DateTime}, suppose a {@PersonType} representing the trust recovers
+- {@DateTime}, they recover on a separate debt, okay? Separate debt? {@Quantity}
+- That m{@Quantity}y goes to the trust
+- Right? {@Organization}
+- {@Person}: If -- I'm not --{@PersonType} BREYER: The trust {@Quantity} owes -- the trust owes $, to the {@Skill}
+- The trust then independently recovers $ from the {@Skill} on a
+- different matter
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: The {@Skill} couldn't {@Skill} that? {@Organization}
+- {@Person}: Of course it could
+- {@PersonType} BREYER: Yes
+- Of course it could
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: But the trust is not a person entitled to the benefit of the {@Skill}
+- {@Organization}
+- {@Person}: Well --{@PersonType} BREYER: The {@PersonType} of the trust are entitled to the benefit of the {@Skill}
+- {@Organization}
+- {@Person}: If I understood your hypothetical, if the trust is entitled to $, then the
+- trust I think would be entitled to the benefit of the
+- {@Skill}
+- {@PersonType} BREYER: It's not entitled to the benefit of the $
+- The trust holds m{@Quantity}y for the benefit of the {@PersonType} of the trust
+- So --{@Organization}
+- {@Person}: I --{@PersonType} BREYER: -- it cant -- you agree that that couldn't be? {@Organization}
+- {@Person}: Well --{@PersonType} BREYER: Yes, and once you agree that that couldn't be, I think you are in trouble on
+- your {@Quantity} argument
+- I'm not sure
+- {@Organization}
+- {@Person}: Okay
+- I don't think so, because if we are talking about {@Skill}s to persons, you k{@DateTime},
+- if a person -- if a person owes a debt of $,,
+- receives $ on the debt, the person receives the
+- benefit of that $
+- {@PersonType} {@Person}: I --{@PersonType} BREYER: Well, similarly, the -- the guy -- the {@PersonType} here receives the benefit of the m{@Quantity}y
+- that he has just gotten from the {@Skill}, including
+- the {@PersonType}'s fees
+- It happens that he can't keep those {@PersonType}'s fees, just as the trust can't keep the
+- He has to give the {@PersonType}'s fees to the {@PersonType}, just as the trust eventually has to give the $ to the
+- {@PersonType}
+- So I'm simply saying -- drawing a
+- parallel, which -- go on to the next issue
+- {@Organization}
+- {@Person}: All right, Your {@Skill}
+- {@PersonType} {@PersonType} {@Person}: Well, let me -- can trusts -- can trusts recover {@Organization} fees? {@Organization}
+- {@Person}: I don't k{@DateTime}, Your {@Skill}
+- {@PersonType} {@PersonType} {@Person}: Yes, I don't either
+- Im looking at the definition
+- It doesn't say "trust
+- " It says a lot of other things, like corporation,
+- association, unit of {@Skill}
+- I just don't --{@PersonType} KENNEDY: Im having trouble with this aspect, and it {@DateTime} -- {@DateTime} be that it varies from
+- State to State
+- But as a general matter, under State {@Skill}, let's say that the {@PersonType} makes a contingency fee
+- arrangement with a {@PersonType} to sue the {@PersonType} and wins
+- It's a {@Quantity}-{@Quantity} contingent fee
+- The -- the {@PersonType} already owes the {@PersonType} $,
+- It would seem to me under the general principle of {@Skill} that
+- the {@PersonType} has to only pay $,, and the {@PersonType}
+- is not going to get his full fee
+- {@Organization}
+- {@Person}: Thats --{@PersonType} KENNEDY: And that's just --that's just the {@Skill} of {@Skill}s
+- {@Organization}
+- {@Person}: That's true
+- {@PersonType} KENNEDY: Because again, it's the same party
+- If they created m{@Quantity}y by suing some {@Quantity}
+- person, then that's different
+- {@Organization}
+- {@Person}: I think that's true
+- {@PersonType} KENNEDY: And -- and so I -- it seems to me that what you're -- what you're asking for
+- is just contrary to the standard {@Skill} of {@Skill}s
+- {@Organization}
+- {@Person}: Well, Your {@Skill}, with what I --{@PersonType} KENNEDY: And it's even worse because the Federal statute says that there shall be
+- this {@Skill} {@Quantity} as a matter of priority
+- {@Organization}
+- {@Person}: Actually, Your {@Skill}, the Federal statute provides for {@Skill} in accordance with
+- regulations to be issued by the {@Organization}
+- And those {@Organization} regulations were what I
+- quoted right at the beginning of my argument
+- We have to look at who is entitled to the benefit of the
+- {@Skill}, not the benefit in a generalized sense of the
+- {@Skill}{@Product}
+- {@PersonType} KENNEDY: Well, in the generalized sense of -- of common {@Skill} of {@Skill}s, as I've described
+- to it, sure, the {@PersonType} has a beneficial interest, but
+- he's not going to be able to collect it vis--vis the
+- {@PersonType} who is entitled to an {@Skill}
+- {@Organization}
+- {@Person}: Yes
+- And the difference, Your {@Skill}, is that in your hypothetical were talking about
+- {@Quantity} sum of m{@Quantity}y thats recovered in the name of the
+- {@PersonType}
+- In this situation, were talking about a statutory fee award, which is created only based on the
+- work of the {@PersonType} and which is labeled an {@PersonType}'s
+- fee and separate from the benefit --{@PersonType} BREYER: Well, how is it different? Look
+- This, what I was talking about, has nothing to do
+- With {@Organization}
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: It has to do with when the {@Skill}'s allowed to {@Skill} some m{@Quantity}y
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: And it's allowed to {@Skill} some m{@Quantity}y when the m{@Quantity}y is m{@Quantity}y that it would otherwise
+- give to a {@PersonType}
+- All right? {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: And then you've defined "{@PersonType}" as a person who has some beneficial interest in
+- that m{@Quantity}y
+- {@Organization}
+- {@Person}: Yes
+- Yes
+- {@PersonType} BREYER: And I think that the {@PersonType} here has no more and no less beneficial interest whether
+- he's a person or whether he's a trust
+- That was my point
+- {@Organization}
+- {@Person}: I understand, Your {@Skill}
+- {@PersonType} BREYER: Okay
+- {@Organization}
+- {@Person}: And my point about the statute is simply that the statute is subject to the regulation
+- which looks to who's entitled to benefit
+- {@PersonType} {@Person}: Okay, let's take the regulation: "A person who is entitled to the benefit of all or part of the {@Skill}
+- " Ultimately, isn't it the {@PersonType} who has recovered that is entitled to the
+- benefit, because this m{@Quantity}y is given to him in order
+- that he can meet a financial obligation that he owes to
+- the {@PersonType}? I mean, if this didn't exist, he'd owe the {@PersonType} and have to pony it up out of his own pocket, no? {@Organization}
+- {@Person}: Not so, Your {@Skill}, in {@Organization} {@Location}s, which this is, and in {@PersonType} {@Location}s,
+- which together account for more than  {@Quantity} of all
+- {@Organization} awards
+- In {@Organization} {@Location}s,  U
+- (b)(), set out in our appendix, makes it a Federal
+- crime for any {@PersonType} to charge, receive, demand, or
+- collect a fee {@Skill} directly from a {@PersonType}, other than
+- under past -- the  U
+- past-due benefits,
+- {@Quantity}, or {@Organization}
+- And this is a critical difference
+- In the non-{@Organization}, in the non-{@Organization}, non-{@PersonType}
+- contexts, you k{@DateTime}, about  {@Quantity} of {@Location}s, you've got
+- -- conceivably, you've got, often, {@PersonType}s paying {@PersonType}s
+- on a traditional pay-as-you-go basis
+- But in a {@Organization} {@Location} or a {@PersonType} {@Location} --{@PersonType} {@Person}: And in those {@Location}s, you agree the {@Skill} can be made? {@Organization}
+- {@Person}: Absolutely
+- Absolutely
+- The difference here in all these {@Organization} and {@PersonType} {@Location}s is that the {@PersonType} is
+- barred by {@Skill} from receiving m{@Quantity}y on a
+- pay-as-you-go basis
+- So the {@PersonType} has never been paid
+- {@PersonType} {@Person}: In exchange for getting  {@Quantity} of the recovery? {@Organization}
+- {@Person}: No
+- Actually, Your {@Skill}, in exchange for showing in Federal {@Location}, if I understand
+- your question
+- I hope I do
+- {@PersonType} {@Person}: My understanding is that the ordinary {@Skill} to the {@PersonType} for {@Organization}
+- benefits gained for the {@PersonType} is  {@Quantity} of the
+- recovery to the {@PersonType} paid directly to the {@PersonType}
+- {@Organization}
+- {@Person}: That's true
+- {@PersonType} {@Person}: So that, just as a background in this {@Location}, did Ms
+- {@Person} get that
+- {@Quantity}? {@Organization}
+- {@Person}: No, Your {@Skill}
+- There was no  {@Quantity} fee here
+- {@PersonType} {@Person}: And that was because it was too small to be bothered with? What was the reason? {@Organization}
+- {@Person}: She did not apply for a  {@Quantity} fee
+- It would have been quite small, had she received it
+- It would have been much smaller than the {@Organization} fee
+- {@PersonType} {@Person}: And she could keep only {@Quantity} from the --{@Organization}
+- {@Person}: Yes
+- {@PersonType} {@Person}: She could keep only the larger of the {@Quantity}
+- {@Organization}
+- {@Person}: Had she received the {@Organization} fee, she could have kept it
+- {@PersonType} {@Person}: {@Quantity} of the difficulties with your position is that {@Organization} did exempt a number
+- of Federal {@Skill}s from the {@Skill}, but it didn't
+- exempt {@Organization} fees
+- {@Organization}
+- {@Person}: Yes
+- And the -- there are {@Quantity} points there, Your {@Skill}
+- I mean, {@Organization} fees -- I'm not claiming all {@Organization} fees are exempt
+- As I just said --spoke with you, Justice {@Person}, if the -- in a non-{@Organization}
+- {@Skill}, non-{@PersonType} {@Location} where the {@PersonType} has paid
+- the {@PersonType} and then an {@Organization} fee comes down, thats
+- clearly subject to {@Skill}
+- You have to look to that regulation and who is entitled to the benefit of the fee
+- {@Skill}
+- And the reason that the Debt Collection {@Organization}provement Act doesn't address this in  is that in
+- , the {@Skill} had never taken the position that
+- {@PersonType} fees were subject to {@Skill} in {@Organization}
+- or {@PersonType} {@Location}s
+- And in fact, in , there were {@Quantity} {@Location} of appeals decisions on the question of
+- whether a {@PersonType} could {@Skill} a statutory fee award:
+- {@Person} -- these are all of our {@Product} -- {@Person}, Fourth
+- {@Location}, ; Duncan -- I'm sorry, {@Person} is Fifth
+- {@Location}, ; Duncan, Fourth {@Location}, ; Curtis,
+- Eighth {@Location},
+- All those {@Location}s said that the {@PersonType} {@DateTime} not {@Skill} a statutory fee award against the {@PersonType}'s
+- debt because the fee is for the {@PersonType}
+- Thats why {@Organization} couldn't have conceivably thought to address it
+- And some of the questions take me toward the point that you asked about before, Justice {@Person} --
+- {@PersonType} {@Person}
+- And you suggested, or you said, that {@Organization} says: Pay to the prevailing party
+- If I heard you correctly
+- In fact, Your {@Skill}, the langu{@Quantity} of the statute is, quote, "award to the prevailing party
+- fees and other expenses
+- incurred by that party
+- " And the {@Quantity} parts that we haven't really
+- addressed yet are that what is awarded is {@PersonType}'s
+- fees
+- And this "incurred by" langu{@Quantity} -- with respect to that {@PersonType}'s fee langu{@Quantity}, "{@PersonType}'s fees" has a
+- traditional meaning
+- It's a meaning this {@Location} has recognized in all those {@Location}s bullet-pointed at p{@Quantity}s
+- to  of our {@Product}
+- It's a fee earned by and paid to an {@PersonType}
+- And in {@Person} v
+- {@Person} in , this {@Location} specifically described the real parties in
+- interest in {@PersonType}'s fees {@Skill} as the {@PersonType}s,
+- recognizing the reality that {@PersonType} fees go to
+- {@PersonType}s
+- In addition, the langu{@Quantity} "incurred by that party" -- what does it mean here? Well, outside of {@Organization}, it could mean -- it does mean, I think -- m{@Quantity}y the
+- {@PersonType} takes out and pays to the {@PersonType}
+- We k{@DateTime} in {@Organization} {@Location}s and {@PersonType} {@Location}s it can't mean
+- that, because that's il{@Skill}
+- That's a Federal crime if the {@PersonType} does it
+- So what does it mean? Well, the {@Skill} concedes at p{@Quantity}  of its reply brief that that langu{@Quantity}
+- "incurred by" a prevailing party is supported by the
+- {@PersonType}'s implied or express obligation to pay the
+- {@PersonType} the fee received
+- So this is where the {@Skill}'s argument is circular, I think,
+- Justice {@Person}, in the sense that that "incurred by"
+- langu{@Quantity} only is satisfied and an {@Organization} award only {@DateTime} be
+- made where the {@PersonType} has the express or implied
+- obligation to pay the {@PersonType}
+- {@PersonType} {@Person}: Well, you say that in {@Organization} the {@PersonType} is forbidden to accept
+- pay-as-you-go? Is --{@Organization}
+- {@Person}: Yes, Your {@Skill}
+- {@PersonType} {@Person}: But that doesn't mean that there is not either an express or an implied contract
+- between the {@PersonType} and the {@Organization} {@PersonType}
+- {@Organization}
+- {@Person}: I agree
+- That's what I was trying to say
+- {@PersonType} {@Person}: Well, but if there is that implied contract, then it is an obligation of the
+- {@PersonType}
+- {@Organization}
+- {@Person}: Yes, that's what I was trying to say, Your {@Skill}
+- {@PersonType} {@Person}: Well, I don't see how that leads you where you want to go
+- Then the {@Skill} given to the {@PersonType} does indeed benefit the {@PersonType} by --
+- by paying off an obligation that the {@Organization}
+- {@PersonType} has
+- {@Organization}
+- {@Person}: Yes, but that obligation exists only to the extent of the {@Organization} fee
+- It's not a separate obligation
+- The {@PersonType} can't turn around and go
+- against the {@PersonType}
+- I mean, (b)() prohi{@Quantity}s the {@PersonType} going against the {@PersonType} for any fee other than
+- the (b) fee, which is separate, if there is a (b)
+- fee, or the {@Organization} fee
+- And when --{@PersonType} {@PersonType}: Is it --{@Organization}
+- {@Person}: We have been talking -- I'm sorry
+- {@PersonType} {@PersonType}: Just so I'm clarifying, is it your position -- and this is something I want to
+- ask the {@Skill} as well -- that once the {@Organization} fee is
+- awarded, the {@PersonType} couldn't sue the {@PersonType} later even
+- in an {@Skill} situation for re{@Skill}, because by statute
+- you view them as blocked from --{@Organization}
+- {@Person}: Yes
+- {@PersonType} {@PersonType}: -- from seeking anything other than the {@Organization} fee or the  fee? {@Organization}
+- {@Person}: Yes, that's what (b)() says, Your {@Skill}
+- {@PersonType} {@PersonType}: So that once the {@Skill} happens, the {@PersonType}, under -- even if the {@PersonType} had
+- other m{@Quantity}y, the {@PersonType} would be blocked from going
+- after it? {@Organization}
+- {@Person}: Yes, Your {@Skill}
+- {@PersonType} {@PersonType}: Because by the terms of the statute they can only seek the {@Organization} fee?
+- {@Organization}
+- {@Person}: They can only seek what? {@PersonType} {@PersonType}: Either the {@Organization} fee or the  fee
+- {@Organization}
+- {@Person}: Yes, and we have been talking as if {@Organization} fees and (b) fees are sort of contemporaneous
+- in every {@Location}
+- In fact, the {@Skill} cited at p{@Quantity}  of the red brief is that  {@Quantity} of Federal {@Location} {@Organization}
+- {@Skill} {@Location}s result in a remand
+- Only  {@Quantity} result in an award of benefits
+- So there are going to be far more {@Organization} fees in Federal {@Location} than there ever are (b) fees
+- {@PersonType} KENNEDY: Do you calculate the fee under either the {@Organization} Act or {@Organization}, depending
+- on the {@Location}? Do you ever calculate it under both so that you get some under each? {@Organization}
+- {@Person}: Yes, Your {@Skill}
+- And that's --{@PersonType} KENNEDY: The -- the -- you calculate it under both so you get some under each? {@Organization}
+- {@Person}: No, section  says how this works, of the -- of {@Organization}
+- It says if there are {@Quantity} fees, the {@PersonType} keeps the larger fee --{@PersonType} KENNEDY: Right
+- {@Organization}
+- {@Person}: -- and sends the smaller to the {@PersonType} and vice versa
+- And thats the situation, for {@Event}ple, where you could have an {@Skill} of an {@Organization} fee in a
+- {@Organization} {@Location}
+- Let's say there is a (b) fee that's $,
+- Let's say there is an {@Organization} fee that is $,
+- Under section , that -- the {@PersonType} doesn't keep that $,
+- That $, winds up in the {@PersonType}'s pocket
+- The {@Skill} can {@Skill} that
+- That's --that's what integrates all this discussion weve been
+- having about {@Organization} fees not being exempt
+- We have to look to the beneficial interest
+- {@PersonType} {@Person}: In what {@Quantity} of the {@Organization} {@Location}s where the {@PersonType} prevails is
+- there an {@Organization} fee? {@Organization}
+- {@Person}: Forty-{@Quantity} {@Quantity}
+- No, that's not right
+- It's about  {@Quantity}
+- And I get that from combining {@Quantity} numbers
+- There are , {@Organization} awards per year
+- That's red brief p{@Quantity}
+- And there are about , {@Organization} civil {@Location}s per year
+- That's green brief p{@Quantity}
+- Fifty-{@Quantity} -- , divided by , is  {@Quantity}
+- And this bring me to the point the {@Skill} was making in suggesting that an {@PersonType} at
+- the beginning of a {@Location} could never k{@DateTime} whether or
+- not there -- there is going to be an {@Organization} fee, because,
+- you k{@DateTime}, you can't k{@DateTime} at the beginning, they argue,
+- what position the {@Skill} will take, whether or not
+- the {@Skill}'s position is substantially justified or
+- not
+- Well -- and the {@Skill} cites {@Person}/{@Location} from  from this {@Location}, in which
+- this {@Location} said exactly that -- {@Person} v
+- {@Location}
+- {@Person} v
+- {@Location} is outside the {@Organization} context, outside the {@PersonType} context, so
+- {@Person} v
+- {@Location} is in this less than  {@Quantity}
+- category of {@Location}s under {@Organization} which are not {@Organization}
+- {@Skill} or {@PersonType}
+- In a {@Organization} {@Location} or a {@PersonType} {@Location}, the {@PersonType} has the record before proceeding into
+- {@Location}, before deciding whether to proceed into {@Location}
+- And the {@PersonType} can look at that record, read it, and
+- have a pretty good idea of whether or not the {@Skill}
+- position might be substantially justified or not
+- I don't ask you to take my word for any of this
+- Let me tell you what the {@Skill} shows
+- The {@Skill}, Justice {@Person} -- this is where the  {@Quantity} of Federal {@Organization} {@Location}s result
+- in an {@Organization} award
+- If it's  {@Quantity}, that's quite a high number of {@Location}s in which the {@Skill}'s position
+- is found substantially -- not substantially justified as
+- well as {@Skill}ly err{@Quantity}ous
+- In {@PersonType} {@Location}s, it's even worse
+- The {@Location} of {@PersonType} Appeal Web site -- this the number of
+- {@Location}s -- all together -- number of dispositions per year
+- and the number of {@Organization} awards
+- And for  and , if you add up the numbers, out of all the {@PersonType}
+- disability {@Location}s filed,  {@Quantity}, -, result in an
+- {@Organization} award
+- So theres quite a large number of {@Location}s in which -- in -- in a {@PersonType} context or {@Organization}
+- {@Skill} context where the {@Skill}'s position is
+- found not to be --{@PersonType} BREYER: I don't understand your earlier point
+- {@Organization}
+- {@Person}: I'm sorry
+- {@PersonType} BREYER: {@Organization}agine that if Joe Smith is in a lot of financial trouble
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: His house is being foreclosed on --{@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: -- all his {@Location} accounts are attached
+- Then he gets some m{@Quantity}y from the {@Skill} and -- including an {@Organization} fee
+- {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: And it's $, of m{@Quantity}y and , for the fee
+- They put it in his {@Location} account
+- It was attached, good-bye, nobody sees the m{@Quantity}y, because
+- it's whoever attached it got the m{@Quantity}y
+- Is that
+- possible? {@Organization}
+- {@Person}: Are we talking about the {@Skill}? {@PersonType} BREYER: I'm making this up
+- I'm not talking about the {@Skill}
+- I'm saying the {@Skill} paid him , plus , in an {@Organization} fee, and
+- the {@Location} got all the m{@Quantity}y because it had attached his
+- {@Location} account
+- Is that possible? {@Organization}
+- {@Person}: Is this in a {@Organization} --{@PersonType} BREYER: I'm making it up
+- No
+- It has nothing to do with -- I'm just making up --{@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: -- a hypothetical
+- {@Organization}
+- {@Person}: Yes, it is
+- Sorry
+- {@PersonType} BREYER: All right? {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: You follow that
+- Those are the facts
+- {@Organization}
+- {@Person}: I think so
+- {@PersonType} BREYER: Okay
+- So {@DateTime}, Joe Smith is doing much better
+- Couldn't the {@PersonType} {@DateTime} sue him for the $,, say Id like it? It went to the {@Location} because they had attached the {@Location} account
+- {@Organization}
+- {@Person}: Outside the {@Organization} context, yes, I think so
+- {@PersonType} BREYER: All right
+- {@DateTime}, suppose it happened to be that that ,,  for the {@Quantity} and  for
+- the other, came from {@Organization}
+- Then how does that make a difference? {@Organization}
+- {@Person}: The {@Location} could not take it because of the anti-assignment provision --{@PersonType} BREYER: It couldn't take ,? {@Organization}
+- {@Person}: Couldn't take any of it under --{@PersonType} BREYER: Couldn't take any of it
+- Because of? {@Organization}
+- {@Person}: --  U
+- {@PersonType} BREYER: Is that in here? {@Organization}
+- {@Person}: Yes,  U
+- -- it's cited, if its not quoted -- prohi{@Quantity}s assignment of {@Organization}
+- {@Skill} benefits
+- But, Justice {@Person}, if I --{@PersonType} BREYER: And the {@Organization} fee counts as a {@Organization} benefit? {@Organization}
+- {@Person}: Oh, I'm sorry
+- I thought we were outside the {@Organization} context
+- {@PersonType} BREYER: I changed it and said, {@DateTime}, how does it matter if its {@Organization}? (Laughter
+- ) {@Organization}
+- {@Person}: If it's an {@Organization} fee in a {@Organization} context, the {@Location} cannot take that because of
+- the Federal -- well, because the {@PersonType} -- the
+- {@Skill} admits the constructive trust exists in favor of the {@PersonType} with respect to those funds
+- {@PersonType} BREYER: If you win this {@Location}? {@Organization}
+- {@Person}: No
+- The {@Skill} says -- has said that in its reply brief
+- {@PersonType} BREYER: In other words -- in other words, no {@Quantity} can attach? No {@Quantity} can -- no {@Quantity} get the {@Organization} fee by attaching the {@Location} account of the {@PersonType}? {@Organization}
+- {@Person}: Yes
+- {@PersonType} BREYER: Okay
+- {@Organization}
+- {@Person}: And I wanted to get back to the point you asked, Justice {@Person} --{@PersonType} BREYER: Well, skip my points
+- Theyre too complicated
+- (Laughter
+- ) {@Organization}
+- {@Person}: Well -- but during -- during Mr
+- {@Person}'s argument, you asked about this -- this
+- re{@Skill} agreement
+- The concept of a re{@Skill} agreement being any use to a {@PersonType} who is thinking
+- about taking {@Quantity} of these {@Location}s is fanciful for {@Quantity}
+- reasons: Number {@Quantity}, SSI benefits by statute are limited to, quote, "{@Quantity}d, blind, and {@PersonType} people who
+- have little or no m{@Quantity}y
+- " So, I don't k{@DateTime} where the {@PersonType} or blind or {@Quantity}d person is going to get the m{@Quantity}y to enter into
+- any re{@Skill} agreement
+- But the {@Quantity} reason it's fanciful is that the {@PersonType} only has  days from final {@Quantity}ncy action
+- to file the {@Location} in Federal {@Location}
+- And, so, there is  days to, you k{@DateTime}, meet with the {@PersonType} and try to
+- get an answer out of the {@Skill}
+- I've never tried to do this -- I don't k{@DateTime} any{@Quantity} who has -- but I don't
+- think youre going to get much of an answer at  days
+- asking the {@Skill} to do this so the {@PersonType} can
+- then recover a fee
+- Finally, theres -- theres a critical point here that I need to get to, which is that I think
+- {@Organization} has told us exactly what this langu{@Quantity} means
+- Here's why
+- In , {@Organization} enacts {@Organization} and uses this section  langu{@Quantity} which talks about who gets the fee,
+- large or smaller fee
+- Okay
+- In , {@Organization} extends {@Organization} to {@PersonType} claims
+- And when it does that, in  U
+- , {@Organization} uses the same langu{@Quantity}, down to the exact commas in the same place, that it has d{@Quantity} in
+- During this entire period -- and here's why that's important -- during that entire period from
+- to , and indeed continuing many years after that,
+- but for purposes here, , the administration is every
+- time paying the {@PersonType}s fee to the {@PersonType} under
+- {@Organization}
+- And so when {@Organization} in  uses the same langu{@Quantity} for {@PersonType} {@Organization} claims that it used for
+- {@Organization} {@Organization} claims  years earlier,
+- {@Organization}, as a matter of {@Skill}, is incorporating the
+- settled administrative {@Skill} --{@PersonType} {@Person}: I thought the -- I thought the {@Skill} said they only did that when --
+- when the {@Location} directed that it be paid to the {@PersonType}
+- {@Organization}
+- {@Person}: Mr
+- {@Person} was talking about from  on
+- From  -- from  to , every {@Organization} fee went to the {@PersonType}
+- {@PersonType} {@Person}: Because there was no {@Skill} in the picture because the {@Skill} wasn't
+- {@Skill}ting
+- {@Organization}
+- {@Person}: {@Quantity} responses, Your {@Skill}: The {@Skill} came into the picture in , but the {@Skill}
+- says it wasn't practical to
+- Even if you grant them that point, the {@Quantity}ncy had to make -- totally apart from
+- {@Skill}, the {@Quantity}ncy had to decide who these fees should
+- be paid to under section  -- I mean under {@Organization}
+- The {@Skill} had to say, who does this statute say fees should be paid to? {@DateTime}, had the {@Skill} said, well, fees go to the {@PersonType}, says, you
+- k{@DateTime}, award to the prevailing party, fees and other
+- expenses, we are going to pay {@PersonType}'s fees to
+- {@PersonType}s, which had never happened
+- But had the {@Skill} said that -- that's not what they said
+- They look at the statute
+- They look at the fact that the {@PersonType} earned the fees, and they say we
+- are going to pay these fees to the {@PersonType}
+- So that's whats going on at the time {@Organization} in  copies its
+- langu{@Quantity} --{@PersonType} {@Person}: But {@Organization} has provided in some statutes, the {@Organization} Act itself, ,
+- that you quoted, for the fee to be paid directly to the
+- {@PersonType}
+- Here it used different langu{@Quantity}; it said pay the prevailing party
+- {@Organization}
+- {@Person}: Just {@Quantity} points, Justice {@Person}: Number {@Quantity}, we get back to this question about does {@Skill} mean who receives the check
+- or who is entitled to benefit from it? Number {@Quantity}, {@Organization} doesn't say pay to the party
+- {@Organization} doesn't use the phrase {@Skill};  says {@Skill} to the {@PersonType}
+- {@Organization} doesn't say that, "{@Skill}," at all
+- The only place you find "pay" in {@Organization} is where it says the {@Skill}
+- cannot be required to pay a {@Skill} fee
+- There is this, shall award to a prevailing party fees and other expenses, and (d)()(A) defines
+- fees to include quote, "{@PersonType} fees," close quote
+- I'm finishing my sentence, Your {@Skill}
+- {@PersonType} {@PersonType} {@Person}: Go a{@PersonType}
+- {@Organization}
+- {@Person}: Thank you
+- And -- and so {@Skill} isn't even in {@Organization}
+- {@PersonType} {@PersonType} {@Person}: Thank you, {@PersonType}
+- {@Organization}
+- {@Person}: Thank you very much, Your {@Skill}
+- {@PersonType} {@PersonType} {@Person}: Mr
+- {@Person}, you have  minutes remaining
+- REBUTTAL ARGUMENT OF ANTHONY {@Person} ON BEHALF OF THE PETITIONER {@Organization}
+- {@Person}: I believe I heard {@PersonType} concede that {@Organization} fees outside of the {@Organization} context
+- are payable to the prevailing party and therefore
+- subject to {@Skill}
+- That's true
+- {@Organization} does not draw a distinction between {@Organization} fees and other types
+- of fees
+- Section  uses the same langu{@Quantity}, {@Location} shall award to the prevailing party fees and other
+- expenses
+- I believe that disposes of this {@Location}
+- {@Quantity}, {@PersonType} relies on a definition of representative {@PersonType} in the {@Skill} regulations
+- That's addressed at reply -- our reply, p{@Quantity} , footnote
+- A representative {@PersonType} -- as the Federal Register provisions
+- that relate to this make clear, it refers to things like
+- {@PersonType}s, it refers to things like {@PersonType}s, where the
+- beneficial interest is not that of the {@PersonType} or the
+- {@PersonType} but the {@PersonType} and the child
+- It would be entirely unworkable if any time that a {@PersonType} owes some debt that {@Quantity} party might
+- claim an interest to, that the {@Skill} would have to
+- find out the {@PersonType}'s finances and obligations in order
+- to execute an {@Skill}
+- It's simply not the way the {@Skill} program was designed, and it's not reflected in
+- the regulation
+- {@PersonType} {@PersonType}: Counsel, is your adversary correct that under (b) --{@Organization}
+- {@Person}: ()
+- {@PersonType} {@PersonType}: -- (b)(), that if these {@PersonType}s -- if any {@PersonType} attempts to collect from
+- a {@Organization} or {@PersonType} {@PersonType} any fees outside
+- of those granted --{@Organization}
+- {@Person}: No
+- Section (b) of the {@Organization}, which is reproduced on a of our appendix, states that
+- section (b)(), the provision you were talking about,
+- shall not apply with respect to any such award, meaning
+- any award under {@Organization}, so long as where the {@PersonType}
+- receives fees, the smaller fee is returned
+- So --{@PersonType} {@PersonType} {@Person}: Counsel, do you -- do you dispute your {@PersonType}'s statement that  {@Quantity} of
+- the time in {@Organization} {@Location}s the {@Skill}'s
+- position is unjustified, and  {@Quantity} of the time in
+- {@PersonType} {@Location}s? {@Organization}
+- {@Person}: Well, I think that reflects the stakes often, Your {@Skill}
+- Oftentimes the {@Skill} does not con{@Skill}, for instance, a $, {@Organization} award
+- and because it's the {@Skill}, it has to --{@PersonType} {@PersonType} {@Person}: So whenever it really makes a difference --{@Organization}
+- {@Person}: No --{@PersonType} {@PersonType} {@Person}: --  {@Quantity} of the time the {@Skill}'s position is substantially unjustified? {@Organization}
+- {@Person}: In {@Location}s -- in the {@Location} context, the number is not quite that large, but theres a substantial
+- number of {@Location}s at the {@Location} of appeals --{@PersonType} {@PersonType} {@Person}: What number would you accept? {@Organization}
+- {@Person}: It was, I believe, in the order of either  or {@DateTime}be slightly more than  {@Quantity}
+- It might be
+- But the number is substantial that you get a reversal, and in almost all of those {@Location}s, {@Organization} --{@PersonType} {@PersonType} {@Person}: Well, that's really startling, isn't it? In {@Skill} with veterans, the {@Skill} more often than not takes a position that is
+- substantially unjustified? {@Organization}
+- {@Person}: It is an unfortunate number, Your {@Skill}
+- And it is -- it's accurate
+- {@PersonType} that last hired is laid off, on the ground that if
+- {@Location} had d{@Quantity} what it was supposed to do, this person
+- would have had the job long ago and would be higher up
+- on the seniority list? {@Organization}
+- {@Person}: Let me give you {@Quantity} responses to that
+- The {@Quantity} answer is that the statute of limitations is  days after every use, and it's no
+- longer
+- So for whatever it is, if you violate Title VII, the statute of limitations is  days
+- If there is a use that goes into the future, it's  days
+- after the last use
+- Right {@DateTime}, {@Location} has stopped using that
+- The {@Product} are closed
+- No {@Quantity} else can challenge this
+- To your specific question about how would it work if there was a layoff arrangement, the proposed --
+- the remedy order in this {@Location} -- it's not in effect
+- because we are where we are -- but the remedy order in
+- this {@Location} includes shutting down the use of this, but it
+- also has provisions for seniority to in fact address, I
+- believe, exactly the circumstances you just described,
+- Justice {@Person}
+- So I believe that is contemplated and handled in the remedial order
+- The issue about the {@Skill} here, though, is that if you don't say that a use, in fact, can be
+- {@PersonType} challenged, a use of something un{@Skill}ful can be
+- challenged, what you could end up with here is that
+- {@Location} would then take the mess{@Quantity} that it's okay once
+- they are past the {@Quantity}  days, and they could just go
+- on using the discriminatory cutoff score over and over
+- and over again, and that is inconsistent with the
+- overall {@Skill} of what Title VII is trying to root out
+- of our {@Skill} and in our workplace
+- {@PersonType} STEVENS: Mr
+- {@Person}, can I ask this general question? Am I correct that each {@PersonType} in the {@PersonType} group who did not make the well-{@PersonType}
+- has a cause of action as though he had been refused
+- {@Skill} when any{@Quantity} else is hired? There were  people hired, as I understand
+- Did each {@Quantity} of those {@Skill}s give everybody else in the {@Event} a cause of
+- action? {@Organization}
+- {@Person}: The group of the black {@PersonType} {@PersonType}s that are in the {@PersonType} category,
+- but the {@PersonType} category is {@PersonType} as the other
+- category -- every time the {@Location} made decisions about
+- filling jobs in the {@Location}, it excluded every
+- single {@Quantity} of those {@PersonType}s, even though they were
+- {@PersonType}
+- So every single {@Quantity} was excluded
+- So they all have a cause of action because they were excluded and that clearly fits very easily
+- {@PersonType} within how --{@PersonType} STEVENS: But surely they couldn't all recover, because there was only {@Quantity} job available
+- {@Organization}
+- {@Person}: No
+- That's correct
+- That's about what the remedy would be
+- So the remedy and -- you k{@DateTime}, obviously wouldn't be to give all of them jobs
+- That's not the remedy, and that wasnt the remedy that's
+- sought -- was sought here
+- But they were all excluded from consideration, and that's a violation of Title VII's
+- disparate {@Skill} prohi{@Quantity}ion
+- So they all have a cause of action
+- The way the remedy would work --{@PersonType} STEVENS: What is -- what is the remedy other than saying change your {@Event}? What is -- say {@Quantity} person sues and asks for dam{@Quantity}s, what
+- would the remedy be for a single {@PersonType} who was not
+- hired at the time somebody else was hired? {@Organization}
+- {@Person}: It {@DateTime} be very little
+- So if it's a single {@PersonType} who sues and not a {@Event} -- this
+- is a {@Event}
+- So if a single {@PersonType} sues, the remedy would be to stop using the un{@Skill}ful cutoff score, okay,
+- and then to figure out what would have happened if that
+- un{@Skill}ful cutoff score hadn't have occurred, and that
+- would have created a very miniscule chance of ever
+- becoming a {@PersonType} and perhaps turning that into
+- {@PersonType} some sort of dam{@Quantity} award, but it would be miniscule
+- In the actual event, the award includes some actual jobs being allocated to the , {@PersonType} of the
+- {@Event} -- it was  -- to be decided upon in some random
+- way that they would be hired
+- But that's how it would work
+- But they are all clearly injured when they are all excluded from consideration in all  rounds, in
+- violation of Title VII
+- {@PersonType} {@PersonType} {@Person}: But that -- each --each {@PersonType} {@PersonType} who did not get a job because
+- the well-{@PersonType} {@Quantity} did has a new cause of action, I
+- guess, every time somebody is hired from the -- the
+- well-{@PersonType} {@Location}? {@Organization}
+- {@Person}: Every time --{@PersonType} {@PersonType} {@Person}: In other words, somebody is hired, that constitutes discrimination
+- against the {@PersonType} black {@PersonType} who was not
+- hired, and then another -- then somebody else is
+- hired -- each time it's a new cause of action? {@Organization}
+- {@Person}: They had  rounds of {@Skill} --{@PersonType} {@PersonType} {@Person}: Yes
+- {@Organization}
+- {@Person}: -- that are relevant to this {@Location}
+- There are other rounds afterwards
+- They exhaust the {@Quantity} category
+- But in the  rounds of {@Skill}, when in every {@Quantity} of those rounds the un{@Skill}ful cutoff score is used, that is
+- {@PersonType} action upon the results
+- That is a limitation
+- You k{@DateTime}, that is the use of something that causes an adverse {@Skill}
+- on the basis of {@Event} -- and, yes --{@PersonType} {@PersonType} {@Person}: Yes, so they would have a new cause of action, sure
+- {@Organization}
+- {@Person}: Thats a cause of action
+- {@PersonType} {@PersonType} {@Person}: {@DateTime}, but they -- but if  days go from the {@Quantity} round of {@Skill}, they
+- don't -- they cannot sort of piggyback that onto a later
+- cause of action
+- {@Organization}
+- {@Person}: Yes, if they sue -- in this {@Location}, the {@Organization} charge was filed after the {@Quantity} round
+- of {@Skill}, and in this {@Location} then, therefore, no remedy
+- can take account of the {@Quantity} round of {@Skill}
+- If they had sued only on the {@Quantity} round of {@Skill}, no remedy
+- could take account of those forg{@Quantity} opportunities
+- So, that would also play out in how the remedial order would
+- work
+- And I think I want to reserve the rest of my time
+- {@PersonType} {@PersonType} {@Person}: Thank you, {@PersonType}
+- Mr
+- {@Person}
+- ORAL ARGUMENT OF {@Person}
+- {@Location} ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, SUPPORTING THE {@PersonType}
+- {@PersonType} {@Organization}
+- {@Location}: Thank you, Mr
+- {@PersonType}, and {@DateTime} it please the {@Location}: As the questions I think reveal, I think the bottom line question in this {@Location} is whether or not
+- under the text of Title VII there was a present
+- violation in each of the  rounds of {@Skill} when the
+- City of {@Location} relied on its concededly discriminatory
+- {@Skill} to exclude the {@PersonType} from consideration
+- And we think that Title VII has {@Quantity} mutually reinforcing
+- provisions in it, each of which point to the same
+- conclusion
+- A violation of Title VII occurred in this {@Location} when {@Location}, in each of those  rounds, used its
+- {@Skill} {@Event} with -- and caused a disparate {@Skill},
+- thereby limiting the {@Skill} opportunities of certain
+- {@PersonType}s
+- {@Location} gave an ability {@Skill} and relied on that ability {@Skill} in a way that Title VII forbids
+- It took action upon the results of that discriminatory {@Skill}
+- in a way that ar{@Quantity}rarily excluded {@PersonType} {@PersonType}s
+- from being hired
+- Justice {@Person}, I think -- in response to your question, I think our position follows entirely from the
+- text of the statute
+- Were not as concerned about the {@Skill} consequences, though we do think that if the
+- {@Location} were concerned about the {@Skill} consequences, we
+- {@PersonType} think that theres a good reason why {@Organization}
+- distinguished between disparate treatment and disparate
+- {@Skill} {@Skill}
+- But it's the langu{@Quantity} of Title VII itself, and in particular (h), which forbids action
+- upon the results
+- {@PersonType} {@Person}: Why would {@Organization} have wanted to allow a question like this to be left open for
+- such an extended period of time? Why would it not have wanted everybody who is potentially affected by it to
+- understand where things stand at a much earlier point,
+- at some reasonable period of time after all of the
+- information is in the -- in the possession of a
+- potential {@PersonType} to determine whether there has been
+- a disparate {@Skill} and whether that -- that person is
+- going to be adversely affected by it, particularly if at
+- a later point the effect of a remedial decree can be to
+- upset the {@Skill} -- the {@Skill} status of other
+- people who have been hired in the interim? {@Organization}
+- {@Location}: I agree that there -- there might be {@Skill} arguments against it as well as for it,
+- but here's the way I think we look at it -- and the
+- {@Location} {@Location} is the nation's largest {@PersonType}, and we
+- face similar concerns
+- We give certain {@Skill}s
+- But I think what might have been -- what was probably animating {@Organization} was a fear that if the
+- {@PersonType} rule of the City of {@Location} were adopted, then an
+- {@PersonType} who made it  days without an {@Organization} charge
+- being filed,  days after the announcement of the {@Skill}
+- results, would then be able to for all time use that
+- discriminatory {@Skill}, and it would lock in that period,
+- that {@Skill}, for as long as ,  years, and {@Organization}
+- could have legitimately worried about if a {@Skill} made it
+- days, an {@PersonType} essentially had a get-out-of-jail-
+- free {@Product}d to use for all time
+- And I would say that that precise thing appears to have happened in this very
+- {@Location}
+- At Joint Appendix p{@Quantity} , when the City announced its {@Skill} results in {@DateTime} of ,
+- it said it intended to use this {@Skill} for only
+- years through
+- Afterwards,  came, the City, in the City's own {@Product} -- this is the {@Location} of appeals
+- brief at p{@Quantity}  -- they admit they made a new decision
+- to continue using this {@Skill} and the {@Skill} results for
+- subsequent {@Skill} rounds
+- That was a new decision, and indeed that's a decision, I think, many {@PersonType} would
+- logically make after  years, because then they
+- don't have to worry about the possibility of a disparate
+- {@Skill} {@Skill}{@Product}
+- And since, as this {@Location} said in {@Person}, {@Quantity} of the goals of Title VII is really to encour{@Quantity}
+- {@PersonType} voluntary {@Skill} on the part of {@PersonType}, adopting
+- a rule like the City of {@Location}'s is really antithetical
+- to that, because then it will essentially lock in for
+- all time that old discriminatory {@Skill}
+- I think another reason {@Skill} -- another {@Skill} reason {@Organization} {@DateTime} have thought about is that a
+- rule that forced people to file within  days might be
+- damaging to the {@Organization} and divisive to {@PersonType}, because
+- it would say you only have that -day period to file,
+- even before all the consequences of the -- of the -- of
+- the {@Skill} decision are fully understood
+- {@PersonType} KENNEDY: Well, actually in -- in this {@Location}, am I correct that -- that  years has g{@Quantity} by,
+- but that's because of the {@Skill}? The {@Product} was filed, what,  months after the -day period ran? {@Organization}
+- {@Location}: The {@Quantity} charge was filed, I believe,  days after the {@DateTime} th announcement of
+- the {@Skill} results
+- And, yes, Justice {@Person}, then there was a period of {@Skill} and {@Skill} over business
+- necessity and the like
+- And in this {@Location}, the City admitted in other {@Skill} that there was no basis for giving this
+- cutoff score, that a person who scored  was just as
+- likely to succeed as a {@PersonType} as a person who
+- was -- who had scored
+- {@PersonType} Justice {@Person}, you had asked about the remedy in the {@Location}, and here's how we understand the way
+- remedies work in disparate {@Skill} {@Skill}: It's largely injunctive in nature
+- It's mostly about preventing future problems
+- There is a back pay claim that is available that is statutorily capped at  years
+- Not every{@Quantity} in this ,-person {@Event} could get that full amount of
+- back pay obviously
+- Instead, what happened here, there was a remedial phase at {@Event}, and what they did was they
+- decided that -- the {@PersonType}s on both sides admitted that
+- people, approximately, would have been hired out of
+- that {@Event}, and that provided the appropriate amount of
+- back pay
+- {@PersonType} {@PersonType} {@Person}: So you get --{@PersonType} KENNEDY: Was it -- was it  named people or was it just  undifferentiated? {@Organization}
+- {@Location}: I think it was  undifferentiated people, and then I think there --
+- and Mr
+- {@Person} can, I think, fully explain how the
+- randomization of awards was allocated
+- {@PersonType} {@PersonType} {@Person}: So everybody gets  over , times whatever the number of people who
+- would have been hired? {@Organization}
+- {@Location}: Right
+- And --
+- {@PersonType} {@PersonType} {@PersonType} {@Person}: I mean the pay for the number of people
+- {@Organization}
+- {@Location}: Right
+- And, Mr
+- {@PersonType}, to respond to your concern before, that amount of m{@Quantity}y
+- is not -- you couldn't go back and look to earlier
+- periods of time outside of the statute of limitations,
+- outside of the -day period, rather only any
+- subsequent use
+- For {@Event}ple, in this {@Location} the remedy couldn't look to the {@Quantity} round of {@Skill} because no
+- {@Skill}{@Product} was brought within that {@Quantity} round of {@Skill}
+- It was brought at the -- it was brought after the {@Quantity}
+- round of {@Skill}
+- {@PersonType} {@Person}: I think you had a footnote in your reply brief that said that if your
+- position prevails there would need to be an adjustment
+- in the relief granted by the {@Location} {@Location} --{@Organization}
+- {@Location}: That is --{@PersonType} {@Person}: -- wasnt it? {@Organization}
+- {@Person}: That is correct
+- And I think that the {@PersonType}s agree with that as well
+- And that's I think a further limit on the way in which this
+- present violation theory operates as a matter of
+- {@Event}
+- {@DateTime}, this {@Location} has said in {@Location}s such as {@Person} that -- that there must be a present
+- violation, and disparate {@Skill} {@Skill} looks quite
+- {@PersonType} different than disparate treatment {@Skill} in
+- {@Event}, because disparate {@Skill} {@Skill} doesn't
+- need that missing element that has been at issue in
+- {@Person} and Evans and Ricks, of discriminatory intent
+- at that subsequent time of action
+- Here, in a disparate {@Skill} {@Location}, all that need be shown by the {@PersonType} is adverse {@Skill}, and
+- that adverse {@Skill} happens in each of those  rounds
+- of {@Skill}
+- Each of the time -- each time the City used its {@Skill} results and drew a line and said, you under ,
+- we are not looking at you, that was action upon the
+- results, to use the langu{@Quantity} of (h)()
+- {@PersonType} {@Person}: And that would be clear even though it had not been established much earlier
+- that the {@Skill} was invalid
+- So a {@Location} could go along using a {@Skill} that was an invalid {@Skill}, not declared
+- such;  years later, somebody comes up and says: This {@Skill} that is being applied to me is an invalid {@Skill}
+- {@Organization}
+- {@Location}: That's exactly correct, Justice {@Person}
+- {@PersonType} {@Person}: What -- of what use is a statute of limitations that -- that -- that operates
+- that way? {@Organization}
+- {@Location}: Let me say {@Quantity} things: {@Quantity} is I think (h)() refers to "action upon the results,"
+- {@PersonType} and that thing happened in  years is itself action
+- upon the results, and so I think as a statutory matter
+- the langu{@Quantity} decides it
+- {@DateTime}, with respect to the {@Skill} reason, I think the reason is that otherwise {@Organization} had to fear
+- precisely what youre saying, that an {@PersonType}
+- years from {@DateTime} would use that discriminatory {@Skill},
+- because they knew they had made it past the -day
+- initial phase of time, and then could use it for all
+- time
+- And so the statute of limitations and the concerns about repose work hand in hand with other
+- concerns of Title VII, and in particular incentivizing
+- {@PersonType} to ensure voluntary {@Skill} with the {@Skill} of
+- Title VII, and which this {@Location} said in {@Person}, the goal
+- of which is to eradicate discrimination from the {@Location}
+- {@Location}' labor markets
+- {@PersonType} {@PersonType} {@Person}: So I suppose the benefit is not that the City k{@DateTime}s it's safe -- it can
+- rely on a {@Skill} and all that -- but k{@DateTime}s that it only has
+- to pay  days back
+- {@Organization}
+- {@Location}: That is -- that is -- that is the benefit of that particular back pay limitation, yes
+- But in a {@Location} like this, where the City k{@DateTime}s very well,
+- this {@Skill} is discriminatory and, indeed, has said so in
+- {@Skill}, I think {@Organization} wanted to incentivize and
+- {@PersonType} make sure there was an ability for people to sue at each time that discriminatory {@Skill} was used
+- If there are no further questions
+- {@PersonType} {@PersonType} {@Person}: Thank you, {@PersonType}
+- Ms
+- {@Person}
+- ORAL ARGUMENT OF BENNA RUTH {@Person} ON BEHALF OF THE {@PersonType} {@Organization}
+- {@Person}: Thank you, Mr
+- {@PersonType}, and {@DateTime} it please the {@Location}: In {@DateTime} , the City adopted and announced an eligibility list for {@Skill} {@PersonType} who
+- sat for the {@PersonType}' {@Event}ination
+- {@PersonType}s were told that a priority {@Location} had been created, that based
+- on their scores they were not {@Event}ified in that {@Location},
+- and that further consideration of {@PersonType} would be
+- limited to those who were in the priority {@Location}, at least
+- until every{@Quantity} in that {@Location} had been called for
+- {@Skill}
+- The City also publicly admitted that this tiered eligibility list had adverse {@Skill} on
+- African-{@PersonType}s, and {@PersonType}s were aware of this
+- But {@PersonType}s did not file charges challenging the
+- {@Event} and the cutoff score within  days after the
+- tiered eligibility list was adopted and announced
+- {@DateTime} they contend that charges can be filed
+- {@PersonType} to challenge the same {@Event} and the same cutoff score
+- every time the City hired from the priority {@Skill} {@Location}
+- That position cannot be squared with the statute
+- Calling other {@PersonType}s from a {@Skill} {@Location} from which
+- {@PersonType}s had already been excluded did not limit or
+- {@Event}ify {@PersonType}s in any way
+- {@PersonType} {@Person}: Suppose there were no list, but each time there was a {@Skill} round the City
+- just took from the top -- from the top score down
+- Theres no list, but each time the City uses the {@Skill}
+- results and hires the people with the top scores
+- {@Organization}
+- {@Person}: If I understand correctly, that would be the same {@Location} as this, for this reason:
+- A list is used in a couple of different ways
+- A list might be used to describe the strict {@Skill} ordering that
+- Your {@Skill} is describing, and in that {@Location}, once there
+- is that kind of a list, it's the same as this {@Location}
+- What happened in this {@Location} after that kind of a list was made, we also drew another line, which was
+- the priority {@Skill} {@Location}
+- {@PersonType} {@Person}: No, my -- my hypothetical was theres no list at all
+- {@Organization}
+- {@Person}: If --{@PersonType} {@Person}: They just go back to the raw scores, and each time they picked the top people
+- {@PersonType} {@Organization}
+- {@Person}: So that actually -- if were going back to the scores but no announcement has been
+- made ever that we are going to use the scores in a
+- certain way, we agree that every time the {@Location} actually
+- consulted the scores, there would be a new claim
+- But that's because --{@PersonType} {@Person}: Well, what is -- what is the list, other than an administratively convenient way
+- to use the scores? {@Organization}
+- {@Person}: The list was the device that limited and {@Event}ified {@PersonType}s in this {@Location}, and
+- that's why it's so important
+- Because in order to have a present cause of action, section (a)() -- under
+- section (a)(), which is the disparate {@Skill} provision,
+- {@PersonType}s have to point to something in the {@Skill}
+- period that actually limited and {@Event}ified them
+- And that was the effect of the list, and including the
+- priority {@Skill} {@Location}
+- In a {@Location} where there is no {@Skill}, no announcement, no decision, nothing, but
+- rather every time the City makes {@Skill}, the City
+- undertakes a new decision with new criteria, then it is
+- making a decision at that point; it is engaging in a
+- {@Event} that is then at that time limiting and
+- {@Event}ifying the {@PersonType}s
+- What happened --
+- {@PersonType} {@PersonType} {@Person}: So even though there is a clear {@Location} on the merits of disparate {@Skill}, unless the
+- {@Product} is commenced within  days of the announcement,
+- then it's as though it were {@Skill}ful
+- That's your position
+- {@Organization}
+- {@Person}: The statute, (a)(), requires an un{@Skill}ful --{@PersonType} {@Person}: Is that -- is that --there's a free pass
+- You don't sue within  days of the {@Skill} of the list and the notice of the list; you sue
+- days later
+- The discriminatory {@Event} gets frozen, the status quo gets frozen forever
+- That's -- that is your position, is it not? {@Organization}
+- {@Person}: That is the function of the operation of the statute of limitations, and of course
+- it's not unique to Title VII
+- {@PersonType} {@Person}: But this is not exactly a title -- a statute of limitations
+- It's a time you have to file your charge
+- It's a charge {@Skill}
+- {@Organization}
+- {@Person}: Correct
+- And --{@PersonType} {@Person}: Theres also a -year statute of limitations in Title VII
+- You can't get back pay, I think, for more than  years
+- {@Organization}
+- {@Person}: The -day {@Skill} period under Title VII functions like a statute of limitations,
+- {@PersonType} and when a timely charge is not filed, no recovery can
+- be had for that claim
+- And the {@Location} has said that over and over in a series of disparate treatment {@Location}s
+- {@DateTime}, the defining feature --{@PersonType} {@Person}: You -- you don't have {@Quantity} {@Location}, I think, certainly not from this {@Location}, of
+- disparate {@Skill}
+- All the {@Location}s that you cite are disparate treatment {@Location}s
+- {@Organization}
+- {@Person}: The {@Location}s are disparate treatment {@Location}s, Justice {@Person}, but the rule should
+- be the same in this {@Location} for several reasons: {@Quantity},
+- those {@Location}s reflect that the reason there is not
+- a present violation when the consequences of a prior
+- discriminatory act are felt is because the defining
+- feature of the claim is absent within the {@Skill}
+- period
+- {@DateTime}, that is a perfectly good rule, no matter whether it's discriminatory treatment or discriminatory
+- {@Skill}
+- And in this {@Location}, the defining feature, namely disparate {@Skill} in the sense defined by the statute,
+- required by the statute, to limit or {@Event}ify in a way
+- that denies people {@Skill} opportunities based on
+- {@Event} -- that defining feature was absent within the
+- {@Skill} period
+- {@PersonType} BREYER: How is it absent? Because
+- {@PersonType} the statute says that the established -- the -- it's
+- established -- namely, the un{@Skill}ful {@Skill} {@Event}
+- -- it's established only if, and certainly if, the
+- {@PersonType} uses --{@Organization}
+- {@Person}: Right
+- {@PersonType} BREYER: -- a particular {@Skill} {@Event} that has a disparate {@Skill}
+- That refers back to (a)()
+- So back in that period, on a certain date, he used that limiting {@Event}, and, therefore, on that
+- particular date, he established the un{@Skill}ful {@Skill}
+- {@Event} by using a {@Skill} that limited, et cetera
+- {@Organization}
+- {@Person}: I -- I have {@Quantity} responses, Justice {@Person}, and the {@Quantity} is that section (k), which
+- is what Your {@Skill} is quoting from, does not describe
+- accrual, and it does not define the underlying violation
+- It talks about when an -- excuse me, when a violation is
+- established
+- And what's so interesting is that the reliance on those words "uses an {@Skill} {@Event}" --
+- its a few words plucked out of the middle of section (k)
+- You actually can't apply section (k) literally to this {@Location} and have anything that approaches
+- anything that makes sense
+- And that's because section (k) actually goes on after those words that get highlighted over and over, and its -- and it refers to
+- {@PersonType} the rest of what happens in a {@Location} when a claim of disparate {@Skill} is tried
+- And so if you --{@PersonType} {@PersonType}: So why don't we look at subsection (h) --{@Organization}
+- {@Person}: Subsection --{@PersonType} {@PersonType}: -- that says -- and it's an -- "it shall be an un{@Skill}ful {@Skill} {@Event} for
+- an {@PersonType} to give and" -- conjunctive -- "and act
+- upon the results
+- " {@Organization}
+- {@Person}: Correct
+- {@PersonType} {@PersonType}: So when you hire, aren't you acting upon the results? And how are you acting upon -- you {@DateTime} be acting upon it, as {@PersonType} argues,
+- when you {@Event}ify, but why aren't you acting upon when
+- you hire? {@Organization}
+- {@Person}: Because there is no act that limits and {@Event}ifies
+- And whats interesting about section (h), it's not --{@PersonType} {@PersonType}: I -- I go back to Justice {@Person}'s point
+- Isn't it, in the very act of {@Skill}, you are using the {@Skill} results and saying --
+- each time you do it, youre saying: I'm going to cut off at this limit, and I'm not going to consider some{@Quantity}
+- outside of this limited tier
+- {@PersonType} {@Organization}
+- {@Person}: Well, that's what is actually missing in this {@Location}
+- The {@Location} did not go back to the {@Skill} results, and it did not -- it did not create --
+- eng{@Quantity} in a new decision or a new {@Event}
+- {@PersonType} {@PersonType}: But isn't that what "{@Event} and {@Skill}" means? Meaning that each time, as you continue {@PersonType}, you are using a particular
+- {@Event}, a particular {@Skill}? {@Organization}
+- {@Person}: {@PersonType}s continued to be ineligible for as long as the list was used in the way
+- that we said at the outset it was going to be used;
+- namely, that the well-{@PersonType} {@Location}, the priority
+- {@Skill} {@Location}, would be called {@Quantity}
+- The reason they continued to be ineligible is because they had been limited and {@Event}ified as
+- ineligible until the priority {@Location} was hired {@Quantity}
+- That was the only {@Event} that had adverse {@Skill}
+- within -- as required by the statute, meaning limit and
+- {@Event}ify
+- {@DateTime}, to complete my answer to Justice {@Person} --{@PersonType} STEVENS: May I ask this question, Ms
+- {@Person}? Would your argument be the same if the {@Event} in this {@Location} were -- required a {@Location}
+- diploma?
+- {@PersonType} Did you understand my question? {@Organization}
+- {@Person}: I'm sorry
+- I didn't realize you had finished
+- Excuse me
+- {@PersonType} STEVENS: Suppose the {@Event} were a {@Location} diploma
+- Could that -- would you make the same argument as you're making {@DateTime}? {@PersonType} {@Person}: And let's add to that, that it was adopted  years ago --{@PersonType} STEVENS: Thats right
+- {@PersonType} {@Person}: -- and Duke Power announced to the world that it was going to use a high
+- {@Location} diploma
+- Indeed, it listed in the county all of the {@Location} {@PersonType} and said: This is the list
+- {@Organization}
+- {@Person}: A {@Location} like that might present different accrual problems for this reason: There might be several appropriate times when a person affected by a
+- {@Skill} like that could be said actually to have been
+- limited and {@Event}ified in their {@Skill}
+- opportunities
+- And it could be when they enter {@Location}, but that is not an appropriate time, so if it's
+- years before the act -- so that person is -- is
+- roughly  {@Quantity}
+- It could be when they apply to the {@PersonType}
+- It could be a variety of other times
+- But those {@Location}s, whatever difficult accrual problems and questions they
+- {@PersonType} present, they are not presented here, because this was a
+- closed universe
+- Everybody affected by the City's eligibility list and the {@Skill} and the cutoff score knew
+- from the moment --{@PersonType} STEVENS: No, but -- but in my {@Event}ple, everybody who is not a {@Location} graduate
+- would have been affected right away
+- {@Organization}
+- {@Person}: But if they are not interested in {@Skill} with that {@PersonType}, then they are not --
+- it -- you -- they are certainly affected in {@Quantity} sense of
+- the word, but theyre perhaps -- it would not be possible
+- to say their {@Skill} opportunities had been affected
+- We certainly agree that there should be {@Quantity} time to challenge every {@Skill} {@Event} that has an
+- un{@Skill}ful disparate {@Skill}, but the question in this {@Location}
+- is whether there is more than {@Quantity} to challenge exactly
+- the same thing? {@PersonType}s --{@PersonType} {@PersonType} {@Person}: You force people to challenge the {@Event} when they don't even k{@DateTime} if it's
+- going to affect them
+- In the hypothetical that has been discussed, somebody who didn't graduate from high
+- {@Location}, you k{@DateTime}, wants to be something other than a
+- {@PersonType}
+- But that doesn't work out, and then he says, well, {@DateTime} I want to be a {@PersonType}
+- And they say, well, you can't, because you didn't graduate from high
+- {@PersonType} {@Location}
+- {@Organization}
+- {@Person}: Right
+- {@PersonType} {@PersonType} {@Person}: And I think your position is that, well, he should have filed that
+- {@Product} earlier, no? {@Organization}
+- {@Person}: Our position is that the {@Skill} period runs from the un{@Skill}ful {@Event}
+- And the {@Location} has stressed it is important to confirm --{@PersonType} {@PersonType} {@Person}: Well, but what is the un{@Skill}ful {@Event}? {@Organization}
+- {@Person}: The un{@Skill}ful {@Event} here was limiting and {@Event}ifying {@PersonType}s in a way that
+- deprived them of their {@Skill} opportunities
+- This is what -- this -- what they were told --{@PersonType} {@Person}: Can we put that in concrete terms? It was the  {@Quantity} cutoff, so that anybody who got below  {@Quantity} on the {@Skill} was never
+- going to be considered until all the {@Quantity} people who
+- got  to
+- {@Organization}
+- {@Person}: Correct
+- And after that decision was made, there was nothing else that {@Location}
+- did that affected {@PersonType}s in the terms required by
+- the statute
+- Hiring others did not adversely affect {@PersonType}s because they were --{@PersonType} {@PersonType}: So could you answer
+- {@PersonType} Justice {@Person}'s hypothetical? What is the difference between those people and each person who does not have a
+- {@Location} diploma is not -- and is not hired? Does that mean that the moment that they announce the high
+- {@Location} diploma requirement, that everybody who had
+- already received {@Quantity}, whether they wanted to work at
+- this job or not, had to sue, and it's only those people
+- who just received the {@Location} diploma who can sue
+- years later? {@Organization}
+- {@Person}: The statute requires that the --the complainant be limited and {@Event}ified in their
+- {@Skill} opportunity
+- So --{@PersonType} {@PersonType}: So what is the difference between the {@Skill} announcement that each
+- time I hire, I'm not going to use a {@Location} -- I'm
+- not going to look at people who don't have a {@Location}
+- diploma, and I'm not going to look at people who don't
+- have a {@Skill} score above
+- What's the difference between those? {@Organization}
+- {@Person}: The difference is that once {@PersonType}s here were {@Event}ified out of the eligible
+- {@Location} for priority {@Skill}, they were out
+- They were simply out
+- They were not being considered anymore at all
+- We didn't go back to look at the {@Skill}
+- We didn't consider {@PersonType}s
+- We didn't reject them each time
+- {@PersonType} There could be --{@PersonType} {@Person}: Well, somebody getting --some{@Quantity} getting a letter that you sent to people who
+- were {@PersonType} didn't k{@DateTime} that
+- The only thing that I see that you sent to the people who fell into the
+- {@PersonType} category was that it was unlikely, which I take
+- it means less than  {@Quantity}, that they would be called
+- for further {@Skill}, but it was possible that they
+- would be called for further {@Skill}
+- You didn't tell them anything about -- you didn't tell them that you were
+- going to fill all of your available positions with
+- people who were {@Event}ified as well {@PersonType} in that
+- letter --{@Organization}
+- {@Person}: With respect --{@PersonType} {@Person}: -- did you? {@Organization}
+- {@Person}: With respect, Justice {@Person}, the letter does say that because of the large number of
+- people who were {@Event}ified well-{@PersonType}, a step a{@PersonType}
+- of where {@PersonType}s were {@Event}ified, it was not likely
+- that they were going to be hired
+- {@PersonType} {@Person}: Right
+- That's right
+- {@Organization}
+- {@Person}: And for that reason, that is when the injury and the {@Skill} was felt
+- Whatever else later happened, whether {@Location} hired a lot of people,
+- {@Location} hired no {@Quantity}, whether {@Location} even hired some of
+- {@PersonType} the {@PersonType}s, they had years' worth of delay
+- And at this point in the {@Skill}, it is undisputed
+- The City made  hires from the {@Quantity} use of the list
+- That's more than any other {@Event} --{@PersonType} {@PersonType} {@Person}: Just to follow up on Justice {@Person}'s question, what if it were different?
+- What if the letter said, look, you didn't get, youre
+- not well {@PersonType}, but we really do expect to hire a lot
+- more, so, you k{@DateTime}, keep your fingers crossed
+- Theres a good chance that you are going to be hired
+- And you say those people should have sued right then? {@Organization}
+- {@Person}: Correct
+- Because the {@Skill}, at a minimum, is the delay in {@Skill}
+- And the {@Location} has made quite clear that you don't -- a complainant or
+- {@PersonType} does not have to feel all of the consequences
+- right at the outset to --{@PersonType} {@PersonType} {@Person}: Well, that's kind of a bad {@Skill}, isn't it? Youre telling people who {@DateTime} probably not be injured at all -- you are saying, well,
+- you still have to go into Federal {@Location} and sue
+- {@Organization}
+- {@Person}: With respect, {@PersonType} {@Person}, they are injured
+- Their {@Skill} will be delayed, possibly substantially
+- {@PersonType} {@PersonType} {@Person}: Oh, sure
+- No, I
+- {@PersonType} understand that, but, you k{@DateTime}, let's say we
+- think we are going to hire -- if the {@Skill} goes
+- through, we think were going to hire everybody else
+- by -- in  months
+- And youre saying, well, those people have to sue anyway because they are injured by
+- the -month delay
+- {@Organization}
+- {@Person}: They are injured by a -month delay
+- {@PersonType} {@PersonType} {@Person}: Yes
+- {@Organization}
+- {@Person}: But there {@DateTime} be circumstances in which information is not conveyed in a way that would
+- put a reasonable person on notice that he or she had a
+- claim right at the outset, and that relates also to the
+- {@Location} diploma hypothetical
+- If the --{@PersonType} {@Person}: Well, why did the City say that it was planning to give a new {@Skill} in
+- years and then wait {@DateTime} before giving a
+- new {@Skill}? If I received {@Quantity} of these {@PersonType} letters, and I also -- and I knew in addition that the City was
+- going to give a {@Skill} in  years, that might well
+- affect my incentive about bringing a {@Skill}{@Product} to
+- challenge this
+- {@Organization}
+- {@Person}: But it wouldn't change the fact that there had been, at least a -- if you wait for
+- the next list, you still have been delayed at least
+- {@PersonType} years in your ability to be hired as a {@PersonType}
+- And as far as the reason why we didn't follow through on the
+- aspirational goal of giving another {@Skill} within  years,
+- the {@Skill}s are very difficult and expensive to deliver,
+- I think -- to develop, excuse me
+- The record in this {@Location} actually makes that clear
+- Despite rather significant steps, including the use of a prominent African-{@PersonType} indus{@Event}
+- {@PersonType} to develop this {@Skill}, it had severe adverse
+- {@Skill}
+- The {@Skill} actually compares rather favorably to the {@Skill} that was given in the City of {@Location}, but
+- the {@Location} {@Location} invalidated it, and, you k{@DateTime}, we did
+- undertake to develop a new {@Skill}
+- But --{@PersonType} {@Person}: But you don't challenge that
+- {@Organization}
+- {@Person}: -- surely the {@Location} --{@PersonType} {@Person}: You don't challenge that
+- You {@DateTime} ack{@DateTime}ledge that the Plaintiffs were treated
+- un{@Skill}fully
+- {@Organization}
+- {@Person}: We have not pressed that claim
+- That is correct, Justice {@Person}, but --{@PersonType} {@Person}: And were you prejudiced by the delay in the {@Skill} of the {@Organization} charge? {@Organization}
+- {@Person}: There was some {@Skill}imony -- and we quote it in our brief -- about things that the person
+- {@PersonType} responsible for setting the cutoff score could not
+- remember
+- But a statute of limitations actually doesn't require prejudice, so we didn't undertake to try to
+- prove that
+- The -- repose arises naturally at the end of the {@Skill} period
+- It's not something that -- that the {@PersonType} has to earn either by capitulating to the
+- {@PersonType}' demands or otherwise proving prejudice
+- And in a {@Location} like this, it -- it wasn't possible simply to take the list down
+- The {@Location}'s opinion in {@Person} makes that quite clear
+- Our {@PersonType} told us all the way through the {@Event} -- he {@Skill}ified
+- at the {@Event} --{@PersonType} {@Person}: You didn't have to take the list down
+- You simply could have said: Any{@Quantity} who got a passing score, any{@Quantity} who is {@PersonType} -- were not
+- going to make the distinction between {@PersonType} and
+- un{@PersonType}
+- {@Organization}
+- {@Person}: I -- I believe --{@PersonType} {@Person}: You didn't have to throw out the list
+- {@Organization}
+- {@Person}: I believe --{@PersonType} {@Person}: You didn't have to throw out the {@Skill}
+- {@Organization}
+- {@Person}: I believe the {@Location}'s opinion in {@Person} addresses that as well
+- That that's a -- a
+- {@PersonType} misuse of the {@Skill} scores
+- The {@PersonType} was resolute even through the {@Event} --{@PersonType} {@Person}: I thought the {@PersonType} said -- the {@Skill} devisor said he didn't make up that
+- {@Quantity} cutoff
+- That was {@Location} that made that --that decision
+- {@Organization}
+- {@Person}: He -- his reason for suggesting the  cutoff score was because of the
+- adverse {@Skill}
+- That was an attempt to deal with adverse {@Skill}, but his position was the {@Skill} was valid
+- to measure the {@Skill} aspects that it was attempting
+- to measure, and that those related to the {@Skill}
+- {@PersonType} had to undergo in the academy
+- And he was clear as well, that a higher score created an inference that the person was more
+- {@PersonType} to -- to perform in the way --{@PersonType} {@Person}: But you -- you've lost --you've lost on that
+- {@Organization}
+- {@Person}: We have
+- But the reason that Im mentioning it is because it's not simply a matter
+- of -- of why don't you take the list down
+- At the time that the {@PersonType} is telling us the {@Skill} is valid and it
+- can -- it gives rise to an inference that people closer
+- to the top are better -- possess more of the {@Skill}
+- abilities that the {@Skill} was {@Skill}ing for, we would have
+- {@PersonType} at a minimum been {@Location}ing disparate treatment liability
+- to adjust the scores, to randomize them further, or to
+- take the list down
+- But to return --{@PersonType} {@Person}: No, but -- but going to , opening up the {@Event}ification, is not adjusting the
+- scores; it's not taking the list down; it's just saying
+- any{@Quantity} who passes the {@Skill} can proceed to the next step
+- {@Organization}
+- {@Person}: It seriously diminished the opportunities of the people who were at  and above
+- There were about , {@PersonType}s at  or above, and
+- there were ,  or above
+- So calling in random order --{@PersonType} {@PersonType} {@Person}: You've got to -- I mean, youve just got to take your -- get as good
+- {@Skill} as you can and determine is it -- are we
+- going to be in more trouble if we follow the {@Skill} or
+- more trouble if we -- if we take it down? People have to do that all the time
+- They look -- well, if I do this, I'm going to be in trouble;
+- if I do this, I'm going to -- but I have got to decide
+- what I should do
+- {@Organization}
+- {@Person}: Correct, but read in conjunction with the -day {@Skill} period
+- And I would like to follow up just briefly on answers to
+- Justice {@Person} and Justice {@Person}
+- {@PersonType} {@PersonType} {@PersonType} {@Person}: Well, I'm sorry
+- Read in conjunction with the  -- you have got to
+- finish that sentence at least, before --{@Organization}
+- {@Person}: I -- I'm sorry
+- That was the -- so, yes, at the point where the {@PersonType} is
+- assessing the options, the City was not sued within --
+- excuse me, charges were not filed within  days after
+- the tiered eligibility list was adopted and announced
+- {@PersonType}s were aware that it had adverse {@Skill}
+- No charges were filed then; no charges were filed after the
+- {@Quantity} use of the list
+- So at some point when the {@PersonType} is weighing the options, the {@PersonType} can also factor in
+- the time to challenge this has passed
+- What {@PersonType}s seek here is new opportunities --  --  opportunities to challenge
+- exactly the same thing that they -- that they would have
+- challenged if they had filed a charge promptly
+- They continue to emphasize that the eligibility {@Location}, when
+- compared with the {@Location} of {@PersonType}s, had a disparate
+- {@Skill}
+- But that's not a new violation
+- That's not a new {@Event}ification, and it doesn't limit anybody's
+- opportunities in any way beyond what they were already
+- limited
+- That's the old violation
+- That's the {@Quantity} they didn't charge
+- {@PersonType} {@DateTime}, {@PersonType}s do claim that the shortfall evidence showed that they -- showed and the use of the
+- list had disparate {@Skill} each time
+- But it actually didn't, either
+- That also was the old violation
+- That shortfall was compiled by comparing the number of
+- African-{@PersonType}s who were hired using the  cutoff
+- score and the number who would have been called for
+- further {@Skill} if --{@PersonType} {@Person}: How do you -- the problem I have with all of this -- it makes entire sense, except
+- when you read subpart (k), it says an un{@Skill}ful
+- {@Skill} {@Event} based on disparate {@Skill} is
+- established if a complaining party demonstrates that a
+- {@PersonType} uses a particular {@Skill} {@Event} that
+- causes a disparate {@Skill} on the basis of {@Event}
+- {@Organization}
+- {@Person}: Correct
+- But you have --{@PersonType} {@Person}: Which is what happened here
+- {@Organization}
+- {@Person}: But the fact --{@PersonType} {@Person}: They used --{@Organization}
+- {@Person}: Excuse me, Justice {@Person}
+- The statute goes on, and it describes the later things
+- that happened at {@Event}
+- So in our view, read literally --{@PersonType} {@Person}: Where -- where does it go
+- {@PersonType} on? To say what? {@Organization}
+- {@Person}: It goes on to say that the {@PersonType} fails to demonstrate that the challenged
+- process is job-related, or subpart (ii), there is
+- an alternative {@Event} with less disparate {@Skill}
+- So -- so (k), if (k) is going to be consulted at all, and
+- we do not think that it should be, because section
+- (e), which has always been thought of as the {@Skill}
+- period, talks about an alleged un{@Skill}ful {@Event}, and
+- that's what the person k{@DateTime}s at the outset
+- Section (k) talks about the burden of proof and how you go about proving these at {@Event}, and that's
+- why it uses the word "established
+- " But that's also why it describes the entirety of what happens at {@Event}
+- Read literally, you can pluck a few words out of the --
+- out of {@Quantity} of these provisions and say, aha, they used
+- an {@Skill} {@Event}
+- You have to read the whole thing together if youre going to read it at all, and
+- when you read the whole thing together, you come up with
+- the absurd result that the {@Skill} period doesn't run
+- until the {@Location} {@Location} brings the gavel down and
+- determines that an un{@Skill}ful {@Event} has been
+- established
+- In this {@Location}, that would have meant that the people  and below could file charges within  days
+- {@PersonType} after the {@Location} {@Location}'s decision, which is something
+- like  years after the {@Event} in this {@Location}
+- And that's because that was the moment at which it was
+- established
+- And that's why we think that (k) does not bear on this
+- And (h) --{@PersonType} BREYER: Is my impression -- is there anything else in that (k)? You see, it lists about  things, let's say  -- imagine
+- {@Quantity} of those things is that it was used
+- {@DateTime}, all the other things there will not have been -- are things that --
+- that -- to do with the {@Skill}, basically
+- So you have like {@Quantity} or seven that have to do with the {@Skill} and the
+- criteria, and then you have {@Quantity} that it was used
+- {@Organization}
+- {@Person}: Right, and that's why --{@PersonType} BREYER: And -- and so I thought, looking at the list, it's quite right that it's used for
+- a different purpose but --{@Organization}
+- {@Person}: It's not --{@PersonType} BREYER: But, I mean, this (k) has to do with a different thing, but -- but -- and the
+- critical element of it was that the {@Event} be used
+- {@Organization}
+- {@Person}: You -- but again, even if (k) is consulted -- and for the reasons that I just outlined
+- we don't think that it should be
+- It doesn't bear on accrual
+- But even if (k) is consulted, it doesn't --
+- {@PersonType} it doesn't say that any use of an {@Skill} {@Event} is
+- -- is a new un{@Skill}ful act
+- It has to be an {@Skill} {@Event} that actually has disparate {@Skill}
+- {@PersonType} BREYER: Well, you'd have to then say that all the things that are there, the other {@Quantity}
+- and so forth -- all those {@Quantity} things --{@Organization}
+- {@Person}: This is actually --{@PersonType} BREYER: Well --{@Organization}
+- {@Person}: Excuse me, Justice {@Person}
+- This is actually a slightly different point
+- At the outset, I indicated why section (k) does not bear on
+- accrual at all; it describes what happens at {@Event}, and
+- for that reason --{@PersonType} BREYER: Yes
+- {@Organization}
+- {@Person}: -- you really can't pluck a few words out of the middle
+- {@PersonType} BREYER: No, well, that's true --it does --{@Organization}
+- {@Person}: But even if {@Quantity} is going to consult it to determine accrual, what it says is that
+- the use of an {@Skill} {@Event} with adverse {@Skill}
+- And in this {@Location} there was only {@Quantity}, and that {@Quantity} was
+- when {@PersonType}s were limited and {@Event}ified based on
+- the {@Skill} scores
+- Nothing that happened after that, including {@Skill} others, was an un{@Skill}ful {@Event} with
+- {@PersonType} disparate {@Skill} in a way that affected the {@PersonType}s
+- They had already been rejected
+- When an {@PersonType} says, I will not consider you for the position, or perhaps it says, I will not
+- consider you for the position until I have considered a
+- lot of other people {@Quantity}, that is a rejection
+- Nothing that happens after that, whether the person hires
+- somebody else, whether the person doesn't hire somebody
+- else, whether they change their mind and later hire the
+- person whom they had {@DateTime} rejected -- Ricks, after
+- all had a grievance pending
+- It was certainly possible that that would change the outcome in the {@Location}, but the
+- {@Location}, n{@Quantity}theless, says you cannot wait for the
+- consequences to be felt
+- {@PersonType} {@Person}: That was a disparate treatment {@Location}
+- {@Organization}
+- {@Person}: Correct, but there is no --{@PersonType} {@Person}: And the -- the argument here is disparate {@Skill} is different because theres
+- no need to show intent of disparate {@Skill}
+- {@Organization}
+- {@Person}: Correct
+- But the only {@Event} in this {@Location} that had a disparate {@Skill} in the
+- sense used by the statute was when the tiered
+- eligibility list was made
+- After that, of course there was a consequence of that
+- Consequences can be felt in
+- {@PersonType} {@Skill} for a long time
+- The people in the well-{@PersonType} {@Location} were hired before {@PersonType}s, they
+- were paid before {@PersonType}s, they are going to get
+- their pensions before {@PersonType}s
+- Those things continue to have consequences
+- But the {@Location} has made clear that the consequences cannot be challenged by themselves unless
+- there actually is a present violation
+- {@DateTime}, there is not even an argument in the other side's {@Product}, neither of them, that explains why
+- there was an adverse {@Skill} based on {@Event} under (a)()
+- at any point when the City used the list
+- If {@Quantity} reads the {@Product} very {@Product}efully, {@Quantity} will see that those times
+- when a claim is made in the {@Product} that we used an
+- un{@Skill}ful {@Event}, it always goes back to the {@Skill} and
+- the list
+- Simply keeping the list up after we announce it is not a new violation
+- It is quite clear in the {@Location}s that the {@PersonType} does not have to change a
+- decision in order to obtain repose
+- And, of course, the disparate treatment and disparate {@Skill} are simply different methods of proving
+- a claim
+- They are not different claims by themselves
+- In this {@Location}, in addition to the statutory langu{@Quantity},
+- there are a number of {@Skill} reasons that while we don't
+- {@PersonType} rely on them heavily, we do rely on the statute
+- They should n{@Quantity}theless be considered in deciding this
+- There was no sense in which a claim filed to challenge
+- the list was premature
+- It was the {@Quantity} act that actually limited and {@Event}ified {@PersonType}s
+- Everything else that happened after that either didn't affect the {@PersonType}s at all, as in
+- {@Skill} people who had made the cut, or it affected them
+- only in the colloquial sense, that the consequences of
+- the prior act continued
+- {@Location} did not have to revisit this in order to obtain repose
+- The statute makes that quite clear
+- Mr
+- {@Person} emphasizes only the {@Skill} of righting {@Skill} wrongs, but there are other policies
+- in the statute
+- In addition to repose, the statute makes clear that claims should be brought to the {@Organization} at
+- the earliest opportunity
+- Excuse me
+- We ask that the judgment be affirmed
+- {@PersonType} {@PersonType} {@Person}: Thank you, {@PersonType}
+- Mr
+- {@Person}, you have  minutes remaining
+- REBUTTAL ARGUMENT OF {@Person}
+- {@Person} ON BEHALF OF THE {@PersonType} {@Organization}
+- {@Person}: Thank you
+- {@Person}
+- {@Quantity} is that there was no formula before
+- There was some general guidance that was given in the
+- statute
+- It's much like the proposition of good faith
+- {@Skill} is almost incapable of definition, yet every
+- circuit in the {@Location} {@Location} has a laundry list of
+- factors that are taken into account for good faith
+- Here, reasonable and necessary expenses under the old {@Skill} had a few suggestions as to what
+- needed to be involved with them
+- {@DateTime} we have a portion of another part of the triangle, which is under (b)
+- {@PersonType} KENNEDY: But in a sense that cuts against you
+- As I was -- when I was reading your opening brief, it seemed to me the t{@Quantity} was, well, if
+- you accept the {@PersonType}'s position {@Organization} did
+- nothing at all
+- Well, they did do something very important
+- They had a formula for disposable income
+- The question is, does that formula apply to {@Skill}ed?
+- Can that formula be modified altered or {@Skill}ed for
+- {@Skill}ed? So it's not as if {@Organization} did nothing or it's not as if the amendment accomplishes nothing even
+- under the {@PersonType}'s view
+- It accomplished something very important
+- {@Organization}
+- {@Location}: My answer, Justice {@Person}, is that the definition of the word, quote, "{@Skill}ed,"
+- end of quote, has -- there's never has been {@Quantity} in the
+- {@Skill}
+- That was a term that was in the  {@Skill} and is {@Product}ried over into the present {@Skill}
+- How it was applied is vastly different
+- The dispute under the prior {@Skill} was over whether or not the
+- {@Location} could take into account changes in circumstances
+- which were likely to occur post{@Skill}
+- And so we had {@Location}s like the {@Person} v
+- {@Person} {@Location} out of the
+- Ninth {@Location} and the Midkiff {@Location} out of the Tenth
+- {@Location} that disagreed as to how that ought to be
+- applied
+- In the {@Person} v
+- {@Person} {@Location} the Chapter  {@PersonType} requested that the {@PersonType} sign
+- essentially a pledge that they would devote their excess
+- income to the plan, and the {@Person} {@Location} said: Wait a minute; there is another statute at issue here and that
+- allows for the modification of the plan after the plan has been confirmed
+- Prior to the {@Skill} of the plan, the {@PersonType} still has the
+- ability -- and this ties in with some of the comments
+- made by Justice {@Person} -- the {@PersonType} still has the
+- ability to amend the plan under
+- So all of these statutes need to be read together to show what the result is
+- {@DateTime} the question is not whether or not changes should be taken into
+- account for post{@Skill} that {@DateTime} be likely to
+- occur, but whether or not the {@Location} {@DateTime} deviate from the
+- statute where {@Organization} has said this is how we want you
+- to determine current {@DateTime} income, therefore
+- disposable income and consequently {@Skill}ed disposable
+- income
+- {@PersonType} {@Person}: But you already told us that there could be a deviation through this
+- (A)(ii)
+- And why, if that was all that needed to be d{@Quantity}, did the {@PersonType} recommend, did the {@PersonType} say,
+- {@Location}ruptcy {@PersonType}, let's move the period, let's use this
+- provision and we will get another period that doesn't
+- have those  months with the extraordinary income? {@Organization}
+- {@Location}: No, Justice {@Person}, and the reason is, is that that privilege is accorded only to
+- the {@PersonType} to move that -month period
+- Neither the unsecured {@PersonType}s nor the {@PersonType} have the ability to
+- request that that -month period be moved
+- {@PersonType} {@Person}: Well, it could have been suggested to the {@PersonType}: You can accomplish what you want by using this provision
+- {@Organization}
+- {@Location}: The record is silent as to whether or not that occurred
+- {@PersonType} KENNEDY: What -- where can you move it? I don't really -- this is the same line of inquiry as Justice {@Person}
+- What's the -- what has to be the
+- much beyond the date of what, the {@Event}? {@Organization}
+- {@Location}: It would be up to {@Skill}, but the {@Skill} {@Event} could be
+- continued as the {@Location} saw fit
+- {@PersonType} {@PersonType} {@Person}: The review of the determination or the request to move the period is -- is
+- what? Up to the total discretion of the -- of the {@PersonType}? {@Organization}
+- {@Location}: It appears to be so under the statute, {@PersonType} {@Person}
+- {@PersonType} {@PersonType} {@Person}: So your objection to the fact that the {@PersonType} has more discretion with respect
+- to defining "{@Skill}ed disposable" -- you don't mind the
+- discretion on the other side
+- {@Organization}
+- {@Location}: No, Your {@Skill}, I don't believe the discretion is not in {@Skill} the income,
+- only in {@Skill} the time period
+- {@PersonType} {@PersonType} {@Person}: Right, but the only purpose of moving the time period is to change the
+- income
+- {@Organization}
+- {@Location}: That's true
+- And there are other options that the {@PersonType} had available in addition
+- to that, that we have referred to as the {@Quantity} options,
+- which would be the {@PersonType} could have here just delayed
+- {@Skill} the {@Location} for a couple of months and these
+- problems would not have occurred
+- {@PersonType} {@Person}: There is another discretion that you don't seem to object to
+- {@Quantity} way the {@PersonType} can get out of the bind that he's put
+- in by the fixing of the confirmed plan is simply to move
+- for a revision of the confirmed plan
+- {@Organization}
+- {@Location}: Absolutely, Justice {@Person}
+- {@PersonType} {@Person}: What constrains the {@PersonType} in allowing or not allowing the revision? Doesn't he have the same kind of discretion with regard to the
+- revision that you're objecting to with regard to his
+- establishing the {@Skill}s? {@Organization}
+- {@Location}: Justice {@Person}, I don't think so
+- has been subject to quite a {@Quantity} of {@Skill}, but the argument that we make in our reply brief is that
+- it would be simply necessary to plug in and plug out
+- whatever the change in circumstance is
+- So the {@PersonType} would be able to say, my wife's income is {@DateTime} g{@Quantity}, so we want to take that out
+- of the formula
+- {@PersonType} {@Person}: But that's the same thing that's being argued here, that -- that you start with
+- the fixed {@Skill} based on the  months before and
+- then you have to show that there were some extraordinary
+- circumstances that justify a change
+- I don't see that there's any difference
+- {@Organization}
+- {@Location}: There {@DateTime} not be, except that there is a statutory requirement as to how that is
+- accomplished and that's where the (A)(ii) comes
+- into play
+- It's not so much that there is a problem {@PersonType} {@Person}: What your {@Location} comes down to is the {@Location}ruptcy {@Location} can do this, but it has to do
+- it by simply revising the plan, not by establishing the
+- plan initially but by revising it
+- {@Organization}
+- {@Location}: Not necessarily, Your {@Skill}
+- That certainly is {@Quantity} way
+- {@PersonType} {@Person}: Maybe? {@Organization}
+- {@Location}: It {@DateTime} be, yes
+- It depends on the facts of the {@Location}
+- {@PersonType} {@PersonType} {@Person}: Well, that's a good answer, isn't it, because your point would be the
+- statute does not allow that exercise of discretion with
+- respect to {@Skill}ed disposable income, but it does in
+- the other areas
+- {@Organization}
+- {@Location}: Well, again I respectfully disagree, {@PersonType} {@Person}
+- {@PersonType} {@Person}: That was a {@PersonType}ly question
+- {@Organization}
+- {@Location}: I'm sorry? I'm sorry, I didn't hear
+- {@PersonType} {@PersonType} {@Person}: No, my -- my point and what I thought your point would be is that the fact
+- that there is exercise of discretion in {@Quantity} different
+- areas is not the problem
+- The problem is that in {@Quantity} area the discretion is specifically permitted and in the
+- other area, {@Skill}ed disposable income, it's not
+- {@Organization}
+- {@Location}: I agree
+- (Laughter
+- ) {@PersonType} {@Person}: But can the -- can the plan be modified based on -- can the plan be modified based
+- on something that was k{@DateTime}n before the plan was
+- confirmed? {@Organization}
+- {@Location}: That depends on which jurisdiction {@Quantity} would be in, Justice {@Person}
+- The most {@PersonType} {@Person}: Well, if it can't, then how is this modification remedy going to work? {@Organization}
+- {@Location}: I think it should be
+- For {@Event}ple, a good {@Event}ple of this would be {@PersonType} is
+- expected  years from {@DateTime} to no longer have to repay a
+- (k) loan
+- And so {@Quantity} view would be that you ought to take that into account as of that date and figure those
+- {@Skill}, which becomes extremely unwieldy
+- You are
+- guessing at that point
+- The {@PersonType} {@DateTime} say: Well, I {@DateTime} be losing that, but I don't k{@DateTime} what my actual
+- circumstances are going to be  years from {@DateTime}
+- Chapter  is a fluid process
+- {@PersonType} {@Person}: Your argument is that the {@Location} has to confirm a plan that is really not
+- confirmable because the {@PersonType} can't possibly make the
+- {@Skill}s under the plan, but then can turn around
+- immediately and modify the plan so that it does call for
+- {@Skill}s to be made
+- {@Organization}
+- {@Location}: No, Your {@Skill}
+- That is not my argument
+- {@PersonType} {@Person}: explain it, then? {@Organization}
+- {@Location}: Well, what we are saying is that this plan cannot be confirmed as it stands because
+- the {@PersonType} would have to be able to make those {@Skill}s
+- and the {@PersonType} obviously is not capable of making those
+- {@Skill}s
+- But it's because she chose the wrong options
+- {@PersonType} {@Person}: But let me just stop you there, because then the answer you gave to the Chief and
+- to Justice {@Person} doesn't fit
+- the {@Location}ruptcy {@PersonType} is not going to confirm the plan
+- was she has to pay over $, a month, because she
+- could never do that
+- So you are not going to get that confirmed plan which could be amended later
+- {@Organization}
+- {@Location}: Well, I agreed with that
+- I {@DateTime} have misunderstood the question that I was asked
+- But what I'm saying is that the statute needs to be
+- followed and if the {@PersonType} had followed the statutes
+- here then the {@PersonType} likely could have obtained a
+- confirmed plan by moving that -month time {@Skill}
+- {@PersonType} {@Person}: Well, what in addition to -- you brought up the  solution that she doesn't do
+- what the statute tells her to do, so she's able to move
+- it if the {@PersonType} agrees
+- And you said she has other options
+- {@Organization}
+- {@Location}: Yes
+- Well, the other options -- and I referred to them as the {@Quantity} options and the
+- (A)(ii) is {@Quantity} of those options
+- As I said, she could have delayed {@Skill} the {@Location}
+- There is nothing in the schedules that would indicate that she was {@Skill}
+- this {@Location}ruptcy under exigent circumstances
+- There is no {@Skill}, there is no repossession, there's no
+- garnishment, there's no {@Skill}{@Product}
+- So delay would have been a possible, and a {@PersonType} is always able to
+- determine the date of the {@Skill} of the {@Skill}
+- The {@Quantity} thing that she could have d{@Quantity} is file a Chapter , and this is the anomaly between
+- Chapter  and Chapter , is that she would have
+- {@PersonType} in all likelihood for a discharge under
+- Chapter  because she would have met the special
+- circumstances {@Skill} in (b)
+- {@PersonType} {@Person}: But then the {@PersonType}s would have been a lot worse off, would they not have
+- been? {@Organization}
+- {@Location}: That's very possible, but it's a formula that {@Organization} thought to place into
+- {@PersonType} {@Person}: Well, why would -- why would the {@PersonType} be urging the possibility that it
+- would be okay for her to file under Chapter , in which
+- {@Location} the unsecured {@PersonType}s would get very little, but
+- it's not okay for her to use chapter  with a plan that
+- would give the unsecured {@PersonType}s substantial {@Skill}s? {@Organization}
+- {@Location}: Here, Justice {@Person}, the reason is plain and simple, and that was I sought to
+- enforce the rule of {@Skill} in order to have the {@Location}
+- determine how the rules were supposed to be interpreted
+- By my view, it seemed like that had she followed the
+- rules {@DateTime}be she would have gotten there, but the way she
+- did it she can't
+- It's kind of like driving a {@Product}
+- You can't expect that a the {@Product} is going to perform well if
+- you don't turn the {@Product} on
+- {@PersonType} {@Person}: {@Organization}
+- {@Location}: And here she didn't turn the {@Product} on
+- {@PersonType} {@Person}: Can I come back to Justice {@Person}'s question about whether there would
+- ever be the opportunity to adjust the confirmed plan?
+- Because as you say, the plan here would not have been
+- confirmed, but that -- that isn't the {@Location} always
+- I mean, in many {@Location}s a plan would be confirmed because
+- the -- the {@Location}rupt could -- could barely make the
+- {@Skill}s that it requires; and then when it -- it is
+- clear that, because of the extraordinary event in the
+- preceding  months, the {@Location}rupt is -- is not going to
+- have that -- that amount of m{@Quantity}y, there would be the
+- opportunity to adjust
+- {@Organization}
+- {@Location}: Maybe not -- I'm sorry
+- {@PersonType} {@Person}: In other words, is your response to Justice {@Person} "always," that it will
+- always be the {@Location} that where there would be an
+- adjustment under this theory, there would not have been
+- a {@Skill} in the {@Quantity} place? {@Organization}
+- {@Location}: If the plan is not confirmable by an analysis of Schedules I and J, which
+- are the income and expenses statutes, I am not going to
+- recommend {@Skill}, and nor do I think any {@PersonType}
+- would
+- Any events that are in the equation before the date of {@Skill} would likely be then subject to
+- , the res judicata provisions of chapter
+- So if the plan is confirmed, say in {@Person}'s {@Location},
+- with these facts k{@DateTime}n, then she would not be able to
+- come in afterwards and ask for the {@Location} to modify under
+- because that's part of the {@Skill} order
+- The other options that were available -- we discussed briefly the ability to file this as a Chapter
+- She also could have converted this {@Location} to a Chapter  post-{@Skill} with the same result, or she could have
+- dismissed this {@Location} and refiled
+- {@PersonType} {@Person}: Isn't that -- wouldn't that amount to just a -- a waste of everybody's time, to
+- dismiss it and then refile it, and then she gets a time
+- period that doesn't -- why -- why not just drop out
+- those  months that are not representative of her
+- income? {@Organization}
+- {@Location}: Because, Justice {@Person}, the statute does not permit that
+- It's not within the formula, and that's the question: Is the formula {@Skill} or is it not {@Skill}? If it is {@Skill} then this -- obviously
+- {@Organization} intended a more rule-bound statute
+- It got that
+- It was obvious that it intended to reduce judicial discretion, and the statute seems to
+- accomplish that
+- {@PersonType} {@Person}: But the thing is -- but you have explained, your number {@Quantity} solution for her is
+- this  route, which is -- gives lots of discretion in
+- the {@Location}
+- {@Organization}
+- {@Location}: Only in moving the -month period, Justice {@Person}
+- {@PersonType} {@Person}: Yes
+- {@Organization}
+- {@Location}: That would be the only discretion that the statute would appear to accord to
+- the {@Location}
+- {@PersonType} {@PersonType} {@Person}: Where is that, by the way, the provision that allows it to move the
+- -month period? {@Organization}
+- {@Location}: It's in (A) and it provides that the term "current {@DateTime} income" means
+- the aver{@Quantity} {@DateTime} income from all sources that the
+- {@PersonType} receives, or in a joint {@Location} the {@PersonType} and the
+- {@PersonType}'s spouse receive, without regard to whether such
+- income is {@Skill}able income derived during the -month
+- period ending on -- and then we come to subsections (i),
+- little (i) -- or (ii)
+- And those are -- that's the disjuncture; it's the -month period prior or some other
+- time {@Skill}, and the langu{@Quantity} is important
+- {@PersonType} {@Person}: What do you say about {@Location}s
+- in which moving the -month period can't solve the
+- problem? For {@Event}ple, if the {@PersonType} had good income for many years going back, but then slight -- shortly before
+- the {@Skill} of the plan loses his or her job, and there
+- is no prospect that the {@PersonType} is going to get another
+- job? Or it could be the converse, has very low income for a long period and then right before gets a job
+- So you are not going to be able to cure those problems by
+- moving the -month period
+- What do you do then? {@Organization}
+- {@Location}: Well, Justice {@Person}, I think I would tie in  with respect to the {@Quantity}
+- proposition, and that is if the {@PersonType}'s circumstances
+- have markedly changed, then the {@PersonType} has the ability
+- to file an amended plan; and that amended plan could ask
+- the {@Location} to move that time {@Skill} {@PersonType} to a
+- {@Skill} {@Event} that would take into account the
+- drop in income
+- With respect to the {@Quantity} part of your proposition, and that is an increase in income, then I
+- as Chapter  {@PersonType} would have the ability to object
+- to it on the basis of -- of good faith under either
+- (a)() or (a)(), either the plan or the {@Skill}
+- of the {@Location} itself
+- And those -- the {@Skill} of the (a)() was the primary way in which all of these
+- disputes were resolved before the  amendments which
+- brought in subsection (b) to  which introduced the
+- concept of disposable income
+- {@PersonType} {@PersonType}: How do you file an amended plan and have the {@Location} restart the clock, when
+- (A) says only if the {@PersonType} has not filed a
+- schedule of current income? If there's been a plan confirmed or a plan proposed, then the income schedule
+- had to have been filed
+- {@Organization}
+- {@Location}: {@PersonType} {@PersonType}: You don't do {@Quantity} without the other
+- {@Organization}
+- {@Location}: Those are {@Quantity} different propositions, Your {@Skill}
+- {@Quantity} is if the plan is confirmed and {@Quantity} if it is not confirmed
+- If it is not confirmed, then you are correct; at some point the
+- {@PersonType} and the {@Location} are going to want to see a
+- Schedule I and J to see what the actual income and
+- expenses are
+- If the plan has already been confirmed, then the ability to change the plan has to be d{@Quantity} under
+- {@PersonType} {@PersonType}: Forget about
+- I'm going to the situation where the plan has been proposed,
+- let's say
+- The {@Location} -- if a schedule of income has been filed, then it's without any jurisdiction to change
+- the -month lookback period, correct?
+- {@Organization}
+- {@Location}: I don't agree with the word "jurisdiction," Justice {@Person}
+- {@PersonType} {@PersonType}: Well, it can't under (A)
+- {@Organization}
+- {@Location}: The {@PersonType} would certainly have the ability to ask the {@Location} to be excused from
+- that requirement given a change in circumstances
+- But again it would be the formula that would be honored,
+- rather than the {@Location} substituting judicial discretion
+- {@PersonType} {@Person}: Can I ask -- yes, there is {@Quantity} more question
+- {@Organization}
+- {@Location}: Okay
+- {@PersonType} {@Person}: Can I ask whether , which you have {@DateTime} invoked, does not provide the same
+- kind of discretion to the {@Location} that you are objecting
+- to? What -- what standards are there for granting or not granting modification of the plan? Is it pretty much up to the {@PersonType}? {@Organization}
+- {@Location}: No
+- I believe again the {@Location} is bound, Justice {@Person}, by the (A) formula
+- It's obvious that {@Organization} intended the formula
+- It would not make much sense to read the statute to have
+- some other formula
+- {@PersonType} {@Person}: Well, then -- then -- okay
+- You are between a rock and a hard place
+- Either  gets you out of that formula, which is what you've said,
+- it's {@Quantity} way out, or it isn't
+- Which is it? {@Organization}
+- {@Location}: I haven't said that it gets me out of the formula
+- It gets me out of the time {@Skill} issue, because certainly the statute doesn't take into
+- specific account what happens if the {@PersonType} loses a job,
+- say, post-{@Skill}? Obviously -- {@Event}ple, husband loses the job at Goodyear after the {@Location}ruptcy {@Skill} is
+- filed
+- And I think  is broad enough to allow an amendment which would involve only moving the time
+- {@Skill}
+- {@PersonType} {@Person}: Okay
+- So any -- any {@Organization}
+- {@Location}: I believe so, Justice {@Person}
+- {@PersonType} {@Person}: -- subsequent to the {@Skill}
+- {@Organization}
+- {@Location}: If there are no other questions I would like to reserve the remainder of my
+- time, {@PersonType} {@Person}
+- {@PersonType} {@PersonType} {@Person}: Thank you, {@PersonType}
+- Mr
+- {@Person}
+- ORAL ARGUMENT OF {@Person}
+- {@Person} ON BEHALF OF THE {@PersonType}
+- {@Organization}
+- {@Person}: Mr
+- {@PersonType}, and {@DateTime} it please the {@Location}: The {@Location}, I think, has the parties' arguments very well in hand
+- I think the -- the {@Quantity} point that I can hopefully address, and it is I think
+- the hardest part of our {@Location}, is to address the issue
+- that Justice {@Person} raised, and that is, is there an
+- anomaly in the fact that in {@Organization} {@Organization} added the
+- -month period, which would suggest perhaps that
+- {@Organization} was trying to lock in a particular period that
+- we would look at
+- And the answer to that question is no, and I want to take you to the relevant statutory provisions
+- Everything is going to be in the cert {@Skill}
+- I am going to start in the {@Skill} appendix at , which is
+- , which is the operative provision here
+- And (b)() tells us that if the {@PersonType} or a {@PersonType}
+- objects, then as of the effective date of the plan it's
+- only going to be confirmed in subsection (b), which is
+- the {@Quantity} full paragraph on p{@Quantity}  is going to control
+- The plan has to provide that all of the {@PersonType}'s {@Skill}ed disposable income to be received in
+- the applicable commitment period beginning on the date
+- the {@Quantity} {@Skill} is due under the plan will be applied
+- to make {@Skill}s to unsecured {@PersonType}s under the plan
+- And the thing to note {@Quantity} about that provision is that it, too, sets a timetable
+- It's not just {@Skill}ed disposable income, but it's {@Skill}ed
+- disposable income of a very particular type, to be
+- received in the applicable commitment period
+- So unless there is something particularly strange about the
+- definition of "disposable income," {@Organization} specified a
+- period that the income is going to be measured in, and
+- that's over the course of the plan; the word "{@Skill}ed"
+- tells us to get a realistic estimation of what that
+- amount of m{@Quantity}y's going to be
+- {@DateTime}, my {@PersonType} makes the point that disposable income after {@Organization} is a defined term; the
+- definition comes in the next paragraph; it's subsection
+- (), (b)()
+- For purposes of this subsection the term "disposable income" means current {@DateTime} income
+- received by the {@PersonType} subject to some deductions and
+- then the expenses
+- So then we have to go to the definition of "current {@DateTime} income
+- " Current {@DateTime} income is in ; it's at p{@Quantity}
+- That's where we get the -month period
+- And it tells us that current {@DateTime} income is the aver{@Quantity}
+- {@DateTime} income from all sources, so it's very
+- encompassing, without regard to whether such income is
+- {@Skill}able income derived during the -month period
+- So, my {@PersonType}'s argument is that, well, {@Organization} said  months
+- The answer to that point is a couple fold
+- {@Quantity}, as was suggested in the {@Quantity} half-hour, {@Organization} was addressing a very specific
+- problem there
+- Before {@Organization} {@Location} didn't k{@DateTime} what the -- didn't agree on what the baseline was for
+- {@Skill} some{@Quantity}'s income
+- Some {@Location} would say, all right, you are a Chapter  {@PersonType}, right away I'm going to look at the
+- la{@Skill} month
+- Some {@Location} said  months
+- We have a {@Location} in our brief that said  years
+- So, we have to have a starting point to {@Skill} from
+- But the {@Quantity} point is that this term "current {@DateTime} income" isn't principally a Chapter
+- term at all
+- So, my {@PersonType}'s argument is that {@Organization} stuck this -month period into Chapter , so it would
+- be very anomalous if we could just -- in effect, he says
+- we are throwing it out, we are giving the {@Location}
+- {@PersonType}s discretion
+- It's not quite right
+- The place to look is in section , which is {@Quantity} p{@Quantity}s later
+- is a Chapter  provision
+- And my {@PersonType} started out by saying the problem with our
+- position is that we were not following the Chapter
+- means {@Skill}
+- That's the key
+- borrowed from Chapter
+- So (b)()(A)(i) is at the
+- beginning of p{@Quantity}  of the appendix
+- And, so, we are in a Chapter  {@Location} here
+- And this is the means {@Skill}
+- It tells us that: "In considering under paragraph ," so we are trying to
+- figure out if there is a presumption of abuse under
+- Chapter  -- "whether the granting of relief would be an
+- abuse of the provisions of this chapter, the {@Location} shall
+- presume abuse exists if the {@PersonType}'s current {@DateTime}
+- income, reduced by the amounts determined under clauses
+- , , and " -- those are expense clauses -- "and
+- multiplied by  is not less than" a certain amount
+- So what happened is {@Organization} in {@Organization} created this presumption of abuse in Chapter  and it
+- then borrowed that concept, as my {@PersonType} pointed out, in
+- Chapter
+- So that -month period has real force and effect in the {@Location}ruptcy Code in Chapter
+- So it's not like {@Organization} in Chapter  fixed the -month period,
+- which would give -- have a sort of a gravitational pull
+- You wouldn't want to throw that out too lightly
+- Justice {@Person}, I do agree that we ought to be pretty -- we ought to stick to it
+- It indicates {@Organization} is concerned with the -month period
+- But it's not like {@Organization} added to Chapter  this -month
+- concept
+- It added it to Chapter , where it's in full force and effect
+- {@PersonType} {@Person}: You -- you -- you have lost me
+- {@Organization}
+- {@Person}: Okay
+- {@PersonType} {@Person}: {@Organization}
+- {@Person}: Sure
+- It's back
+- We have to go back {@Quantity} p{@Quantity}s
+- {@PersonType} {@Person}: No, I got -- I got it there
+- {@Organization}
+- {@Person}: Okay
+- Sure
+- I'm sorry
+- Can I make {@Quantity} other point about that langu{@Quantity}, just to repeat it again? That the {@Location} The term is "current {@DateTime} income
+- " So we are in Chapter , so {@Quantity} lines down"
+- "The {@Location} shall presume abuse exists if the {@PersonType}'s current {@DateTime}
+- income" -- that's the  months, current {@DateTime} income
+- That's the -month period of income
+- {@PersonType} {@Person}: I -- I -- I see
+- I see
+- {@Organization}
+- {@Person}: See, that's mostly where it matters
+- Then {@Organization} borrowed it in Chapter
+- But it didn't get rid of, as was pointed out before, the
+- term -- "{@Skill}ed"; it didn't get rid of the period,
+- the commitment period
+- But I do want to point out something very particular about this langu{@Quantity}
+- Here's the phrase:
+- "Current {@DateTime} income, reduced by the amounts
+- determined under clauses , , and " -- those are
+- expenses -- "and multiplied by
+- " That's what my {@PersonType} says the phrase "{@Skill}ed disposable income to
+- be received over the applicable commitment period" is
+- Our point is that if {@Organization} intended that {@Skill} formulation, it would have used the exact
+- words that I have just read from you in Chapter ,
+- because that's {@Skill}
+- {@PersonType} KENNEDY: Without the word "{@Skill}ed"? {@Organization}
+- {@Person}: I'm sorry? {@PersonType} KENNEDY: Without the word "{@Skill}ed"? {@Organization}
+- {@Person}: That's exactly
+- They used "multiplied
+- " And {@Organization} did that several times in {@Organization} and before {@Organization}
+- When {@Organization} wanted, look, we are going to have a mathematical formula, it used a
+- mathematical formula
+- {@PersonType} {@PersonType} {@Person}: Why don't you follow his suggestion and just move the -month period, because
+- the statute specifically grants that authority to the
+- {@PersonType}? {@Organization}
+- {@Person}: Sure
+- Let me make a few points about that, sir
+- So I'll again read the langu{@Quantity}
+- again
+- So we are on
+- It says that -- little (ii) is going to be -- it's going to be " months ending on the
+- date on which current income is determined by the {@Location}
+- for purposes of this title if the {@PersonType} does not file
+- the schedule of current income
+- " A couple OF points about that
+- {@PersonType} ratchet, right
+- The {@PersonType} and the {@PersonType}, if the {@PersonType} a month before {@Skill} gets a new job or
+- their expenses go down -- let's say you had a {@Product}, but
+- you k{@DateTime} that the {@Product} {@Skill}s are going to be d{@Quantity}
+- Under the {@PersonType}'s view, then you still get to count
+- the {@Product} {@Skill}s which are totally pretend, or if you
+- got a much higher paying job
+- In fact, in this {@Location} she did get a higher paying job
+- Towards the end of the period, she got a raise
+- And we say that has to be counted, too
+- We have to have a {@PersonType} and {@PersonType}-neutral provision
+- In a statute that's designed to make sure the {@PersonType} pays a
+- much as possible to her {@PersonType}s, it's very strange to
+- put this entirely in the {@PersonType}'s hands
+- {@PersonType} {@Person}: Can I ask you this
+- There seems to be at least a subtle difference between your
+- position and the {@Skill}'s position
+- You say that the {@Skill}ed disposable income will be different from
+- the disposable income calculated during the lookback
+- period when it is k{@DateTime}n or virtually certain that there
+- will be differences in income or expenses
+- And the {@Skill} says that there is a difference when
+- something is likely to occur in the future
+- Where do you -- where do you get from the statute your k{@DateTime}n or virtually certain differences? {@Organization}
+- {@Person}: The contrast between  and
+- What I tried to do in my brief, and I have laid it out at the beginning of the argument section
+- That's where we try to {@Skill} our rule
+- What we have d{@Quantity} is we have looked at the {@Location}s
+- As you pointed out, this is pre-{@Organization} {@Event}
+- {@Location}s have set a pretty high bar, both in terms of the level of
+- certainty and the {@Quantity} of deviation
+- And {@Location} have said -- I will give you an {@Event}ple that will illustrate the difference perhaps
+- You have times when some{@Quantity} expects to get a raise
+- They don't k{@DateTime} that they are going to get it, or they
+- expect to get a {@Skill}
+- And {@Location} will say, even if that's pretty likely, until you have actually got it we
+- are not going to count it for purposes of (b); come
+- back under
+- And we point out in our merits brief that in fact, it's not quite on point, but she got a settlement
+- post{@Skill} here, and under  that m{@Quantity}y was
+- applied
+- So, Justice {@Person}, there are post{@Skill} events, but if you k{@DateTime} a{@PersonType} of
+- time -- and this {@Location} is a perfect {@Event}ple, it -- we
+- k{@DateTime} she is not going to get another {@Event} from Payless
+- {@Location}
+- When it's k{@DateTime}n or virtually certain, we think that is sufficient -- akin to Justice {@Person}'s
+- point about, you k{@DateTime}, making it hard
+- Let me make {@Quantity} other point
+- I wanted to finish off my answer to the {@PersonType} about
+- This provision has taken on greater significance in the
+- oral argument and the reply brief of the {@PersonType}
+- I did want to point out to the {@Location} a provision that is
+- not reproduced in the parties' {@Product}, but if the {@Location}
+- were to go this route it would want to be aware of, and
+- that's (i)
+- And (i) tells us that you do have to file the forms at the beginning or you have to file them
+- within  days, but upon request of the {@PersonType} made
+- within  days after the date of {@Skill} the {@Skill},
+- the {@Location} {@DateTime} allow the {@PersonType} an additional period of
+- not to exceed  days
+- So it does seem to constrain the power of the {@Location}ruptcy {@Location} to shift this period all
+- around
+- So, I have made {@Quantity} points
+- {@Quantity} is it's a {@Quantity}-way ratchet for the {@PersonType}; {@Quantity}, it's not
+- unlimited
+- The {@Quantity} is it just doesn't make any sense
+- Why would {@Organization} design a system that would have all
+- of these machinations
+- If we agree that {@Organization} wants -- it seems my {@PersonType} and I agree that {@Organization}
+- believes that she shouldn't have to make the {@Skill}s
+- that would be required under the {@PersonType}'s reading of
+- "{@Skill}ed disposable income
+- " The question is how we get there
+- The {@PersonType}'s answer is that you are required by the text; I'm sorry, {@Organization} took this
+- option away
+- And I think that, as I have explained, the term "{@Skill}ed disposable income to be received in the
+- applicable commitment period" really is not langu{@Quantity}
+- that you would ordinarily construe to ignore changes
+- {@PersonType} {@PersonType} {@Person}: Well, I think -- I think that's exactly right when you look at term
+- "{@Skill}ed disposable income
+- " {@Organization}
+- {@Person}: Yes
+- {@PersonType} {@PersonType} {@Person}: But if you look as {@Organization}
+- {@Person}: Yes
+- {@PersonType} {@PersonType} {@Person}: -- as a defined term
+- different -- different argument, different kettle of
+- {@Product}
+- I mean, because particularly in a statute intended to restrict discretion, it's a way to do it
+- You look at it in the abstract, "{@Skill}ed disposable
+- income," it doesn't achieve that objective
+- {@Organization}
+- {@Person}: And that is exactly, Mr
+- {@PersonType}, why I started with the definition of
+- "current {@DateTime} income in the -month period
+- " I agree that it is an important point
+- It is their strongest argument
+- My only point is that I have explained, I think, why {@Organization} put the -month period in for
+- purposes of Chapter  and also to have the starting
+- point
+- If I -- to give you an {@Event}ple, take {@Skill}
+- If we were to define {@Skill} as the amount in the rise
+- in prices over the {@DateTime}, if {@Organization} did
+- that in a statute and then told us to look at {@Skill}ed
+- {@Skill}, we would still not ignore things that will
+- tell us that there are going to be -- there has been an
+- {@Product} price spike or an increase in health {@Product}e costs
+- It would take a pretty firm, firm period that told us to
+- only look into the past and not look into the future,
+- particularly when the whole point of the statute is to
+- make sure that the m{@Quantity}y goes into the {@PersonType}'s hands
+- that the {@PersonType} is able to pay
+- On the point of discretion, I should also say {@Organization} as a whole was intended to reduce discretion
+- And, so, it's kind of odd to say that the answer to our
+- position is to turn to all of these other discretionary
+- {@PersonType} {@PersonType} {@Person}: What if you -- you wanted to achieve your {@PersonType}'s result and you had a
+- definition of disposable income, and you wanted the
+- {@Location} to -- you don't want to say {@Skill} that {@PersonType},
+- what -- what word would be more natural than saying
+- {@Skill}ed? {@Organization}
+- {@Person}: I -- I -- I would use the langu{@Quantity} that {@Organization} did in
+- Remember, the current {@DateTime} income reduced by the amounts determined
+- under clauses , , and  and multiplied by
+- {@PersonType} {@PersonType} {@Person}: No, that's altering disposable income -- the definition of disposable
+- income
+- I'm asking isn't the most natural word to achieve your {@PersonType}'s result to use {@Skill}ed
+- What other word would you say when you say this is the period
+- you look at and you want to take it {@PersonType}? {@Organization}
+- {@Person}: Multiply
+- And {@Organization} did that a bunch of times
+- Projected -- if we try to
+- {@Skill} something, we try and make the -- and everybody
+- agrees on the definition, so really, it's not an unusual
+- term
+- It is: You make your best {@Skill} of the future based on the {@Skill} you have {@DateTime}
+- My {@PersonType} is right
+- {@Quantity} piece of {@Skill} we have {@DateTime} is her {@DateTime}'
+- income
+- Another piece of {@Skill} is we k{@DateTime} that she's not going to have the same income in the future
+- If there are no further questions
+- {@PersonType} {@PersonType} {@Person}: Thank you, Counsel
+- Ms
+- {@Person}
+- ORAL ARGUMENT OF SARAH {@Person} ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, SUPPORTING {@PersonType} {@Organization}
+- {@Person}: Mr
+- {@PersonType}, and {@DateTime} it please the {@Location}: In {@Location}ruptcy, as in many areas of the {@Skill}, {@Organization} has tried to balance on the {@Quantity} hand, doing
+- {@Location}-specific {@Skill}, and on the other hand, ensuring
+- that the statutory scheme is administrable
+- {@DateTime}, {@Organization} certainly could have chosen to elevate
+- simpli{@Location} over accuracy by telling {@Location}ruptcy {@Location} to
+- take a {@PersonType}'s current disposable income and multiply
+- that number by the number of months in the plan in
+- assessing whether the plan is confirmable
+- But there are several strong signals in the {@Skill} that that is
+- actually not what {@Organization} intended {@Location} to do
+- {@PersonType} {@Person}: But do you think {@Location}ruptcy {@Location} are supposed to be {@Skill} forecasters? For {@Event}ple, if you -- after calculating the {@PersonType}'s income
+- during the -month period, the -month lookback period,
+- should the {@Location}ruptcy {@Location} said, well -- say: Well, it's -- {@Skill} is {@Skill}ed to be such-and-such over
+- the term of this plan, so I am just going to increase it
+- by the amount of {@Skill}; or: This person works in a particular industry where historically, over the last
+- {@DateTime} or ten years, there's been a  {@Quantity}
+- increase in salary per year, so I'm going to multiply it
+- by -- multiply the disposable income figure like that? {@Organization}
+- {@Person}: Certainly not, Justice {@Person}
+- {@PersonType} {@Person}: Well, why not? You say that the {@Location}ruptcy {@Location} should take into account things
+- that are likely to occur in the future
+- {@Organization}
+- {@Person}: we are not saying that {@Location}ruptcy {@Location} should ever
+- speculate about what might happen in the future
+- What we are saying is that {@Location}ruptcy {@Location} should take into
+- account what they k{@DateTime}, in this {@Location}, already has
+- happened, but also what they k{@DateTime} will happen
+- And so to give an {@Event}ple of a change that would benefit
+- {@PersonType}s, if as -- as I menti{@Quantity}d earlier, if a {@PersonType}
+- has secured a higher-paying job just before or just
+- after she filed her {@Skill}, a {@Location} should be able to
+- take into account the fact that her income going {@PersonType}
+- would be greater than would be reflected in the
+- {@Skill} of her current disposable income
+- {@PersonType} {@Person}: Well, "k{@DateTime} will happen" is quite different from "likely to happen," and I thought
+- your {@Skill} was likely to happen
+- {@Organization}
+- {@Person}: Well, likely to happen based on what you k{@DateTime} {@DateTime}
+- I think -- we haven't suggested a particular burden of proof
+- {@PersonType} {@Person}: Not -- not likely, based on what you k{@DateTime}
+- Well, that's quite different from you k{@DateTime} it will happen
+- {@Organization}
+- {@Person}: Right
+- So there is an {@Event}ple menti{@Quantity}d earlier: If the {@PersonType} is repaying a loan to her (k) program, that is the type of loan
+- that can't be extended time-wise
+- And so she will keep making those {@Skill}s, which will be deducted as an
+- expense in the {@Skill} of her current disposable
+- income, but -- but you k{@DateTime} at a certain point, she is
+- likely to stop making those {@Skill}s
+- {@PersonType} {@Person}: Is there a difference between your {@Skill} and the {@PersonType}'s {@Skill}?
+- {@Organization}
+- {@Person}: Not according to what I heard Mr
+- {@Person} say at the argument
+- Again, we do {@PersonType} {@PersonType}: His words were "k{@DateTime}n to a virtual certainty," which are -- likely to happen is
+- different than likely to happen
+- {@Organization}
+- {@Person}: I think, in part, it depends on what type of change you are talking about
+- Again, we would never say that a {@Location} should speculate
+- about what should happen
+- But, for instance, to take another {@Event}ple on the expense side, if a {@PersonType} when
+- she proposes her plan owns a {@Quantity} {@Product}, a vacation
+- {@Product} that is secured by a mortg{@Quantity}, then that secured
+- debt {@Skill} is an expense that would be deducted from
+- her income in the {@Skill} of her current disposable
+- income
+- But if she proposes to surrender that property as a condition of her plan, she will no longer have that
+- debt {@Skill} going {@PersonType}
+- And so that's the type of -- so it will no longer be an expense going {@PersonType}
+- Under {@PersonType}'s view, a {@Location} would not be able to
+- {@PersonType} {@Person}: That's -- that's "k{@DateTime} will happen
+- " That is "k{@DateTime} will happen
+- " But I don't k{@DateTime} how you can, at {@Quantity} and the same time, say: {@Location}s shall not speculate, and then say that the {@Skill} is
+- "likely to happen
+- " {@Organization}
+- {@Person}: {@PersonType} {@Person}: I mean, to -- you k{@DateTime}, to look {@PersonType} and say: Is it likely or not likely? That's {@Skill}
+- I don't k{@DateTime} a better definition of {@Skill}, to tell you the truth
+- {@Organization}
+- {@Person}: Okay
+- But then, we wouldn't -- we are not trying to advance that view of
+- "likely
+- " And again, in this {@Location} the change had already occurred, so there is no uncertainty about what
+- her situation is {@DateTime} and what we can {@Skill} it to be
+- going {@PersonType}
+- {@PersonType} {@PersonType} {@Person}: It seems to me that,
+- well, depending on how broad a theory you are adopting
+- of what's {@Skill}ed and what's not, that you are taking
+- into account a lot of things that are more properly
+- taken into account when it comes to whether the plan
+- should be confirmed or not
+- {@Organization}
+- {@Person}: {@PersonType} {@PersonType} {@Person}: What's going to happen? What's the situation going to be? What should, you k{@DateTime}, the {@PersonType}s get? What should the {@PersonType} get? There is no reason to kind of shoehorn those into the {@Skill}ed disposable income
+- {@Organization}
+- {@Person}: Well, except that if the {@PersonType} or a {@PersonType} objects, then the {@Skill} of
+- {@Skill}ed disposable income is {@Quantity} of the conditions of
+- confirmability of the plan
+- The {@Location} can't confirm it {@PersonType} {@PersonType} {@Person}: Well, is that -- I mean, let's say your {@PersonType} wins up to the point and
+- somebody else, when it gets to {@Skill}, can say:
+- Well, look, you k{@DateTime}, there was this big payout before
+- the {@Skill}
+- So don't confirm it
+- We k{@DateTime} she has got all this -- all this other m{@Quantity}y
+- That -- it could do it that way, couldn't it? {@Organization}
+- {@Person}: I'm sorry, if she got a higher-paying job just before? Is that what you're suggesting? {@PersonType} {@PersonType} {@Person}: Well, whatever the situation is, can't that be taken into account when it
+- comes to {@Skill}? {@Organization}
+- {@Person}: Well, it could affect the -- well, {@Quantity} thing that is important to note that hasn't
+- been brought up is under Section (a)(), the {@Location}
+- is actually -- which is the feasibility provision -- the
+- {@Location} is actually required to think about what is going
+- to happen in the future, whether a {@PersonType} is going to be
+- able to repay her {@PersonType}s
+- And so it doesn't make
+- very much sense to, on the {@Quantity} hand, require a {@Location} to
+- consider what it k{@DateTime}s will happen in the future in
+- {@Skill} feasibility, and then on the other hand, if
+- there's an objection by the {@PersonType} or the {@PersonType} and
+- (b) comes into play, to prohi{@Quantity} a {@Location} from
+- considering the same facts it k{@DateTime}s about what is going
+- {@PersonType} {@Person}: What if the {@PersonType} is a waiter and during the last month of the -month period,
+- because of some change of the {@Skill} the waiter's tips
+- have g{@Quantity} up either way up or way down? What's the {@Location} supposed to do then? {@Organization}
+- {@Person}: Well, I think {@Quantity} purpose of having the -month lookback period in the {@Skill}
+- of current income is exactly to take into account those
+- situations
+- There are many people who are gainfully employed full time, but whose -- whose income fluctuates
+- over time
+- And so requiring that {@Location} use the -month lookback period, I think, gives {@PersonType}s a better sense
+- of whether the current income figure provided by the
+- {@PersonType} is accurate
+- It reduces the chance for strategic {@Skill} because it sort of takes some of the significance
+- away of the time of {@Skill}
+- And so it seems fairer in that {@Location} to consider that -month aver{@Quantity} in a {@Location} where income
+- fluctuates up and down as an accurate sense of what the
+- -- what the {@PersonType}'s current income is
+- And again, in many -- in a significant number of {@Location}s the {@Skill}
+- of a current disposable income will be a good prediction
+- of what the {@PersonType}'s disposable income will be going
+- {@PersonType}
+- {@PersonType} {@Person}: How do you deal with the {@PersonType}'s -- the {@Quantity} arguments {@PersonType} makes? {@Quantity} is that on the expense side, {@Organization} provided for
+- special circumstances, exceptions, and it didn't on the
+- income side? {@Organization}
+- {@Person}: Well, the special circumstances exception comes in, in the {@Skill} of
+- the {@PersonType}'s current disposable income, but it doesn't
+- tell you what to do in terms of {@Skill}ing that
+- disposable income
+- And so you can adjust what you think the current disposable income is based on an expense
+- that isn't accounted for in the standard expenses or an
+- expense that is accounted for, but is higher than is
+- accounted for in those expenses
+- But again, it doesn't tell you what to do -- how to {@Skill} that number going
+- {@PersonType}
+- {@PersonType} {@Person}: What about the argument that this is a simple thing; she didn't have to file the
+- plan -- she didn't have to file the {@Skill} at a time
+- when those {@Quantity} months would be in the -month lookback
+- She could have waited
+- {@Organization}
+- {@Person}: Well, that is certainly true of this {@PersonType}, of the {@PersonType} in this {@Location}
+- That is not an option available to all {@PersonType}s, many of
+- whom are facing {@Skill} proceedings or imminent
+- {@Skill} proceedings
+- Delay is simply not an option
+- And if I could address Section (A)(A)(ii) option that the {@PersonType} offers -- I
+- mean, {@Quantity} thing to note is it doesn't give the {@Location} the
+- discretion to set any other -- to just pick any other
+- -month lookback period
+- They pick a date and go  months back from whatever that date is
+- So if a change occurs very soon before the {@Skill} of the {@Skill}, it
+- makes it very hard for a {@Location} to use that provision to
+- change the lookback period because you would have to
+- wait  months, essentially, after the {@Skill} of the
+- {@Skill} to set it back
+- But again, the biggest problem with using that section as a workaround is that that is an option
+- that is available to {@PersonType}s, but not to {@PersonType}s
+- If a {@PersonType} files a Chapter  {@Skill} along with all the
+- Schedules that are required under Section  of the
+- {@Skill}, then the {@PersonType} has no option for -- excuse me,
+- the {@PersonType} has no option and the {@PersonType} has no
+- {@PersonType} {@PersonType} {@Person}: Well, the {@PersonType} has the option of objecting the {@Skill} of the
+- plan
+- {@Organization}
+- {@Person}: They can object to {@Skill} of the plan, but on what -- what basis? If the {@PersonType} argues that the {@Skill} of {@Skill}ed
+- disposable income is merely a {@Skill} multiplication
+- of the current disposable income times  or , then
+- they have no way of allowing the {@Location} to take account
+- of a change that has happened just before or after the
+- time of the {@Skill} that would inure to the {@PersonType}'s
+- benefit
+- {@PersonType} {@PersonType} {@Person}: They can't say: I object because the -month period is unrepresentative
+- because of this particular event? {@Organization}
+- {@Person}: They could say that, but it's not clear in the {@Skill} that that is a basis for
+- refusing to confirm a plan
+- I think they would have to {@PersonType} {@PersonType} {@Person}: Does the {@Skill} have a position on that? {@Organization}
+- {@Person}: I think unless there were bad faith it's not clear how that can be a basis for not
+- confirming a plan, and that was the -- the reason that

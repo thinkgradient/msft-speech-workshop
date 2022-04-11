@@ -1,0 +1,3749 @@
+﻿
+ about Australia
+ JUSTICE ALITO: Well, wouldn't your clients have an adequate remedy under Australian law in 
+Australia, in the Australian court system? MR
+ DUBBS: We might or we might not
+ But that is not determinative
+ JUSTICE ALITO: that they do not
+ Let's assume that on the facts of this case they could not prevail under Australian law in 
+the Australian court system
+ Then what United States MR
+ DUBBS: JUSTICE ALITO: -- that should override that? MR
+ DUBBS: There is a strong United States interest
+ It's on two levels
+ The first strong United States -- United States interest deals with the conduct 
+at issue here, namely the conduct in Florida by 
+HomeSide
+ This was the sixth largest mortgage service provider in the United States
+ JUSTICE GINSBURG: If we had only HomeSide's conduct, nothing else, there wouldn't be any violation 
+of (b); is that right? MR
+ DUBBS: We do not agree with that, Your Honor
+ We believe that they made a representation by  
+ creating the false numbers, or otherwise it's within the 
+scope of the statute
+ What they did is create a JUSTICE GINSBURG: But nothing has happened
+ Suppose it had been caught by the Australian bank, and 
+they didn't act on it? MR
+ DUBBS: Your -- Your Honor, that goes to a different element of the cause of action
+ That doesn't go to the scope of the statute
+ That goes to how the private cause of action is enforced
+ JUSTICE GINSBURG: Now, I concede your argument that a big component of this fraud was what 
+went on in Florida, but it needed to be disclosed to the 
+public
+ It needed to be put out there
+ And that wasn't done in Florida by the Florida defendants
+ MR
+ DUBBS: It was done in Australia and we can prove that
+ And -- the point is we are not -- all we are proving through doing that is the effects of the 
+fraud in Florida
+ To use Professor Beale's example, where you have poison candy in one jurisdiction, that 
+poison candy is sent to another jurisdiction, and in the 
+first jurisdiction there is a law that says "thou shalt 
+not make poison candy;" through the exercise of 
+legislative jurisdiction that statute in the first 
+jurisdiction is appropriate, and both jurisdictions have  
+ an interest in that
+ Now, if we are in the poison candy jurisdiction and we are bringing a case about poison 
+candy, if the statute in addition says, "you have to 
+show some harm from the poison candy," indeed you might 
+as a matter of proof have to show effects from that 
+other forum
+ But that's different than regulating conduct in the second forum or anything else in the 
+second forum
+ That is simply looking at the statute or the legal prescription against making poison candy
+ And we say section (b) is like the poison candy statute
+ JUSTICE ALITO: JUSTICE BREYER: Now, that's -- I would like you to follow that up specifically
+ That is, in my mind the difficult issue in this case is not the 
+jurisdictional issue under principles of international 
+law
+ It's the question of the scope of the statute
+ And there the things against you are three
+ One is Professor Sachs's argument, which I would like to know 
+your answer to
+ The second is in Judge Friendly's two opinions
+ The first opinion -- the second one, rather, Bersch, he says if you had a foreign exchange and 
+foreign plaintiffs as -- and there was no foreign 
+plaintiff, the security issued over a foreign exchange,  
+ even if that fraud takes place totally in the United 
+States, the statute wouldn't cover it
+ That's Friendly, which started this
+ And the third thing is what he says in Leasco
+ He says: We cannot see any sound reason for not taking your position, at least for the plaintiffs 
+who are Americans
+ Okay? Now, France, Britain and Australia have filed briefs in this case giving what they consider very 
+sound reasons, which are reasons that Judge Friendly 
+never considered
+ And those three reasons, as we know, is they point to a number of conflicts, that if you win, 
+how that will interfere with their efforts to regulate 
+their own securities markets, right? That's all one question: Professor Sachs, Friendly in Bersch, and Friendly in Leasco
+ But that's what I'd like to hear your answer to
+ MR
+ DUBBS: I will try to keep the subparts in mind
+ Why don't we start from the end and try to work backwards
+ Perhaps one of the most important parts of the record is the Solicitor General's view that as a 
+general matter -- and I will get to the specifics; I'm 
+not ducking that
+ But as a general matter the enforcement of the securities laws, unlike the antitrust 
+laws, has not historically and today they do not believe  
+ runs -- raises a substantial risk of interstate 
+conflict
+ Now, as to the specific briefs that Your Honor referenced, if we look at those briefs and we look 
+at those compared to what happened in Hartford Fire, 
+those briefs -- and let's focus on Australia's for the 
+moment because that's the country we are talking about
+ 
+Australia's brief essentially says they have a 
+regulatory system that may -- that we may or may not 
+have been able to litigate this cause of action in 
+Australia, but let's assume that we could
+ They are not saying -- they did not say in that brief that there was some fundamental conflict, 
+like the plurality found in Hartford Fire; nor did they 
+say that there was the kind of conflict that comes up in 
+the application of (h) of the Restatement, which 
+Justice Scalia looked to in his opinion in Hartford 
+Fire
+ So there is not the kind of conflict that leads necessarily -- necessarily -- to not reasonably applying 
+the statute
+ The reason there's not is that because, one, there is not a rule in Australia that one has to abide 
+by and a rule in the United States that one has to abide 
+by that are contradictory
+ At most, what you have is you have a clear rule in the United States that says  
+ thou shalt not commit fraud in Florida through either 
+the Florida through either -- for or in interstate 
+commerce, the mails or through an exchange
+ And on the other side of the equation what you have is maybe they 
+could have brought suit over here and we have a robust 
+regulatory system and a robust litigation system; more 
+power to them
+ But that doesn't mean -- saying that, that doesn't mean that the first State where the poison candy 
+was made suddenly has no interest in that
+ JUSTICE SCALIA: Well, but -- but Australia says: Look, it's up to us to decide whether there has been a misrepresentation, point one; and whether it's 
+been relied upon by the -- by the plaintiffs, point two
+ 
+And we should be able to decide that and we don't want 
+it decided by a foreign court
+ You are talking about a misrepresentation, if there was one in this case, made in Australia to 
+Australian purchasers; it ought to be up to us to decide 
+that issue; and here you are dragging the American 
+courts into it
+ MR
+ DUBBS: Well, let me deal with the dragging in part in a minute, because that's 
+subliminally very important to the case
+ But let me address the direct question
+ He  
+ Australians may believe that, but the question is was 
+there a misrepresentation both in the United States and 
+possibly in Australia? If there was in Australia, that's for the Australians
+ That's dealing with the effects of eating the poison candy
+ But we say a JUSTICE SCALIA: Not to these plaintiffs
+ MR
+ DUBBS: JUSTICE SCALIA: You -- you have to join the misrepresentation to the plaintiff
+ MR
+ DUBBS: JUSTICE SCALIA: The only misrepresentation to these plaintiffs was made in Australia by an 
+Australian company
+ MR
+ DUBBS: There are two ways to connect the fraud to the plaintiffs
+ The one is the "in connection with" requirement that deals with conduct, 
+which we meet, and this Court has construed very broadly 
+in Dabit, in Zandford and any other number of cases
+ 
+That's number one
+ Number two, assuming that the scope of the statute is broad enough to cover the conduct in Florida, 
+we then get to the second question, which is the 
+reasonableness of the application of the statute, and 
+without a conflict, we would then look at -- to the  
+ interest of the United States and compare them to the 
+Australians
+ And the Australians can say, we can -- you know, we can go after eating that poison candy
+ And we say, fine, if you want to, that's great
+ But that doesn't mean we can't go after the act of poisoning the 
+candy in Florida
+ JUSTICE SCALIA: But that -- that isn't the issue
+ The -- the -- the issue for the Australians is: We want to determine whether there has been a 
+misrepresentation or not
+ MR
+ DUBBS: JUSTICE SCALIA: We don't want the determination of whether there has been a 
+misrepresentation on the Australian exchange and whether 
+Australian purchasers relied upon that misrepresentation 
+to be determined by an American court
+ MR
+ DUBBS: And we say more power to you, you can decide that question
+ JUSTICE GINSBURG: Not if it's decided here, unless you want to say, the Australian court to say, the 
+United States taking this case is so outrageous that we 
+will not respect its judgment
+ And that's a factor, too
+ It's -- what conflict of laws is all about is you have two jurisdictions, both with an interest in 
+applying their own law, but sometimes one defers to the  
+ other
+ MR
+ DUBBS: That's correct, Your Honor
+ And the question is should there be deferral in this case
+ 
+And we say if you apply the standards of -- of Hartford 
+Fire or the standards of the Restatement, you don't end 
+up in deferral
+ You end up in prosecution of the Section (b) cause of action in Florida
+ And you do that for a couple of different reasons
+ First, you look at the magnitude of the conduct in Florida, the size of this
+ This is a $
+ billion writedown in a portfolio
+ You have a portfolio of $ billion worth of mortgages sitting 
+down in Jacksonville, Florida
+ Those are all mortgages on American homes,  million American homes
+ So, this is not just Australia, Australia, Australia
+ That's what's in the portfolio and that's what's being 
+misrepresented
+ And when they doctor the numbers and send them to Australia, it's a misrepresentation of 
+that
+ In addition, you have the overarching consideration of is it appropriate to sue National 
+Australia Bank in the United States at -- at a -- at a 
+more abstract level? And the answer to that, we submit, is yes
+ They have invested -- if you care to look, it's on the SA- and SA- of the supplemental appendix,  
+ they have invest -- they have $ billion worth of 
+assets here
+ They own a bank in Michigan, they have a huge trading operation on Park Avenue that trades 
+billions of dollars in derivatives every day
+ This is not the situation -- this is not the stereotype of a 
+CHIEF JUSTICE ROBERTS: Those derivatives are not at issue here, right? MR
+ DUBBS: CHIEF JUSTICE ROBERTS: I presume -- I'm sorry, go ahead
+ MR
+ DUBBS: They are only at issue in the following sense, which is that the position on the 
+mortgage servicing rights was hedged in New York
+ When the hedge came undone, there were losses in New York on 
+the other side of the hedge
+ That goes to the point of were there any affects in the United States, because 
+there seems to be some confusion on that
+ There were some effects here from the hedge
+ There were some effects on -- in the ADR market, but we are not -- we 
+JUSTICE GINSBURG: MR
+ DUBBS: -- disputing that most of the effects were over there
+ JUSTICE GINSBURG: Mr
+ Dubbs, Morrison, the  
+ first-named plaintiff, was a derivative holder
+ MR
+ DUBBS: No, Your Honor
+ He was the holder of an ADR
+ The derivatives come in because they are the activity in New York that is the other side of 
+the transaction
+ JUSTICE GINSBURG: But do you have -- you have two classes of plaintiffs, one the Australians, who 
+bought their shares in Australia; then you have 
+Morrison, who has an ADR, and who is dismissed because 
+he wasn't able to show damages
+ MR
+ DUBBS: That's true
+ There -- there are no Americans left
+ This is strictly Australians
+ JUSTICE GINSBURG: So what U
+S
+ investor was harmed? MR
+ DUBBS: The -- the question is, were there effects on the U
+S
+ market? There were U
+S
+ investors who were, in all likelihood, harmed but none 
+have stepped forward with respect to ADR holders
+ But if the question in the abstract is were there economic 
+effects from this transaction in the United States, the 
+answer is -- is yes, there were fallout from -- on -- on 
+the derivative side, which is the other side -- which 
+was the other side, in effect, the short side of what 
+the long position was, which was $ billion worth of 
+mortgages in Florida that what is -- what the portfolio  
+ consisted of
+ JUSTICE BREYER: What do you -- do you want to finish? MR
+ DUBBS: No, Your Honor
+ JUSTICE BREYER: Then -- I mean, I can see
+ I will give you all that
+ That isn't what is bothering me
+ I think you are right so far as what you have argued
+ But the part that I think is most difficult is why I -- I shorthand referred to Professor Sachs' 
+article
+ MR
+ DUBBS: Yes
+ JUSTICE BREYER: Because what Australia is actually saying is what we don't like about -- about the 
+American system, you know, their -- their common 
+criticisms of class actions
+ We say, first of all, the American rule means even if our companies here are 
+right, that they are going to have to pay their legal 
+fees
+ We don't like punitive damages
+ We don't like that we have the opt-out
+ And these are all our citizens, and we don't want to subject our companies on 
+our exchange to that stuff
+ Now, fine, they have a reason on their side
+ Then Professor Sachs says: Read the statute, because they argue -- it was never intended to cover that kind 
+of stuff
+ Now, that's what I would like you to address  
+ specifically
+ MR
+ DUBBS: Well, it was -- there are two issues
+ The statute was intended to cover that kind of stuff if the antecedent of "stuff" is fraud in Florida
+ 
+Now, that's a separate question from how we deal with 
+the private right of action in these circumstances
+ Now, let's back up
+ The general criticism of these cases is that they are gotcha cases
+ You put in a little bit and all of a sudden the private bar 
+comes and attacks you
+ I mean, that's the stereotype
+ Well, the stereotype is wrong and it's important to 
+understand why the stereotype is wrong
+ Because if all you have is a very modest investment in the ADR market, 
+ percent like my friends from NAB, those cases get 
+bounced at the beginning on personal jurisdiction as 
+they did in the district of New Jersey in SCORS and the 
+Novagold case
+ We are not aware of any case where if all you've got is that little toehold that you stay in
+ 
+You get bounced by -- on personal jurisdiction
+ And to pick up on the discussion that I was having with Justice Ginsburg, we thought that in 
+addition to that, if the Court wanted to send signals 
+with respect to these kinds of cases, if you put, as you 
+can, Sinochem at the beginning of the train, even more 
+of these cases if they are fallacious are going to be  
+ screened out of the system
+ So, the point is that we can all tell our Australian friends that there are very rigid safeguards 
+in place so that this horror story in reality doesn't 
+happen and it has not been proven to happen
+ It is an attractive myth, but it hasn't happened
+ Those cases go out and they go out early
+ JUSTICE KENNEDY: I'm not sure that it happens in advance of considerable discovery
+ I -- I --I would agree that the judge can confine discovery to 
+forum non conveniens or for personal jurisdiction, but 
+in -- in these cases one of the things we are really 
+talking about is the burden of discovery
+ That's the cost of litigation
+ You know that
+ MR
+ DUBBS: I do know that and let me answer briefly, because I want to reserve my time for rebuttal
+ 
+I disagree with your fundamental observation, Justice 
+Kennedy
+ These cases are paid attention to by the district judges and they go out early
+ They go out early on personal jurisdiction; there is not a lot of 
+discovery on that
+ They go out early -- if Sinochem gets applied faithfully, it would go out early on that 
+if there is a close question
+ And then you go to the (b)()
+ And pursuant to the Private Securities  
+ Litigation Reform Act, one of the purposes of that is no 
+discovery, no discovery until after the motion to 
+dismiss is decided
+ So it is not true that there is a lot of discovery, there is a lot of transaction costs, before 
+we know the answer to one of the threshold questions, 
+which is: Should this case be in our system or not? That can be handled and it is being handled on a daily 
+basis, notwithstanding, you know, some stereotypes
+ Now, my final point with respect to Professor Sachs' articles and some of the other articles 
+is they in effect -- if they advocate a rule, which many 
+of them do, which it should be limited to exchanges, 
+that goes back to my threshold point of the scope of the 
+statute
+ And it takes an eraser to the statute and it says: It's only exchanges; it's not in connection with foreign or interstate commerce or through the mails; 
+it's limited, contrary to the express words of the 
+statute, in a way that the statutory construction we 
+don't believe can stand it
+ Now, there are other legitimate ways of cabining the private cause of action
+ But that -- if you are faithful to the statute, we submit that is not 
+one of them
+ CHIEF JUSTICE ROBERTS: Thank you,  
+ Mr
+ Dubbs
+ Mr
+ Conway
+ ORAL ARGUMENT OF GEORGE T
+ CONWAY, III, ON BEHALF OF THE RESPONDENTS MR
+ CONWAY: Thank you, Mr
+ Chief Justice, and may it please the Court: The judgment of the court of appeals should be affirmed for two reasons
+ First, Petitioners have identified nothing in the text of section (b) that overcomes the 
+presumption against extraterritoriality or the Charming 
+Betsy Rule
+ The statutes should thus be construed not to apply to transactions and shares of foreign issuers 
+on foreign exchanges
+ Second, unlike the rights of action that this Court has addressed in other extraterritoriality 
+cases, the section (b) right is purely implied
+ 
+Congress didn't intend for this right of action to exist 
+even domestically, let alone extraterritorially
+ Given the threat that the section (b} implied right presents to the sovereign authority of 
+other nations, as reflected in the amicus briefs of 
+Australia, the United Kingdom, France, and the 
+diplomatic note from the Swiss government, the Court 
+should construe the implied right not to extend to  
+ claims of purchasers and sellers of securities of 
+foreign issuers on foreign markets
+ The two clear statement rules are, obviously, the presumption against extraterritoriality 
+and the Charming Betsy Rule require that the Congress
+ 
+Both require an affirmative intention of the Congress 
+clearly expressed before the statute can be applied to 
+apply to foreign transactions or to, you know, matters 
+that it infringes on the sovereign authority on other 
+nations
+ My friends don't identify anything in the statute that comets even close to a clear statement
+ 
+They principally rely on the definition of "interstate 
+commerce," but as this court said in Aramco, that kind 
+of boilerplate simply doesn't suffice to overcome the 
+presumption against extraterritoriality
+ JUSTICE SCALIA: Well, what is your test for whether -- whether it's being applied internationally or 
+not? MR
+ CONWAY: Well, our test is that, at a minimum, section b should be held not to apply to 
+transactions involving shares of foreign issues on 
+foreign exchanges, because that presents the greatest 
+danger of conflict of foreign law, particularly in the 
+context of the modern section b implied right, which  
+ has the fraud on the market presumption and holds 
+issuers liable, as here for example, for two and a half 
+years of trading, all on an Australian exchange
+ That is massive transfer of wealth that the Petitioners here 
+
+basically, it's a direct form of market regulation that 
+Australia has not seen fit to impose upon itself
+ JUSTICE STEVENS: May I ask you on that point: Supposing the class of plaintiffs included a group of Americans who were shareholders of the 
+Australian bank and who -- but who purchased their stock 
+over the Australian exchange
+ MR
+ CONWAY: We would -- well, we would submit that that rule should be the same
+ That they should -- they should not also, they should not be 
+allowed to sue under section b
+ They -- they -- you know, those people chose to purchase on the Australian 
+exchange
+ And in terms of the threat to international comity, I think it would be probably take -- I don't 
+think other countries would take nicely to a -- to a 
+rule of law that would allow Americans, essentially, to 
+bring their rules, their law, their remedies, fraud, on 
+JUSTICE BREYER: Give me reasons for it
+ The strongest one for it, the strongest example against  
+ you it seems to me, is Judge Friendly's example
+ 
+Schmidt, a citizen of Germany, flies to New York and 
+meets Jones in the hotel
+ And Jones says, I have a bridge I want to sell you
+ Look out the window
+ Say, Do you own the Brooklyn Bridge? Yes
+ And that's a lie
+ Here's what you do
+ You invest in buying shares of my company sold on the German exchange
+ Okay? MR
+ CONWAY: Yes
+ JUSTICE BREYER: Conduct took place in the United States, a terrible fraud
+ This is contrary to fraud and, says, I think, Judge Friendly and others, it 
+should apply at least where Schmidt is an American 
+citizen and Professor Sachs says no, not even then
+ What do you do with that case? The fraud took place totally here
+ MR
+ CONWAY: Well, I disagree with that, Your Honor, I think the fraud is carried out when the 
+transaction occurs in a foreign country
+ But I do agree JUSTICE BREYER: Sign the paper here in New York
+ MR
+ CONWAY: Yes
+ JUSTICE BREYER: Sign the paper, right here, and give me the money, because I have an urgent 
+appointment
+  
+ MR
+ CONWAY: Yes, sir
+ (Laughter
+) MR
+ CONWAY: That's a much different case, obviously, than the fraud in the market case that we 
+have here
+ But Your Honor, yes, that is a stronger circumstance
+ JUSTICE BREYER: Yes, but your position and hers is: That's no more a valid claim than this one or any other one we dream up
+ That's why it's a pure example, and I want to know how you feel about it
+ 
+MR
+ CONWAY: Well, I think that -- I think the problem is, in order to have that conduct swept 
+within the statute, you have to ignore the language and 
+the presumption against extraterritoriality
+ If you go to petition appendix , that has its text in section b, and section b refers to the 
+use or employment of any manipulative device or 
+contrivance, and it's in connection with the purchase or 
+sale of any security registered on a national securities 
+exchange
+ JUSTICE BREYER: Or any other
+ Or -- read the next word
+ MR
+ CONWAY: That's correct
+ Any security not so registered
+ And this Court has held -- it has 
+ held in cases like Aramco, American Banana, Moritson, 
+that the words "any" and "every," words of universal 
+scope, do not -- do not mean that these -- that 
+something referred to is anything, anywhere else in the 
+world
+ And for example, the Court is small against the United States
+ In the case where the presumption of extraterritoriality didn't really apply the court held 
+that in a statute, you normally assume that things being 
+referred to are thing in the United States
+ JUSTICE KENNEDY: Is the government going to tell us that its test, which differs from the foreign 
+exchange test, is based on considerations like those 
+suggested in Justice Breyer's Brooklyn Bridge 
+hypothetical? MR
+ CONWAY: I think they do
+ I think they look to -- I think their view is that the statute is 
+vague and you have to do essentially what Judge Friendly 
+did and the Seventh Circuit did for many years, is you 
+have to make do and decide what the best rule is
+ And with respect to the government, that is essentially 
+doing what this Court has said under the presumption 
+against extraterritoriality the Court shouldn't do
+ 
+That's essentially legislating, trying to figure out 
+what Congress would have done, had "a particular 
+ 
+ JUSTICE GINSBURG: JUSTICE KENNEDY: Would the limitations on discovery give you substantial protection were we to 
+adopt the government's test or say the foreign exchange 
+test with the subset exceptions for the -- that takes 
+account of the government's test? MR
+ CONWAY: Your Honor, I think the problem with the government's test and with the Second Circuit's 
+test, is that it would still allow the application of U
+S
+ law in a manner that would infringe the sovereign authority of other nations
+ And I can give an example
+ There was a case over the summer that the Petitioners attached to their 
+first supplemental brief on the petition for certiorari
+ 
+And it's a case called PC shifts
+ And it's an interesting case because it involved a Canadian company 
+with headquarters in Britain and most of whose shares 
+traded on the Toronto Stock Exchange
+ And what happened there was that the CEO spent time in Florida -- it was a shipping company
+ 
+We spent time in, Miami running the show from Miami
+ 
+And the court of appeals for the Eleventh Circuit, in a 
+ruling that it held was consistent with the Second 
+Circuit decision in this case held that nonetheless, the 
+application of U
+S
+ law could be applied to transactions 
+ of -- of foreign plaintiffs on the Toronto Stock 
+Exchange
+ JUSTICE KENNEDY: Is it a consideration that MR
+ CONWAY: Yes, discovery alone
+ Yes, Your Honor
+ Discovery alone
+ I think the French brief, for example, points that out
+ I think a number of the brief -- there have been blocking statutes that have 
+been enacted by various countries because of the -- what 
+they deem to be the offensive scope of discovery
+ In France, you are really only allowed to obtain evidence 
+that is actually admissible in trial
+ JUSTICE SCALIA: I'm not sure how you interpret the language that you -- that you just read, 
+when you say to use or employ in connection with the 
+purchase or sale of any security registered on the 
+National Security Exchange or any security not so 
+registered
+ Now, is it your point that in order to avoid an international extension of it, it should apply only 
+to securities? What? MR
+ CONWAY: JUSTICE SCALIA: Securities purchased and sold in the United States? Is that it? MR
+ CONWAY: That -- that's correct, Your  
+ Honor
+ I think that's a fair reading of the statute
+ And this Court is required, under both the presumption 
+against extraterritoriality under its decision and the 
+Charming Betsy Rule to interpret a statute, take the 
+permissible construction of the statute that is least 
+likely to result in an extraterritorial of the law
+ JUSTICE GINSBURG: Purchased -- purchased or sold? MR
+ CONWAY: Purposed or sold, Your Honor
+ JUSTICE SCALIA: What if it's not -- what if it -- what if the fraud produces neither a purchase or a 
+sale but induces somebody to hold on to stock that 
+otherwise the person would dispose of? MR
+ CONWAY: Well, I -- I don't know that that would state a claim, a private claim under Blue 
+Chip Stamps
+ And any -- and if the share or the securities are held abroad, if it's a foreign security, 
+and I think the liability in that hypothetical -- I'm 
+assuming that if it's a foreign security held by a 
+foreigner -- that really would be something that would 
+be subject to foreign law, whether or not Australia 
+wants to represent -- recognize holder claims of the 
+sort that this Court rejected in Blue Chip Stamps
+ 
+That's a question for Australia to decide
+ CHIEF JUSTICE ROBERTS: Under these same  
+ facts if you had -- altering according to the 
+hypothetical, you had U
+S
+ plaintiffs who purchased 
+National Australia Bank ADRs on the New York exchange, 
+you don't doubt that they can sue, do you? MR
+ CONWAY: No, and in fact, we told the district court, we did not move to defense on 
+extraterritoriality grounds the claims of Mr
+ Morrison, 
+who inexplicably is still here
+ CHIEF JUSTICE ROBERTS: Right
+ MR
+ CONWAY: We argued that Mr
+ Morrison's claims should be defeated on the grounds that he had no 
+damages, which was an absolutely ironclad calculation 
+best based on a -- on a provision of the PSLRA, and we 
+also argued that all of the claims should be dismissed 
+for failure to plead fraud with the requisite 
+particularity of the PSLRA
+ But we certainly do not dispute that when a company like ours registers shares on -- registers 
+shares with the SEC, ADRs with its SEC and lists them on 
+a New York stock exchange, it's subjecting itself to New 
+CHIEF JUSTICE ROBERTS: And presumably that would impose the same discovery on the bank as the 
+Sudanese case
+ MR
+ CONWAY: It could, Your Honor, that's  
+ absolutely true
+ But on the other hand, I mean, a lot of the other aspects of -- of this litigation, which 
+this Court has, you know, noted that is potentially 
+highly vexatious, I mean, that is only 
+ percent of 
+the flow -- of the total equity securities of the -- the 
+National Australia Bank
+ So the dangers of -- of a threat of -- of coerced settlements is much, much less
+ It's a much, much easier case to deal with if -- if -- if you are only dealing with the ADRs
+ Now if another company decides to list half its equity on 
+the New York Stock Exchange, well, it can -- it makes 
+the determination for itself, how much of this kind of 
+litigation it wants to subject itself to
+ JUSTICE KENNEDY: Suppose there were litigation with substantial allegations of wire fraud 
+violations as predicate for RICO violations, and the 
+case begins to proceed, and then there is a second cause 
+of action under the securities law
+ Would -- would the fact that there is going to be discovery and substantial 
+litigation in the -- in the United States courts be a 
+factor in retaining the -- the securities violation in 
+this suit? Or would the test be just the same in your view? MR
+ CONWAY: I think the -- I think you have to take each statute separately
+ You have to look at  
+ what the language of the statute says, whether it -- it 
+admits fault in an extraterritorial reading, and whether 
+that -- frankly whether that extraterritorial reading is 
+required or compelled
+ If there is any other possible construction, as the Court said in -- in Charming Betsy, 
+the court is required to accept that construction, 
+accept the construction that doesn't result in 
+JUSTICE GINSBURG: On the -- on the extraterritorial presumption against it, your colleague 
+on the other side tells us that in all the cases where 
+the presumption applied, all of the conduct was 
+someplace else, and they give the Aramco case and say 
+MR
+ CONWAY: JUSTICE GINSBURG: -- and everything happened outside the country
+ MR
+ CONWAY: JUSTICE GINSBURG: Here, I mean, you have to concede that a component of the alleged fraud occurred 
+in Florida
+ MR
+ CONWAY: We do concede that some of the conduct that ultimately, you know, led -- in a but-for 
+causal relationship to what happened in the Australia 
+occurred in the United States, but that's true in a lot  
+ of other cases
+ For example, Aramco, Mr
+ Boureslan was hired in Houston
+ So was the cook in Foley Brothers v
+ Filardo
+ And in Microsoft v
+ AT&T, basically all of the conduct, the relevant conduct was in the United States, 
+because what the -- what section (f) proscribed in 
+Microsoft was the shipment -- the supply in or from the 
+United States of a component of a patented invention
+ And what this Court held in Microsoft was that notwithstanding AT&T's argument that, "Hey, the 
+presumption against extraterritoriality doesn't really 
+apply because this is just regulating the supply in and 
+from the United States," this Court held that the 
+presumption against extraterritoriality applied because 
+what would happen is, a single act of supply would 
+result in a springboard for liability each time a -- a 
+disk was put into a computer abroad
+ And that is exactly analogous to the circumstances in this case, where what we -- what 
+happened was some -- some allegedly false information 
+was transmitted to Australia; it was then republished in 
+
+
+allegedly, as they would have it -- resulted in 
+
+purchased a share of stock of the National Australia  
+ Bank on the Australian securities exchange
+ And so that is exactly analogous to -- to Microsoft v
+ AT&T
+ Again, another point I think that's relevant is the, section  of the Exchange Act
+ Congress did not make a clear statement in section 
+ It did make clear statements in section 
+ Section (a) addresses transactions on foreign exchanges
+ Section  as a whole is entitled Foreign Exchanges, and section (a) 
+makes it -- makes -- gives the SEC power to promulgate 
+regulations that -- that apply to brokers and dealers 
+who effect transactions of securities on foreign 
+exchanges, if those transactions are transactions of 
+shares of shares of U
+S
+ issuers
+ And that's at -- for reference, the text of section  is at page  of the law professors' brief
+ 
+And section (b) also, it says that the SEC can 
+
+of businesses -- securities that are abroad, but only to 
+the extent the SEC finds it necessary to prevent evasion 
+of the Act domestically
+ And so Congress made two clear statements in section 
+ It did not make any clear statement in section 
+ JUSTICE SCALIA: Well, is that your only point? Or is your point also that you wouldn't need  
+ MR
+ CONWAY: JUSTICE SCALIA: -- were read as broadly
+ MR
+ CONWAY: That's absolutely right
+ The reading -- my friend's reading of section  would 
+render section (b) -- I mean the reading of section 
+(b) would render section  superfluous
+ And there are other provisions of -- that are in the Exchange Act 
+where Congress has made clear statements to show that it 
+can make clear statements
+ Section A which immediately follows section , is the Foreign Corrupt 
+Practices Act
+ So Congress -- if Congress -- if there is a loophole, and that's what this Court said in Microsoft v
+ AT&T; if there is some kind of loophole that presents some kind of a problem, that Congress needs to fix, 
+Congress can do it
+ Congress can do it with a clear statement
+ In sum, Your Honors, countries -- nations of the world do things differently
+ They -- they -- they have different rules of liability
+ We see in the amicus briefs different rules of materiality, different rules 
+of disclosure
+ And some rely on -- on public enforcement more than others
+ The French rely on l'action publique, as  
+ they say; and some nations approach ours in their 
+generosity to plaintiffs
+ Australia allows opt-out class actions; so does Canada
+ Canada allows opt-out class actions; it dispenses with, for example, the proof 
+of reliance, it dispenses with scienter in some cases
+ 
+Yet it -- it does all that, but it restricts liability 
+JUSTICE BREYER: How does it hurt the other countries if what we would say on their reading of this 
+is, Congress has said, "Look, if some terribly bad 
+conduct happens in the United States; they lie through 
+their teeth; and you, whoever you are in the world, who 
+buys some shares and as a result you are hurt, we will 
+give you a remedy
+ Come to us" -- now, how does that hurt Australia? MR
+ CONWAY: JUSTICE BREYER: Or France or England or any of these others? MR
+ CONWAY: Exactly the same way this Court said it hurts in Empagran
+ In Empagran this Court noted that -- that a reading of the rule that would allow -- a 
+reading of the FTAIA that would have allowed foreign 
+plaintiffs to come and sue for -- for foreign vitamins 
+transaction in a foreign country would essentially allow 
+plaintiffs to avoid the -- the narrower rules of the  
+ liability and the narrower remedies that other nations 
+provide
+ And that is exactly true here, where, you know, for example, Australia does not permit 
+fraud-on-the-market class actions
+ it doesn't recognize the fraud-on-the-market 
+presumption
+ And as I said, for example, Canada restricts these actions, it has generous liability rules and 
+allows opt-out class actions, but it says -- it caps 
+damages at  percent of an issuer's market 
+capitalization or $ million, whichever is greater
+ And so that's the -- that is the problem
+ It's not just substance but it's remedy
+ Other nations want to do things in different ways; they should be 
+allowed to
+ What is going on here is essentially a --Brandeising -- experiment a global scale
+ And that's a good thing
+ It's a good thing because it enables countries to judge for themselves what kind of rules 
+they want to have for people who buy shares on their own 
+exchanges
+ And to apply section (b) it cases like this would cut that experiment short
+ It would amount to exactly the soft of legal imperialism that this Court 
+rejected, rightly, in Empagran
+ The Court should reject it here as well and it should affirm the judgment of the  
+ court of appeals
+ I thank you
+ CHIEF JUSTICE ROBERTS: Thank you, Mr
+ Conway
+ Mr
+ Roberts
+ ORAL ARGUMENT OF MATTHEW D
+ ROBERTS, ON BEHALF OF THE UNITED STATES, AS AMICUS CURIE, SUPPORTING THE RESPONDENTS MR
+ ROBERTS: Mr
+ Chief Justice, and may it please the Court: This case presents two distinct questions: First whether the fraud alleged by Petitioners violated 
+Section b; and second, whether Petitioners may bring a 
+private action
+ In our view, the alleged fraud violated Section b, because significant conduct material to the 
+fraud's success occurred in the United States
+ CHIEF JUSTICE ROBERTS: There are -- there are a lot of moving parts in that test
+ You know, significant conduct, material, you require it to have a 
+direct causal relationship
+ Doesn't the complication of that kind of defeat the whole purpose? MR
+ ROBERTS: No, Your Honor, we don't think so
+ In terms of the -- of the direct cause part, which it will be -- the significant limit on private actions,  
+ as this case illustrates, the district courts even 
+accepting the allegations in the plaintiff's complaint 
+will often be able to dismiss the suit on the pleading 
+for its failure to satisfy that test
+ It's not a CHIEF JUSTICE ROBERTS: That's only for the private companies? MR
+ ROBERTS: That's right
+ And in terms of the other test, again, I don't think it's that 
+complicated
+ The -- the significance part of it is essentially trying to assess the amount of the conduct 
+CHIEF JUSTICE ROBERTS: what if significant elements of the fraud occur in four 
+different countries? MR
+ ROBERTS: If -- if -- the critical question is whether there's significant conduct here 
+that's material to the broad success
+ And the reason for that is if Section b didn't cover that kind of 
+conduct, then that would risk allowing the United States 
+to become a base for orchestrating securities frauds for 
+export
+ It would allow thing like masterminds in the United States engineering international boiler room 
+schemes in which they direct agents in foreign countries 
+to make fraudulent representations that victimize  
+ investors
+ JUSTICE BREYER: So it's not as easy to apply this, you think? Now, on your theory, I guess Schmidt is in Germany and we have our Brooklyn Bridge
+ 
+Okay, now wait
+ What happens is he calls Schmidt on the telephone, Jones, and he says I own the Brooklyn Bridge
+ 
+Actual, right, direct? Under your test, correct? MR
+ ROBERTS: Schmidt is in Germany? JUSTICE BREYER: Schmidt is in Germany
+ He calls him up
+ MR
+ ROBERTS: The defrauder is in Germany? JUSTICE BREYER: All -- everything -- you have to assume he's going to buy the thing on the 
+exchange in Germany but the fraud is in Brooklyn
+ He is lying about -- he doesn't really own the Brooklyn 
+Bridge
+ So he calls Schmidt
+ I am interested in -- he calls Schmidt
+ Causation, that's what your last pages of your brief, focus on that
+ He calls him and he lies to him
+ Actual
+ MR
+ ROBERTS: I'm sorry, Your Honor, can I ask you if everybody is in Germany? JUSTICE BREYER: No
+ (Laughter
+) JUSTICE BREYER: Go back to my Brooklyn Bridge example
+ Everything is hatched in your boiler  
+ room
+ MR
+ ROBERTS: Okay
+ JUSTICE BREYER: And they communicate the lie by calling Schmidt in Berlin on the telephone, 
+directly
+ MR
+ ROBERTS: Okay
+ JUSTICE SCALIA: Schmidt is the German
+ He's in Germany
+ (Laughter
+) MR
+ ROBERTS: I'm sorry
+ JUSTICE BREYER: MR
+ ROBERTS: The question is, is there JUSTICE BREYER: No, I'm focusing on the last pages of your brief
+ Where you turn this whole thing on the directness of the causation
+ MR
+ ROBERTS: That's right
+ And the SEC would be able to take action if there is significant 
+JUSTICE BREYER: I'm accepting that for the moment
+ What's bothering me, taking off from what the Chief Justice said, is the feasibility of your test
+ 
+Your test, it seems to me on causation, would say that 
+when you phone Schmidt and lie to him, he can sue
+ But when you phone your parent company, knowing that they  
+ will put it in the prospectus and Schmidt will read it, 
+you can't sue
+ And then what occurs to me is suppose you phoned a reporter, or suppose you phoned your parent 
+company and you knew they would tell a reporter
+ I'm focusing on the practicality of your causation test
+ MR
+ ROBERTS: If the conduct is directed or JUSTICE BREYER: Correct
+ MR
+ ROBERTS: -- then it would -- then the direct causation test would be -- would be met
+ The critical question is, is the conduct in the United 
+JUSTICE BREYER: You think that's the question here? You think the question is whether this really took place in Florida? I didn't think that was the question
+ MR
+ ROBERTS: In terms of a private plaintiff suing, in our view, the question is whether 
+the United States' conduct has a close enough connection 
+JUSTICE BREYER: Let's skip -- skip my question because other people may ask
+ JUSTICE ALITO: If the plaintiffs in this case had clearly alleged in their complaint that nobody  
+ in Australia reviewed the numbers that were sent from 
+Florida to any degree, they just directly copied them, 
+some low-level clerk directly copied them, would the 
+direct cause test be met? MR
+ ROBERTS: Yes, if the action was just ministerial over overseas, it would -- it would be met
+ 
+Again, the critical question, in our view, under the 
+direct cause test is, was there culpable conduct in the 
+United States that is directly responsible for the 
+plaintiff's injury? JUSTICE GINSBURG: JUSTICE KENNEDY: Well, then you give no weight to the fact that it was on the Australian 
+exchange? MR
+ ROBERTS: The -- the fact that the transaction happens on the Australian exchange is not 
+dispositive, because if -- if somebody in the United 
+States is directly -- is -- is executing the fraud -- if 
+it turned on just a transaction on the Australian 
+exchange, then a domestic investor could be injured by a 
+fraud that is hatched entirely here that is executed 
+entirely here, and he is tricked into executing a 
+transaction on an overseas exchange
+ JUSTICE GINSBURG: Mr
+ Roberts, because your time is running out, there is a basic question here
+  
+ You are asking us to make a distinction between what the 
+SEC can sue for and what a private party can sue for
+ 
+Congress did that with respect to aiders and abettors
+ Is there any other instance in which we have made a distinction, yes, the SEC has a claim but the 
+private litigant doesn't? MR
+ ROBERTS: Yes, the -- the -- the private litigants are -- have numerous elements that they have 
+to show that the SEC doesn't have to show: Reliance, loss, loss causation
+ All of those go to the causal link between the injury and -- and the fraud
+ And we think that the direct injury requirement is an 
+appropriate application of those more general causation 
+requirements in the context of transnational fraud
+ JUSTICE SCALIA: I am frankly less concerned with your -- your test for the private cause of action, 
+the direct cause test -- I -- I guess I could work with 
+that -- than I am with your test for -- for the 
+jurisdiction of the -- of the SEC, which is sort of a 
+totality of the circumstances test
+ It doesn't seem to me that's an appropriate test for a jurisdictional 
+question
+ You don't want to spend time litigating the totality of the circumstances
+ MR
+ ROBERTS: We don't think it's a -- a jurisdictional question in the sense of the subject  
+ matter jurisdiction, Your Honor
+ It's a -- a test about the scope of the statutory coverage
+ JUSTICE SCALIA: Well, okay
+ MR
+ ROBERTS: And it's true that bright line rules -- it's true that bright line rules are easier to 
+administer, but the -- there is a danger in bright line 
+rules for fraud prohibitions because they can provide a 
+road map for evasion of the statute
+ CHIEF JUSTICE ROBERTS: Do you have any indication that our friends around the world are 
+comfortable with your test? MR
+ ROBERTS: Well, the briefs that have been filed by Australia and United Kingdom and France 
+are limited to the private right of action
+ They base their -- what they want to do is to limit the private 
+rights
+ And I think the United Kingdom brief specifically says that -- it thinks that SEC action 
+could be appropriate here, and that's a reason why, if 
+the Court adopts the -- a limit on the private actions, 
+that it need not -- it need not be concerned about the 
+possibility that -- that fraud would be launched in the 
+United States or directed in the United States and it 
+couldn't be addressed
+ JUSTICE SCALIA: I guess we don't have to say anything about -- about what the government can do,  
+ do we? MR
+ ROBERTS: No, Your Honor
+ And we would certainly prefer that you decided the case solely on the 
+private right of action if the alternative for a holding 
+substantive prohibitions didn't apply here
+ CHIEF JUSTICE ROBERTS: Mr
+ Roberts, you urge deference to the SEC's interpretation in 
+administrative adjudications? MR
+ ROBERTS: Yes
+ CHIEF JUSTICE ROBERTS: Do you have anything other than those two proceedings over the last  years? MR
+ ROBERTS: Those are the two administrative adjudications
+ The SEC's administrative adjudicatory authority is limited to people involved in 
+the securities industry, and a lot of these frauds that 
+happen are -- don't involve people that are registered 
+broker/dealers and the like
+ There are numerous Civil Actions that the SEC has brought where it has taken the 
+same approach
+ The SEC v
+ Berger case that we cite in our brief is one of them
+ I can name some others
+ There is SEC v
+ Wolfson, which is a case that's in the district 
+court in Utah, and SEC v
+ Shay in -- in the southern 
+district of New York
+ SEC v
+ Banger in the northern district of Illinois
+ Those involve international  
+ boiler-room schemes of the kind I was alluding to 
+before, where masterminds in the United States basically 
+direct agents that they have got in countries like 
+Thailand or Spain to -- to make false statements and 
+engage in high-pressure selling to target investors in 
+other countries
+ Sometimes they induce them to engage in transactions in still other countries
+ CHIEF JUSTICE ROBERTS: Thank you, Mr
+ Roberts
+ Mr
+ Dubbs, you have three minutes remaining
+ REBUTTAL ARGUMENT OF THOMAS A
+ DUBBS ON BEHALF OF THE PETITIONERS MR
+ DUBBS: Thank you, Your Honor
+ Let me begin with Justice Alito's question, and I promise to 
+get back to Judge Friendly and the Brooklyn Bridge
+ As to -- we have alleged that in -- that effectively, ministerial activities did occur here
+ The Second Circuit held, interpreting our complaint, that 
+the numbers were mechanically incorporated
+ That's as close to ministerial as you get
+ We used, in the complaint, the were "adopted
+" We said that they were asleep at the wheel
+ The meaning is the same, but the -- there were no 
+checkpoints
+ The checkpoints are illusory
+ If there was a checkpoint, the guard was asleep at the  
+ checkpoint, and the MSR number went right through the 
+checkpoint
+ Those are the allegations, and we should be able to stick with the allegations
+ Now, turning to the statute, my colleague indicated that the language with respect to foreign and 
+interstate commerce and so on, based on the Aramco 
+decision, was boilerplate
+ That's wrong
+ In this statute, those specific statutory approaches towards 
+stopping fraud are in the substance of the statute
+ 
+They are not in the jurisdictional statute
+ That's important
+ That's why that's different
+ As to the Leasco example and Bersch example, what Leasco shows is a long chain of causation, because 
+Leasco involved an American, not a foreigner, which was 
+very important under Judge Friendly's typology
+ And in Leasco, you have this extended line of causation 
+beginning with representations in the United States 
+about a friendly, tender offer
+ Then there was a phone call, maybe in London, maybe in the United States, and 
+then there was a command by Saul Steinberg to his 
+investment bankers: Go into the London Stock Exchange and start to buy
+ That extended line of causation would not pass muster under the direct cause test
+ The direct cause test as this Court is using it in the RICO area  
+ State law? I mean, it's -- it's commonplace for the Federal law to look to State law on issues of ownership
+ 
+And, in fact, if there is this doctrine of equitable 
+ownership on the part of the attorney, what right does 
+the government have to do the setoff? MR
+ YANG: Well, that might be true if we were relying on a common law offset
+ But in this context, Congress has directed that all Federal 
+payments, unless there is an exception -- and there is 
+no exception in this case -- are to be offset before 
+payment, any payment, to the debtor
+ So in this case, Congress has effectively established a priority scheme 
+whereby when a debtor owes a delinquent valid debt to 
+the United States and the United States owes an 
+offsetting obligation to that individual, Congress has 
+provided that no Federal funds shall be paid to the 
+individual and instead that the debt -- the government's 
+debt shall be offset against the debt that the --CHIEF JUSTICE ROBERTS: What if the client is bankrupt? What happens then? MR
+ YANG: The same rule would apply
+ No Federal payment would -- well -- I believe that the same 
+rule would apply
+ I've not carefully studied the bankruptcy provisions, and I hate to venture into a very 
+complicated area to give you something definitive
+ But  
+ my belief is that, based on the very clear text of 
+section  of Title , which was amended by the Debt 
+Collection Improvement Act, that no payment shall be --
+even in bankruptcy, the payment goes to the -- has 
+to go to the debtor first, and then it goes to the estate 
+-- that no payment shall be made from the Treasury and 
+instead an administrative offset shall be undertaken to 
+collect the government's debt
+ JUSTICE BREYER: Is there a way for the lawyer -- a lawyer sees that his client has a good case 
+against the government, and thinks he can get an EAGA 
+fee, so he says to the client: I'd like to represent you and I can get paid for this
+ But the client says: There are a lot of debts I owe the government
+ Now, is there any way they can work it out so he can get the representation? MR
+ YANG: Well, sure
+ There™s --JUSTICE BREYER: What? MR
+ YANG: As we indicated in our brief, there's several things that can be done
+ First, the attorney can determine whether there is in fact a debt 
+which is eligible for offset, and that can be done by 
+asking the Treasury with a valid Privacy Act waiver from 
+the client
+ If that is the case, the client retains the right, which Congress expressly codified in section  
+ , the right to enter into a repayment agreement
+ If that is done, there will be no offset, and the repayment 
+agreement is largely governed by the Federal claims 
+collections standards, which are codified at  C
+F
+R
+  
+to , and those -- those provisions provide in section 
+
+, for instance, that installments shall -- should 
+bear a reasonable relation to the size of the debt and 
+the debtor's ability to pay
+ And in some instances, the government agency is able to compromise that debt if the 
+debtor is unable to repay it within a reasonable amount of 
+time
+ The agency should consider the age, health, present and potential income, as well as assets of the 
+debtor, in order to determine the --JUSTICE BREYER: In other words, the lawyer and the agency and the client sit down, and the lawyer 
+says: Here, I can get some money for this client and that will help everybody, but I want to be paid
+ So I want you, Agency, to agree that on the repayment 
+schedule if I get an EAGA fee, then I get to keep it and 
+I don't have to give it to my client, who will have to 
+give it to the government
+ And then they can sign a piece of paper and then that's done and the lawyer gets 
+to keep the money
+ MR
+ YANG: That -- that's correct
+ JUSTICE BREYER: And has that ever happened?  
+ MR
+ YANG: I don't know that that's happened in this offset context
+ JUSTICE BREYER: But it could now
+ Now people would know about, and they could do it
+ MR
+ YANG: It could well happen, and in fact --JUSTICE KENNEDY: Well, what™s -- what™s the authority for the government to enter into the agreement? MR
+ YANG: The authority --JUSTICE KENNEDY: I mean, if the statute says there has to be an offset, that's it
+ MR
+ YANG: Well, the statute also provides, under section , for the Department of Justice and the 
+Department of Treasury to establish guidelines for 
+agencies
+ They have done so in Parts  to -- or  to  of Title  of the Code of Federal Regulations
+ JUSTICE KENNEDY: But do the guidelines reflect Justice Breyer's hypothetical? MR
+ YANG: Well, the statute actually reflects Justice Breyer's hypothetical, because at 
+section  -- this is at page a of the government's 
+brief™s appendix -- the head of the agency, prior to 
+implementing an administrative offset must advise --
+this is on a -- the debtor of the opportunity to make a 
+written agreement with the head of the agency to repay 
+ the amount of the claim
+ That reflects the practice in the Federal claims collections standards of agreeing to 
+repayment of such claims
+ JUSTICE SOTOMAYOR: Could you tell me what would motivate the government to agree to give to a 
+lawyer a piece of a recovery that it, the government, 
+thinks it's entitled to? I mean, it's one thing to work a repayment plan
+ That starts on the proposition that the individual can only each week or month or whatever 
+give a certain amount of money over
+ But what --MR
+ YANG: Well, I think the hypothetical was premised at the beginning of the lawsuit rather than at 
+the end
+ If -- if the case were at the end and the government were ordered to pay EAJA fees, the offset 
+would be automatic
+ We would not agree at that point to split the -- the offset with -- with the attorney
+ But in the beginning of the lawsuit, when the attorney is 
+undertaking representation of the client, the attorney 
+is able to do precisely what Congress intended, which 
+was to have debtors come to the United States and 
+take -- to avail themselves of the opportunity to repay 
+their debts to avoid an offset
+ CHIEF JUSTICE ROBERTS: Well, but that's a fanciful answer, because EAJA requires that the 
+government's position, to get fees, is substantially  
+ unjustified
+ And so the government lawyer is going to sit down and say, well, you know, if I take a position 
+that is substantially unjustified, I will at that point 
+pay the fees to you, not to the client
+ MR
+ YANG: Well, not at all
+ The government's interest in an installment plan is not 
+motivated by EAJA
+ The government™s interest is --CHIEF JUSTICE ROBERTS: Yes, but the attorney's interest -- I thought in the hypothetical we 
+were talking about, the attorney's interest is
+ He thinks the government is going to take a substantially 
+unjustified position, and he wants to make sure in that 
+case that he gets paid
+ MR
+ YANG: This is a separate question, which is whether there is really any deterrent or how 
+large the deterrent effect would be having the specter 
+of a fee offset
+ And as we explained in our brief, this Court in Underwood explained that, because EAJA awards 
+are not given to every prevailing party and are only 
+given to parties where the government's position is not 
+substantially justified, it is -- one cannot reliably 
+determine in advance whether the government's position 
+is going to be so unreasonable that you™re going to get 
+an award of fees
+ And that -- that suggests that any deterrent  
+ effect of having the possibility of an offsetting -- an 
+offset for the client's debt is small
+ And that --CHIEF JUSTICE ROBERTS: Well, that's going to look awful bad to a court that comes in and he's --
+and the court is asked to award EAJA fees, and there is 
+an agreement already in effect
+ The government says, well, if we™re -- you know, if we™re liable for EAJA 
+fees, this is how we are going to handle it
+ MR
+ YANG: I may have misspoken --CHIEF JUSTICE ROBERTS: That would be the first piece of -- that would be the first piece of 
+evidence that I would want to put in saying I should get 
+EAJA fees
+ The government thought they might even take a position that qualified
+ MR
+ YANG: Let me back up
+ I may have misspoken
+ What I intended to convey is that at the beginning of the case when an attorney is deciding 
+whether to represent a client, the case has not been 
+litigated, we don't know whether the government's 
+position is going to be found to be substantially 
+unjustified or not, the attorney -- if the attorney 
+checks and wants to determine whether the client has 
+a -- a debt owed to the government that would be subject 
+to offset, the attorney can go to the government and say: 
+Let's enter into a repayment plan so that my debtor gets  
+ on the government's good graces and no longer is subject to 
+have a tax -- a tax return, for instance, offset or any 
+other payment that the government may owe to that 
+debtor in the future, including EAJA
+ But it's not because of the EAJA payment that you would enter into 
+the agreement
+ The government --CHIEF JUSTICE ROBERTS: No, but say he goes in to the government and says, look, I™m about to sue 
+you, and I™d like to sit down and negotiate a nice 
+agreement about the repayment
+ MR
+ YANG: Well, I guess the attorney may say, I'm about to sue you, but the government certainly 
+is not motivated because of the lawsuit
+ The government -- whether an attorney is going to sue the 
+government or not, the question is --CHIEF JUSTICE ROBERTS: Government lawyers are always sympathetic to people who come in and say: 
+I'm going to sue you
+ (Laughter
+) MR
+ YANG: Well, I guess that certainly gets our attention
+ But the reason that the government would enter into a repayment agreement is because that is an 
+opportunity for the government to collect a debt that is 
+delinquent, valid, and outstanding
+ And what Congress intended to do in the Debt  
+ Collection Improvement Act was not to have additional 
+Federal funds be paid to debtors who have been given 
+multiple warnings of the debt and are essentially, you 
+know --JUSTICE SOTOMAYOR: The problem with your argument is this pot of money is actually not going 
+to -- it's going to the debtor, according to your 
+argument, because in theory the debtor is the prevailing 
+party and is entitled to get the award
+ But the money is not being paid to the debtor
+ It's for the benefit of the lawyer who has done the work that Congress wanted 
+done
+ MR
+ YANG: Well, actually, either --JUSTICE SOTOMAYOR: I don't know what the --I don't know what the motivation would be for a lawyer 
+to undertake to represent the meritorious claim when 
+they have to not only do the work in the case, but now 
+have to do the work for the government in getting their 
+client to negotiate an agreement with the government on 
+something that's completely unrelated to the claim
+ MR
+ YANG: I guess a --JUSTICE SOTOMAYOR: It's -- it's sort of --MR
+ YANG: There™s a few answers --JUSTICE SOTOMAYOR: -- illogical
+ MR
+ YANG: There™s a few answers to that
+  
+ EAJA applies not only in the Social Security context; it 
+applies in all civil actions in which -- not sounding in 
+tort, in which there™s not another specific fee 
+provision, brought -- brought by or against the United 
+States
+ Congress intended -- and this is in the statutory findings which precede EAJA in section -- I 
+believe it's  of the Act; it is -- to diminish the 
+financial deterrent on individuals, businesses, and 
+organizations caused by the expense of providing -- of 
+litigating a case
+ This is --JUSTICE GINSBURG: That sounds like you're -- you have -- the client has an agreement to pay 
+the lawyer or the client has paid the lawyer
+ It would make sense if the client has paid the lawyer and then 
+there is reimbursement under EAJA that what -- what 
+you're describing would make sense in that situation
+ 
+But in most of these situations, the client doesn't have 
+the wherewithal to pay the attorney upfront, of course
+ MR
+ YANG: That may be true in the Social Security context, but there are many instances in 
+which -- this is the -- this is the normal way that, 
+you know, clients and -- and -- and their -- their 
+attorneys work out fee arrangements
+ Sometimes clients will pay their attorney in advance; sometimes they will  
+ pay as the litigation goes forward
+ And by the time you have the EAJA award the client will have paid all or 
+part -- sometimes none -- but all or part of the -- of 
+the fee award
+ JUSTICE GINSBURGH: Is it --MR
+ YANG: Congress directed -- the language is very clear: Courts shall award to the prevailing party fees and expenses --JUSTICE GINSBURG: And does that mean --MR
+ YANG: -- incurred by the party
+ JUSTICE GINSBURG: The award goes to the prevailing party
+ So, therefore, the attorney's fee is income to the client --MR
+ YANG: I --JUSTICE GINSBURG: -- is taxable income to the client? MR
+ YANG: This is -- the answer to that is complicated and, generally, yes
+ The IRS is of the view that attorney fee awards to prevailing parties, whether 
+it's EAJA or otherwise, are deemed to be taxable income 
+to the client
+ Now, the clients, of course, will have an offsetting deduction for expenses incurred by -- in --
+in the course of producing or collecting income, and 
+that was recognized by this Court's opinion in Banks
+  
+ That deduction is, of course, subject to certain limits
+ 
+It has to be in excess of  percent of the adjusted 
+gross income and subject to the alternative minimum tax, 
+which wouldn't apply to Social Security claims
+ But the general answer is yes, it is income when the prevailing party receives a fee
+ There is an offsetting deduction
+ However, there's a -- some uncertainty with whether some fee awards when the 
+underlying benefit obtained is not taxable, whether 
+that -- the IRS will treat such payments to -- the fee 
+awards, as --JUSTICE GINSBURG: Like pain and suffering, but that's not --MR
+ YANG: Yes, so, but also certain Federal benefits, including Social Security benefits, 
+have a very complicated tax relationship
+ Social Security benefits are taxable in part
+ It depends on the size and the amount of other income
+ So, the answer is actually quite complicated whether fees are taxable under EAJA in the Social 
+Security context
+ But the general rule is, yes, fee awards to a prevailing party are income and subject 
+to --JUSTICE GINSBURG: And then, in turn, income to the attorney when -- if the client -- 
+ MR
+ YANG: Correct
+ Just as, you know, when I'm -- you know, I am paid my salary and taxed on it, 
+and then when I pay for services, the person to whom I 
+pay also has income, and they are taxed as well
+ This is not an unusual situation
+ JUSTICE KENNEDY: It seems to me the underlying assumption -- and some of the question would 
+have been put to you by the court -- is that the 
+government has somehow benefited because the money is 
+created to offset the debt
+ It really isn't
+ It would -- this would be true if an attorney were suing 
+a third party and creating a fund, and the government 
+said, ah, there's the money
+ In this case, it's just being paid from one account to the other
+ The government would be better off if there were no suit 
+at all
+ MR
+ YANG: That's correct
+ If the government never had an EAJA award, it at least would 
+be less of a debt that it could collect
+ JUSTICE KENNEDY: It's just paying itself from one account to the other
+ MR
+ YANG: That's correct
+ The government is -- ultimately zeroes out here
+ The person that gets the benefit is the prevailing party, because the 
+prevailing party has eliminated a debt to the United 
+ States by having that offset by the EAJA award
+ So the prevailing party obtains the benefit, which is precisely 
+what Congress intended here
+ CHIEF JUSTICE ROBERTS: The government zeroes out, but in the course of it, it has taken a 
+legal position in court against a small business that 
+was substantially unjustified
+ MR
+ YANG: And it has paid its EAJA award by offsetting that award against the debt that the business 
+owed to the United States
+ The government is -- at the end of the day, the balance sheets of the government 
+have not changed
+ And with -- from the perspective of --CHIEF JUSTICE ROBERTS: But I think the idea -- well --MR
+ YANG: From the perspective of the prevailing party as well
+ The prevailing party has an obligation to the attorney
+ Those are the attorney's fees incurred which have not yet been paid
+ The prevailing party also has an obligation to the 
+government in the -- in the amount of a debt
+ It has income that comes in through the -- through the fee 
+award, and whether that goes to offset the debt to the 
+government or offset the -- for use to pay the attorney, 
+the prevailing party ultimately gets the benefit of that 
+fee award
+ And the government has paid the EAJA award  
+ as required by statute
+ JUSTICE ALITO: Do you happen to know how much the -- the Treasury typically collects in a year 
+under these EAJA offsets? Does it put a dent in the Federal deficit? MR
+ YANG: We don't, and the reason we don't is because each agency that -- which is the subject of 
+an EAJA order submits to Treasury a payment request 
+based on that order, and they check ﬁmiscellaneous 
+payment
+ﬂ That agency doesn't know whether that payment is offset
+ Treasury receives that -- that request of payment and sees that it's a miscellaneous payment, 
+checks it against a debt, and may offset
+ But Treasury doesn't know that the miscellaneous payment was an EAJA 
+award
+ So we don't have any statistics that we can point to, to say how often this -- this occurs
+ I can say that the financial management service executes one 
+-- over one billion payments per year, and that offsets 
+of those payments account for $
+ billion
+ So about two-tenths of  percent of payments from the Federal 
+Government result in offsets
+ I™d like to reserve the balance of my time
+ CHIEF JUSTICE ROBERTS: Thank you, counsel
+  
+ Mr
+ Leach
+ 
+ORAL ARGUMENT OF JAMES D
+ LEACH ON BEHALF OF THE RESPONDENT MR
+ LEACH: Mr
+ Chief Justice, may it please the Court: I™d like to discuss with you this morning four reasons why Catherine Ratliff, and not the 
+government, is entitled to receive the fee for the legal 
+services she performed, that Congress invited her to 
+perform, to show that the government's position was 
+legally erroneous and was not even substantially 
+justified
+ And my first point arises from your question, Justice Scalia
+ You asked whether State law determines who has the priorities here in terms of 
+offset, if I understood
+ And the answer is that actually Federal law determines that, specifically the 
+Debt Collection Improvement Act and regulations
+ The Act requires mutuality of a debt between the debtor and 
+the government before the government can offset
+ And the regulations, which I™ll quote in just an instant, 
+require that before offset can occur, the government must 
+look to who has the beneficial interest in the payment
+ 
+In other words, who is entitled to benefit from it
+ Specifically,  C
+F
+R
+ 
+(b), which is 
+ quoted at page  of the red brief, defines, quote, 
+"offset," close quote, as withholding funds to satisfy 
+a debt owed by a payee
+ And "payee" -- and this is critical -- is defined as the same -- in the same 
+regulation, also quoted at page  of our reply brief, 
+as "the person entitled" -- as the person entitled to 
+the benefit of all or part of a payment
+ In other words, not the legal title holder if there is a 
+difference, but the person with the beneficial interest
+ CHIEF JUSTICE ROBERTS: The prevailing party gets the benefit in the sense that she is relieved of 
+the debt she owed to the government
+ That's a real benefit
+ MR
+ LEACH: Well, Your Honor, I think that's a benefit -- true, that's a benefit, I agree; but that's 
+not a benefit, I don't think, in the sense of who --
+because the question is who has the beneficial interest 
+in the fee payment? And when we look to that question, because that's what's at issue here, is the fee payment
+ JUSTICE ALITO: Isn't this argument circular? The -- the issue is who is -- to whom is this payment to be made
+ And if it's to be made to the --the claimant, then it's not for the beneficial interest 
+of the -- of the attorney
+ MR
+ LEACH: Two responses, if I could,  
+ Justice Alito: First, the word "payment" gets thrown around a lot in the briefs
+ It can mean two separate things
+ It can mean who receives the payment first; in other words, who is the check mailed to; or it can mean 
+who the check is ultimately entitled to -- who is 
+entitled to benefit from it
+ And the government's -- my second point is the government's reply brief at page  to  concedes 
+that, but for the government's alleged right to offset, 
+the attorney does indeed have the beneficial interest in 
+the attorney's fee
+ And the government gives three reasons, and only three reasons, why its alleged right 
+to offset trumps the attorney's beneficial interest
+ The first reason the government gives is the government says that the -- the constructive trust, which 
+the government acknowledges exists in the -- in -- in 
+favor of the attorney with respect to the fee payment, 
+does not arise until the instant the fee reaches the 
+client
+ And that's true, but that's not the point
+ The point is the attorney had the beneficial interest in the fee, which had to precede the 
+moment the fee reached the client, if it's payable to 
+the client in the sense of "sent to
+" The beneficial interest had to precede that in order for a constructive 
+trust to arise
+  
+ The government's second argument --JUSTICE BREYER: On the first one, imagine that the -- a trust owes some money to the government
+ 
+Now, suppose a lawyer representing the trust recovers
+ 
+Now, they recover on a separate debt, okay? Separate debt? One
+ That money goes to the trust
+ Right? MR
+ LEACH: If -- I'm not --JUSTICE BREYER: The trust first owes -- the trust owes $, to the government
+ The trust then independently recovers $ from the government on a 
+different matter
+ MR
+ LEACH: Yes
+ JUSTICE BREYER: The government couldn't offset that? MR
+ LEACH: Of course it could
+ JUSTICE BREYER: Yes
+ Of course it could
+ MR
+ LEACH: Yes
+ JUSTICE BREYER: But the trust is not a person entitled to the benefit of the payment
+ MR
+ LEACH: Well --JUSTICE BREYER: The beneficiaries of the trust are entitled to the benefit of the payment
+ MR
+ LEACH: If I understood your hypothetical, if the trust is entitled to $, then the 
+trust I think would be entitled to the benefit of the 
+ payment
+ JUSTICE BREYER: It's not entitled to the benefit of the $
+ The trust holds money for the benefit of the beneficiaries of the trust
+ So --MR
+ LEACH: I --JUSTICE BREYER: -- it can™t -- you agree that that couldn't be? MR
+ LEACH: Well --JUSTICE BREYER: Yes, and once you agree that that couldn't be, I think you are in trouble on 
+your first argument
+ I'm not sure
+ MR
+ LEACH: Okay
+ I don't think so, because if we are talking about payments to persons, you know, 
+if a person -- if a person owes a debt of $,, 
+receives $ on the debt, the person receives the 
+benefit of that $
+ JUSTICE GINSBURG: I --JUSTICE BREYER: Well, similarly, the -- the guy -- the client here receives the benefit of the money 
+that he has just gotten from the government, including 
+the attorney's fees
+ It happens that he can't keep those attorney's fees, just as the trust can't keep the 
+$
+ He has to give the attorney's fees to the lawyer, just as the trust eventually has to give the $ to the 
+beneficiary
+ So I'm simply saying -- drawing a  
+ parallel, which -- go on to the next issue
+ MR
+ LEACH: All right, Your Honor
+ CHIEF JUSTICE ROBERTS: Well, let me -- can trusts -- can trusts recover EAJA fees? MR
+ LEACH: I don't know, Your Honor
+ CHIEF JUSTICE ROBERTS: Yes, I don't either
+ I™m looking at the definition
+ It doesn't say "trust
+" It says a lot of other things, like corporation, 
+association, unit of government
+ I just don't --JUSTICE KENNEDY: I™m having trouble with this aspect, and it may -- may be that it varies from 
+State to State
+ But as a general matter, under State law, let's say that the employee makes a contingency fee 
+arrangement with a lawyer to sue the employer and wins 
+$,
+ It's a one-third contingent fee
+ The -- the employee already owes the employer $,
+ It would seem to me under the general principle of offset that 
+the employer has to only pay $,, and the attorney 
+is not going to get his full fee
+ MR
+ LEACH: That™s --JUSTICE KENNEDY: And that's just --that's just the law of offsets
+ MR
+ LEACH: That's true
+ JUSTICE KENNEDY: Because again, it's the same party
+ If they created money by suing some third  
+ person, then that's different
+ MR
+ LEACH: I think that's true
+ JUSTICE KENNEDY: And -- and so I -- it seems to me that what you're -- what you're asking for 
+is just contrary to the standard law of offsets
+ MR
+ LEACH: Well, Your Honor, with what I --JUSTICE KENNEDY: And it's even worse because the Federal statute says that there shall be 
+this offset first as a matter of priority
+ MR
+ LEACH: Actually, Your Honor, the Federal statute provides for offset in accordance with 
+regulations to be issued by the Treasury Department
+ 
+And those Treasury Department regulations were what I 
+quoted right at the beginning of my argument
+ We have to look at who is entitled to the benefit of the 
+payment, not the benefit in a generalized sense of the 
+lawsuit
+ JUSTICE KENNEDY: Well, in the generalized sense of -- of common law of offsets, as I've described 
+to it, sure, the attorney has a beneficial interest, but 
+he's not going to be able to collect it vis-à-vis the 
+employer who is entitled to an offset
+ MR
+ LEACH: Yes
+ And the difference, Your Honor, is that in your hypothetical we™re talking about 
+one sum of money that™s recovered in the name of the  
+ claimant
+ In this situation, we™re talking about a statutory fee award, which is created only based on the 
+work of the attorney and which is labeled an attorney's 
+fee and separate from the benefit --JUSTICE BREYER: Well, how is it different? Look
+ This, what I was talking about, has nothing to do 
+With EAJA
+ MR
+ LEACH: Yes
+ JUSTICE BREYER: It has to do with when the government's allowed to offset some money
+ MR
+ LEACH: Yes
+ JUSTICE BREYER: And it's allowed to offset some money when the money is money that it would otherwise 
+give to a payee
+ All right? MR
+ LEACH: Yes
+ JUSTICE BREYER: And then you've defined "payee" as a person who has some beneficial interest in 
+that money
+ MR
+ LEACH: Yes
+ Yes
+ JUSTICE BREYER: And I think that the client here has no more and no less beneficial interest whether 
+he's a person or whether he's a trust
+ That was my point
+ MR
+ LEACH: I understand, Your Honor
+ JUSTICE BREYER: Okay
+  
+ MR
+ LEACH: And my point about the statute is simply that the statute is subject to the regulation 
+which looks to who's entitled to benefit
+ JUSTICE SCALIA: Okay, let's take the regulation: "A person who is entitled to the benefit of all or part of the payment
+" Ultimately, isn't it the plaintiff who has recovered that is entitled to the 
+benefit, because this money is given to him in order 
+that he can meet a financial obligation that he owes to 
+the lawyer? I mean, if this didn't exist, he'd owe the lawyer and have to pony it up out of his own pocket, no? MR
+ LEACH: Not so, Your Honor, in Social Security cases, which this is, and in Veterans cases, 
+which together account for more than  percent of all 
+EAJA awards
+ In Social Security cases,  U
+S
+C
+ (b)(), set out in our appendix, makes it a Federal 
+crime for any lawyer to charge, receive, demand, or 
+collect a fee payment directly from a client, other than 
+under past -- the  U
+S
+C
+  past-due benefits,  
+percent, or EAJA
+ And this is a critical difference
+ In the non-EAJA, in the non-Social Security, non-Veterans 
+contexts, you know, about  percent of cases, you've got 
+-- conceivably, you've got, often, clients paying lawyers 
+ on a traditional pay-as-you-go basis
+ But in a Social Security case or a Veterans case --JUSTICE SCALIA: And in those cases, you agree the offset can be made? MR
+ LEACH: Absolutely
+ Absolutely
+ The difference here in all these Social Security and Veterans cases is that the attorney is 
+barred by law from receiving money on a 
+pay-as-you-go basis
+ So the attorney has never been paid
+ JUSTICE GINSBURG: In exchange for getting  percent of the recovery? MR
+ LEACH: No
+ Actually, Your Honor, in exchange for showing in Federal court, if I understand 
+your question
+ I hope I do
+ JUSTICE GINSBURG: My understanding is that the ordinary payment to the lawyer for Social Security 
+benefits gained for the client is  percent of the 
+recovery to the client paid directly to the lawyer
+ MR
+ LEACH: That's true
+ JUSTICE GINSBURG: So that, just as a background in this case, did Ms
+ Ratliff get that 
+ percent? MR
+ LEACH: No, Your Honor
+ There was no  percent fee here
+  
+ JUSTICE GINSBURG: And that was because it was too small to be bothered with? What was the reason? MR
+ LEACH: She did not apply for a  percent fee
+ It would have been quite small, had she received it
+ It would have been much smaller than the EAJA fee
+ JUSTICE GINSBURG: And she could keep only one from the --MR
+ LEACH: Yes
+ JUSTICE GINSBURG: She could keep only the larger of the two
+ MR
+ LEACH: Had she received the EAJA fee, she could have kept it
+ JUSTICE GINSBURG: One of the difficulties with your position is that Congress did exempt a number 
+of Federal payments from the offset, but it didn't 
+exempt Equal Access to Justice fees
+ MR
+ LEACH: Yes
+ And the -- there are two points there, Your Honor
+ I mean, EAJA fees -- I'm not claiming all EAJA fees are exempt
+ As I just said --spoke with you, Justice Scalia, if the -- in a non-Social 
+Security, non-Veterans case where the client has paid 
+the attorney and then an EAJA fee comes down, that™s 
+clearly subject to offset
+ You have to look to that regulation and who is entitled to the benefit of the fee 
+ payment
+ And the reason that the Debt Collection Improvement Act doesn't address this in  is that in 
+, the government had never taken the position that 
+attorney fees were subject to offset in Social Security 
+or Veterans cases
+ And in fact, in , there were three court of appeals decisions on the question of 
+whether a creditor could offset a statutory fee award: 
+Plant -- these are all of our briefs -- Plant, Fourth 
+Circuit, ; Duncan -- I'm sorry, Plant is Fifth 
+Circuit, ; Duncan, Fourth Circuit, ; Curtis, 
+Eighth Circuit, 
+ All those cases said that the creditor may not offset a statutory fee award against the creditor's 
+debt because the fee is for the attorney
+ That™s why Congress couldn't have conceivably thought to address it 
+in 
+ And some of the questions take me toward the point that you asked about before, Justice Roberts --
+Chief Justice Roberts
+ And you suggested, or you said, that EAJA says: Pay to the prevailing party
+ If I heard you correctly
+ In fact, Your Honor, the language of the statute is, quote, "award to the prevailing party
+
+
+ 
+fees and other expenses
+
+
+incurred by that party
+" And the two parts that we haven't really  
+ addressed yet are that what is awarded is attorney's 
+fees
+ And this "incurred by" language -- with respect to that attorney's fee language, "attorney's fees" has a 
+traditional meaning
+ It's a meaning this Court has recognized in all those cases bullet-pointed at pages  
+to  of our briefs
+ It's a fee earned by and paid to an attorney
+ And in Gisbrecht v
+ Barnhart in , this Court specifically described the real parties in 
+interest in attorney's fees litigation as the attorneys, 
+recognizing the reality that attorney fees go to 
+attorneys
+ In addition, the language "incurred by that party" -- what does it mean here? Well, outside of EAJA, it could mean -- it does mean, I think -- money the 
+client takes out and pays to the attorney
+ We know in Social Security cases and Veterans cases it can't mean 
+that, because that's illegal
+ That's a Federal crime if the attorney does it
+ So what does it mean? Well, the government concedes at page  of its reply brief that that language 
+"incurred by" a prevailing party is supported by the 
+client's implied or express obligation to pay the 
+attorney the fee received
+ So this is where the government's argument is circular, I think, 
+Justice Alito, in the sense that that "incurred by"  
+ language only is satisfied and an EAJA award only may be 
+made where the client has the express or implied 
+obligation to pay the attorney
+ JUSTICE SCALIA: Well, you say that in Social Security the attorney is forbidden to accept 
+pay-as-you-go? Is --MR
+ LEACH: Yes, Your Honor
+ JUSTICE SCALIA: But that doesn't mean that there is not either an express or an implied contract 
+between the attorney and the Social Security recipient
+ MR
+ LEACH: I agree
+ That's what I was trying to say
+ JUSTICE SCALIA: Well, but if there is that implied contract, then it is an obligation of the 
+recipient
+ MR
+ LEACH: Yes, that's what I was trying to say, Your Honor
+ JUSTICE SCALIA: Well, I don't see how that leads you where you want to go
+ Then the payment given to the recipient does indeed benefit the recipient by --
+by paying off an obligation that the Social Security 
+recipient has
+ MR
+ LEACH: Yes, but that obligation exists only to the extent of the EAJA fee
+ It's not a separate obligation
+ The attorney can't turn around and go  
+ against the client
+ I mean, (b)() prohibits the attorney going against the client for any fee other than 
+the (b) fee, which is separate, if there is a (b) 
+fee, or the EAJA fee
+ And when --JUSTICE SOTOMAYOR: Is it --MR
+ LEACH: We have been talking -- I'm sorry
+ JUSTICE SOTOMAYOR: Just so I'm clarifying, is it your position -- and this is something I want to 
+ask the government as well -- that once the EAJA fee is 
+awarded, the attorney couldn't sue the client later even 
+in an offset situation for repayment, because by statute 
+you view them as blocked from --MR
+ LEACH: Yes
+ JUSTICE SOTOMAYOR: -- from seeking anything other than the EAJA fee or the  fee? MR
+ LEACH: Yes, that's what (b)() says, Your Honor
+ JUSTICE SOTOMAYOR: So that once the offset happens, the attorney, under -- even if the client had 
+other money, the attorney would be blocked from going 
+after it? MR
+ LEACH: Yes, Your Honor
+ JUSTICE SOTOMAYOR: Because by the terms of the statute they can only seek the EAJA fee?  
+ MR
+ LEACH: They can only seek what? JUSTICE SOTOMAYOR: Either the EAJA fee or the  fee
+ MR
+ LEACH: Yes, and we have been talking as if EAJA fees and (b) fees are sort of contemporaneous 
+in every case
+ In fact, the data cited at page  of the red brief is that  percent of Federal court Social 
+Security cases result in a remand
+ Only  percent result in an award of benefits
+ So there are going to be far more EAJA fees in Federal court than there ever are (b) fees
+ JUSTICE KENNEDY: Do you calculate the fee under either the Social Security Act or EAJA, depending 
+on the case? Do you ever calculate it under both so that you get some under each? MR
+ LEACH: Yes, Your Honor
+ And that's --JUSTICE KENNEDY: The -- the -- you calculate it under both so you get some under each? MR
+ LEACH: No, section  says how this works, of the -- of EAJA 
+ It says if there are two fees, the attorney keeps the larger fee --JUSTICE KENNEDY: Right
+ MR
+ LEACH: -- and sends the smaller to the client and vice versa
+ And that™s the situation, for example, where you could have an offset of an EAJA fee in a 
+ Social Security case
+ Let's say there is a (b) fee that's $,
+ Let's say there is an EAJA fee that is $,
+ Under section , that -- the attorney doesn't keep that $,
+ That $, winds up in the client's pocket
+ The government can offset that
+ That's --that's what integrates all this discussion we™ve been 
+having about EAJA fees not being exempt
+ We have to look to the beneficial interest
+ JUSTICE GINSBURG: In what percent of the Social Security cases where the claimant prevails is 
+there an EAJA fee? MR
+ LEACH: Forty-six percent
+ No, that's not right
+ It's about  percent
+ And I get that from combining two numbers
+ There are , EAJA awards per year
+ That's red brief page 
+ And there are about , Social Security civil cases per year
+ That's green brief page 
+ Fifty-four -- , divided by , is  percent
+ And this bring me to the point the government was making in suggesting that an attorney at 
+the beginning of a case could never know whether or 
+not there -- there is going to be an EAJA fee, because, 
+you know, you can't know at the beginning, they argue, 
+what position the government will take, whether or not 
+the government's position is substantially justified or  
+ not
+ Well -- and the government cites Pierce/Underwood from  from this Court, in which 
+this Court said exactly that -- Pierce v
+ Underwood
+ Pierce v
+ Underwood is outside the Social Security context, outside the Veterans context, so 
+Pierce v
+ Underwood is in this less than  percent 
+category of cases under EAJA which are not Social 
+Security or Veterans
+ In a Social Security case or a Veterans case, the attorney has the record before proceeding into 
+court, before deciding whether to proceed into court
+ 
+And the attorney can look at that record, read it, and 
+have a pretty good idea of whether or not the government 
+position might be substantially justified or not
+ I don't ask you to take my word for any of this
+ Let me tell you what the data shows
+ The data, Justice Ginsburg -- this is where the  percent of Federal Social Security cases result 
+in an EAJA award
+ If it's  percent, that's quite a high number of cases in which the government's position 
+is found substantially -- not substantially justified as 
+well as legally erroneous
+ In Veterans cases, it's even worse
+ The Court of Veterans Appeal Web site -- this the number of  
+ cases -- all together -- number of dispositions per year 
+and the number of EAJA awards
+ And for  and , if you add up the numbers, out of all the Veterans 
+disability cases filed,  percent, -, result in an 
+EAJA award
+ So there™s quite a large number of cases in which -- in -- in a Veterans context or Social 
+Security context where the government's position is 
+found not to be --JUSTICE BREYER: I don't understand your earlier point
+ MR
+ LEACH: I'm sorry
+ JUSTICE BREYER: Imagine that if Joe Smith is in a lot of financial trouble
+ MR
+ LEACH: Yes
+ JUSTICE BREYER: His house is being foreclosed on --MR
+ LEACH: Yes
+ JUSTICE BREYER: -- all his bank accounts are attached
+ Then he gets some money from the government and -- including an EAJA fee
+ MR
+ LEACH: Yes
+ JUSTICE BREYER: And it's $, of money and , for the fee
+ They put it in his bank account
+ It was attached, good-bye, nobody sees the money, because 
+it's whoever attached it got the money
+ Is that  
+ possible? MR
+ LEACH: Are we talking about the government? JUSTICE BREYER: I'm making this up
+ I'm not talking about the government
+ I'm saying the government paid him , plus , in an EAJA fee, and 
+the bank got all the money because it had attached his 
+bank account
+ Is that possible? MR
+ LEACH: Is this in a Social Security --JUSTICE BREYER: I'm making it up
+ No
+ It has nothing to do with -- I'm just making up --MR
+ LEACH: Yes
+ JUSTICE BREYER: -- a hypothetical
+ MR
+ LEACH: Yes, it is
+ Sorry
+ JUSTICE BREYER: All right? MR
+ LEACH: Yes
+ JUSTICE BREYER: You follow that
+ Those are the facts
+ MR
+ LEACH: I think so
+ JUSTICE BREYER: Okay
+ So a year later, Joe Smith is doing much better
+ Couldn't the attorney now sue him for the $,, say I™d like it? It went to the bank because they had attached the bank account
+ MR
+ LEACH: Outside the Social Security context, yes, I think so
+  
+ JUSTICE BREYER: All right
+ Now, suppose it happened to be that that ,,  for the one and  for 
+the other, came from Social Security
+ Then how does that make a difference? MR
+ LEACH: The bank could not take it because of the anti-assignment provision --JUSTICE BREYER: It couldn't take ,? MR
+ LEACH: Couldn't take any of it under --JUSTICE BREYER: Couldn't take any of it
+ Because of? MR
+ LEACH: --  U
+S
+C
+ 
+ JUSTICE BREYER: Is that in here? MR
+ LEACH: Yes,  U
+S
+C
+  -- it's cited, if it™s not quoted -- prohibits assignment of Social 
+Security benefits
+ But, Justice Breyer, if I --JUSTICE BREYER: And the EAJA fee counts as a Social Security benefit? MR
+ LEACH: Oh, I'm sorry
+ I thought we were outside the Social Security context
+ JUSTICE BREYER: I changed it and said, now, how does it matter if it™s Social Security? (Laughter
+) MR
+ LEACH: If it's an EAJA fee in a Social Security context, the bank cannot take that because of 
+the Federal -- well, because the attorney -- the 
+ government admits the constructive trust exists in favor of the attorney with respect to those funds
+ JUSTICE BREYER: If you win this case? MR
+ LEACH: No
+ The government says -- has said that in its reply brief
+ JUSTICE BREYER: In other words -- in other words, no one can attach? No one can -- no one get the EAJA fee by attaching the bank account of the client? MR
+ LEACH: Yes
+ JUSTICE BREYER: Okay
+ MR
+ LEACH: And I wanted to get back to the point you asked, Justice Breyer --JUSTICE BREYER: Well, skip my points
+ They™re too complicated
+ (Laughter
+) MR
+ LEACH: Well -- but during -- during Mr
+ Yang's argument, you asked about this -- this 
+repayment agreement
+ The concept of a repayment agreement being any use to a lawyer who is thinking 
+about taking one of these cases is fanciful for two 
+reasons: Number one, SSI benefits by statute are limited to, quote, "aged, blind, and disabled people who 
+have little or no money
+" So, I don't know where the disabled or blind or aged person is going to get the money to enter into  
+ any repayment agreement
+ But the second reason it's fanciful is that the attorney only has  days from final agency action 
+to file the case in Federal court
+ And, so, there is  days to, you know, meet with the client and try to 
+get an answer out of the government
+ I've never tried to do this -- I don't know anyone who has -- but I don't 
+think you™re going to get much of an answer at  days 
+asking the government to do this so the attorney can 
+then recover a fee
+ Finally, there™s -- there™s a critical point here that I need to get to, which is that I think 
+Congress has told us exactly what this language means
+ 
+Here's why
+ In , Congress enacts EAJA and uses this section  language which talks about who gets the fee, 
+large or smaller fee
+ Okay
+ In , Congress extends EAJA to Veterans claims
+ And when it does that, in  U
+S
+C
+ , Congress uses the same language, down to the exact commas in the same place, that it has done in 
+
+ During this entire period -- and here's why that's important -- during that entire period from  
+to , and indeed continuing many years after that, 
+but for purposes here, , the administration is every  
+ time paying the attorney™s fee to the attorney under 
+EAJA
+ And so when Congress in  uses the same language for Veterans EAJA claims that it used for 
+Social Security EAJA claims  years earlier, 
+Congress, as a matter of law, is incorporating the 
+settled administrative construction --JUSTICE SCALIA: I thought the -- I thought the government said they only did that when --
+when the court directed that it be paid to the attorney
+ MR
+ LEACH: Mr
+ Yang was talking about from  on
+ From  -- from  to , every EAJA fee went to the attorney
+ JUSTICE GINSBURG: Because there was no offset in the picture because the government wasn't 
+offsetting
+ MR
+ LEACH: Two responses, Your Honor: The offset came into the picture in , but the government 
+says it wasn't practical to 
+ Even if you grant them that point, the agency had to make -- totally apart from 
+offset, the agency had to decide who these fees should 
+be paid to under section  -- I mean under EAJA
+ The government had to say, who does this statute say fees should be paid to? Now, had the government said, well, fees go to the client, says, you 
+know, award to the prevailing party, fees and other  
+ expenses, we are going to pay attorney's fees to 
+clients, which had never happened
+ But had the government said that -- that's not what they said
+ They look at the statute
+ They look at the fact that the attorney earned the fees, and they say we 
+are going to pay these fees to the attorney
+ So that's what™s going on at the time Congress in  copies its 
+ language --JUSTICE GINSBURG: But Congress has provided in some statutes, the Social Security Act itself, , 
+that you quoted, for the fee to be paid directly to the 
+attorney
+ Here it used different language; it said pay the prevailing party
+ MR
+ LEACH: Just two points, Justice Ginsburg: Number one, we get back to this question about does payment mean who receives the check 
+or who is entitled to benefit from it? Number two, EAJA doesn't say pay to the party
+ EAJA doesn't use the phrase ﬁpaymentﬂ;  says payment to the attorney
+ EAJA doesn't say that, "payment," at all
+ The only place you find "pay" in EAJA is where it says the government 
+cannot be required to pay a filing fee
+ There is this, shall award to a prevailing party fees and other expenses, and (d)()(A) defines 
+ﬁfeesﬂ to include quote, "attorney fees," close quote
+  
+ I'm finishing my sentence, Your Honor
+ CHIEF JUSTICE ROBERTS: Go ahead
+ MR
+ LEACH: Thank you
+ And -- and so ﬁpaymentﬂ isn't even in EAJA
+ CHIEF JUSTICE ROBERTS: Thank you, counsel
+ MR
+ LEACH: Thank you very much, Your Honor
+ CHIEF JUSTICE ROBERTS: Mr
+ Yang, you have  minutes remaining
+ REBUTTAL ARGUMENT OF ANTHONY YANG ON BEHALF OF THE PETITIONER MR
+ YANG: I believe I heard counsel concede that EAJA fees outside of the Social Security context 
+are payable to the prevailing party and therefore 
+subject to offset
+ That's true
+ EAJA does not draw a distinction between Social Security fees and other types 
+of fees
+ Section  uses the same language, court shall award to the prevailing party fees and other 
+expenses
+ I believe that disposes of this case
+ Second, counsel relies on a definition of ﬁrepresentative payeeﬂ in the offset regulations
+ That's addressed at reply -- our reply, page , footnote 
+ A representative payee -- as the Federal Register provisions 
+that relate to this make clear, it refers to things like 
+attorneys, it refers to things like parents, where the 
+beneficial interest is not that of the attorney or the 
+ parent but the client and the child
+ It would be entirely unworkable if any time that a payee owes some debt that a third party might 
+claim an interest to, that the government would have to 
+find out the payee's finances and obligations in order 
+to execute an offset
+ It's simply not the way the offset program was designed, and it's not reflected in 
+the regulation
+ JUSTICE SOTOMAYOR: Counsel, is your adversary correct that under (b) --MR
+ YANG: ()
+ JUSTICE SOTOMAYOR: -- (b)(), that if these attorneys -- if any attorney attempts to collect from 
+a Social Security or Veterans client any fees outside 
+of those granted --MR
+ YANG: No
+ Section (b) of the EAJA, which is reproduced on a of our appendix, states that 
+section (b)(), the provision you were talking about, 
+shall not apply with respect to any such award, meaning 
+any award under EAJA, so long as where the attorney 
+receives fees, the smaller fee is returned
+ So --CHIEF JUSTICE ROBERTS: Counsel, do you -- do you dispute your friend's statement that  percent of 
+the time in Social Security cases the government's 
+position is unjustified, and  percent of the time in  
+ Veterans cases? MR
+ YANG: Well, I think that reflects the stakes often, Your Honor
+ Oftentimes the government does not contest, for instance, a $, EAJA award 
+and because it's the government, it has to --CHIEF JUSTICE ROBERTS: So whenever it really makes a difference --MR
+ YANG: No --CHIEF JUSTICE ROBERTS: --  percent of the time the government's position is substantially unjustified? MR
+ YANG: In cases -- in the VA context, the number is not quite that large, but there™s a substantial 
+number of cases at the court of appeals --CHIEF JUSTICE ROBERTS: What number would you accept? MR
+ YANG: It was, I believe, in the order of either  or maybe slightly more than  percent
+ It might be 
+ But the number is substantial that you get a reversal, and in almost all of those cases, EAJA --CHIEF JUSTICE ROBERTS: Well, that's really startling, isn't it? In litigating with veterans, the government more often than not takes a position that is 
+substantially unjustified? MR
+ YANG: It is an unfortunate number, Your Honor
+ And it is -- it's accurate
+  
+Official that last hired is laid off, on the ground that if 
+Chicago had done what it was supposed to do, this person 
+would have had the job long ago and would be higher up 
+on the seniority list? MR
+ PAYTON: Let me give you two responses to that
+ The first answer is that the statute of limitations is  days after every use, and it's no 
+longer
+ So for whatever it is, if you violate Title VII, the statute of limitations is  days
+ If there is a use that goes into the future, it's  days 
+after the last use
+ Right now, Chicago has stopped using that
+ The doors are closed
+ No one else can challenge this
+ To your specific question about how would it work if there was a layoff arrangement, the proposed --
+the remedy order in this case -- it's not in effect 
+because we are where we are -- but the remedy order in 
+this case includes shutting down the use of this, but it 
+also has provisions for seniority to in fact address, I 
+believe, exactly the circumstances you just described, 
+Justice Ginsburg
+ So I believe that is contemplated and handled in the remedial order
+ The issue about the policy here, though, is that if you don't say that a use, in fact, can be  
+Official challenged, a use of something unlawful can be 
+challenged, what you could end up with here is that 
+Chicago would then take the message that it's okay once 
+they are past the first  days, and they could just go 
+on using the discriminatory cutoff score over and over 
+and over again, and that is inconsistent with the 
+overall policy of what Title VII is trying to root out 
+of our economy and in our workplace
+ JUSTICE STEVENS: Mr
+ Payton, can I ask this general question? Am I correct that each firefighter in the qualified group who did not make the well-qualified 
+has a cause of action as though he had been refused 
+employment when anyone else is hired? There were  people hired, as I understand
+ Did each one of those hirings give everybody else in the class a cause of 
+action? MR
+ PAYTON: The group of the black qualified applicants that are in the qualified category, 
+but the qualified category is qualified as the other 
+category -- every time the city made decisions about 
+filling jobs in the fire department, it excluded every 
+single one of those applicants, even though they were 
+qualified
+ So every single one was excluded
+ So they all have a cause of action because they were excluded and that clearly fits very easily  
+Official within how --JUSTICE STEVENS: But surely they couldn't all recover, because there was only one job available
+ MR
+ PAYTON: No
+ That's correct
+ That's about what the remedy would be
+ So the remedy and -- you know, obviously wouldn't be to give all of them jobs
+ That's not the remedy, and that wasn™t the remedy that's 
+sought -- was sought here
+ But they were all excluded from consideration, and that's a violation of Title VII's 
+disparate impact prohibition
+ So they all have a cause of action
+ The way the remedy would work --JUSTICE STEVENS: What is -- what is the remedy other than saying change your practice? What is -- say one person sues and asks for damages, what 
+would the remedy be for a single applicant who was not 
+hired at the time somebody else was hired? MR
+ PAYTON: It may be very little
+ So if it's a single applicant who sues and not a class -- this 
+is a class
+ So if a single applicant sues, the remedy would be to stop using the unlawful cutoff score, okay, 
+and then to figure out what would have happened if that 
+unlawful cutoff score hadn't have occurred, and that 
+would have created a very miniscule chance of ever 
+becoming a firefighter and perhaps turning that into  
+Official some sort of damage award, but it would be miniscule
+ In the actual event, the award includes some actual jobs being allocated to the , members of the 
+class -- it was  -- to be decided upon in some random 
+way that they would be hired
+ But that's how it would work
+ But they are all clearly injured when they are all excluded from consideration in all  rounds, in 
+violation of Title VII
+ CHIEF JUSTICE ROBERTS: But that -- each --each qualified firefighter who did not get a job because 
+the well-qualified one did has a new cause of action, I 
+guess, every time somebody is hired from the -- the 
+well-qualified pool? MR
+ PAYTON: Every time --CHIEF JUSTICE ROBERTS: In other words, somebody is hired, that constitutes discrimination 
+against the qualified black firefighter who was not 
+hired, and then another -- then somebody else is 
+hired -- each time it's a new cause of action? MR
+ PAYTON: They had  rounds of hiring --CHIEF JUSTICE ROBERTS: Yes
+ MR
+ PAYTON: -- that are relevant to this case
+ There are other rounds afterwards
+ They exhaust the first category
+ But in the  rounds of hiring, when in every one of those rounds the unlawful cutoff score is used, that is  
+Official action upon the results
+ That is a limitation
+ You know, that is the use of something that causes an adverse impact 
+on the basis of race -- and, yes --CHIEF JUSTICE ROBERTS: Yes, so they would have a new cause of action, sure
+ MR
+ PAYTON: That™s a cause of action
+ CHIEF JUSTICE ROBERTS: Now, but they -- but if  days go from the first round of hiring, they 
+don't -- they cannot sort of piggyback that onto a later 
+cause of action
+ MR
+ PAYTON: Yes, if they sue -- in this case, the EEOC charge was filed after the second round 
+of hiring, and in this case then, therefore, no remedy 
+can take account of the first round of hiring
+ If they had sued only on the seventh round of hiring, no remedy 
+could take account of those forgone opportunities
+ So, that would also play out in how the remedial order would 
+work
+ And I think I want to reserve the rest of my time
+ CHIEF JUSTICE ROBERTS: Thank you, counsel
+ Mr
+ Katyal
+ ORAL ARGUMENT OF NEAL K
+ KATYAL ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, SUPPORTING THE PETITIONERS  
+Official MR
+ KATYAL: Thank you, Mr
+ Chief Justice, and may it please the Court: As the questions I think reveal, I think the bottom line question in this case is whether or not 
+under the text of Title VII there was a present 
+violation in each of the  rounds of hiring when the 
+City of Chicago relied on its concededly discriminatory 
+test to exclude the plaintiffs from consideration
+ And we think that Title VII has three mutually reinforcing 
+provisions in it, each of which point to the same 
+conclusion
+ A violation of Title VII occurred in this case when Chicago, in each of those  rounds, used its 
+hiring practice with -- and caused a disparate impact, 
+thereby limiting the employment opportunities of certain 
+applicants
+ Chicago gave an ability test and relied on that ability test in a way that Title VII forbids
+ It took action upon the results of that discriminatory test 
+in a way that arbitrarily excluded qualified applicants 
+from being hired
+ Justice Alito, I think -- in response to your question, I think our position follows entirely from the 
+text of the statute
+ We™re not as concerned about the policy consequences, though we do think that if the 
+Court were concerned about the policy consequences, we 
+Official think that there™s a good reason why Congress 
+distinguished between disparate treatment and disparate 
+impact litigation
+ But it's the language of Title VII itself, and in particular (h), which forbids action 
+upon the results
+ JUSTICE ALITO: Why would Congress have wanted to allow a question like this to be left open for 
+such an extended period of time? Why would it not have wanted everybody who is potentially affected by it to 
+understand where things stand at a much earlier point, 
+at some reasonable period of time after all of the 
+information is in the -- in the possession of a 
+potential plaintiff to determine whether there has been 
+a disparate impact and whether that -- that person is 
+going to be adversely affected by it, particularly if at 
+a later point the effect of a remedial decree can be to 
+upset the employment -- the employment status of other 
+people who have been hired in the interim? MR
+ KATYAL: I agree that there -- there might be policy arguments against it as well as for it, 
+but here's the way I think we look at it -- and the 
+United States is the nation's largest employer, and we 
+face similar concerns
+ We give certain tests
+ But I think what might have been -- what was probably animating Congress was a fear that if the  
+Official rule of the City of Chicago were adopted, then an 
+employer who made it  days without an EEOC charge 
+being filed,  days after the announcement of the test 
+results, would then be able to for all time use that 
+discriminatory test, and it would lock in that period, 
+that test, for as long as ,  years, and Congress 
+could have legitimately worried about if a test made it 
+ days, an employer essentially had a get-out-of-jail-
+free card to use for all time
+ And I would say that that precise thing appears to have happened in this very 
+case
+ At Joint Appendix page , when the City announced its test results in January of , 
+it said it intended to use this test for only  
+years through 
+ Afterwards,  came, the City, in the City's own briefs -- this is the court of appeals 
+brief at page  -- they admit they made a new decision 
+to continue using this test and the test results for 
+subsequent hiring rounds
+ That was a new decision, and indeed that's a decision, I think, many employers would 
+logically make after  years, because then they 
+don't have to worry about the possibility of a disparate 
+impact lawsuit
+ And since, as this Court said in Ricci, one of the goals of Title VII is really to encourage  
+Official voluntary compliance on the part of employers, adopting 
+a rule like the City of Chicago's is really antithetical 
+to that, because then it will essentially lock in for 
+all time that old discriminatory test
+ I think another reason policy -- another policy reason Congress may have thought about is that a 
+rule that forced people to file within  days might be 
+damaging to the EEOC and divisive to employers, because 
+it would say you only have that -day period to file, 
+even before all the consequences of the -- of the -- of 
+the employment decision are fully understood
+ JUSTICE KENNEDY: Well, actually in -- in this case, am I correct that -- that  years has gone by, 
+but that's because of the litigation? The suit was filed, what,  months after the -day period ran? MR
+ KATYAL: The first charge was filed, I believe,  days after the January th announcement of 
+the test results
+ And, yes, Justice Kennedy, then there was a period of discovery and litigation over business 
+necessity and the like
+ And in this case, the City admitted in other litigation that there was no basis for giving this  
+cutoff score, that a person who scored  was just as 
+likely to succeed as a firefighter as a person who 
+was -- who had scored 
+  
+Official Justice Stevens, you had asked about the remedy in the case, and here's how we understand the way 
+remedies work in disparate impact litigation: It's largely injunctive in nature
+ It's mostly about preventing future problems
+ There is a back pay claim that is available that is statutorily capped at  years
+ Not everyone in this ,-person class could get that full amount of 
+back pay obviously
+ Instead, what happened here, there was a remedial phase at trial, and what they did was they 
+decided that -- the experts on both sides admitted that 
+ people, approximately, would have been hired out of 
+that class, and that provided the appropriate amount of 
+back pay
+ CHIEF JUSTICE ROBERTS: So you get --JUSTICE KENNEDY: Was it -- was it  named people or was it just  undifferentiated? MR
+ KATYAL: I think it was  undifferentiated people, and then I think there --
+and Mr
+ Payton can, I think, fully explain how the 
+randomization of awards was allocated
+ CHIEF JUSTICE ROBERTS: So everybody gets  over , times whatever the number of people who 
+would have been hired? MR
+ KATYAL: Right
+ And --
+Official CHIEF JUSTICE ROBERTS: I mean the pay for the number of people
+ MR
+ KATYAL: Right
+ And, Mr
+ Chief Justice, to respond to your concern before, that amount of money 
+is not -- you couldn't go back and look to earlier 
+periods of time outside of the statute of limitations, 
+outside of the -day period, rather only any 
+subsequent use
+ For example, in this case the remedy couldn't look to the first round of hiring because no 
+lawsuit was brought within that first round of hiring
+ 
+It was brought at the -- it was brought after the second 
+round of hiring
+ JUSTICE GINSBURG: I think you had a footnote in your reply brief that said that if your 
+position prevails there would need to be an adjustment 
+in the relief granted by the district court --MR
+ KATYAL: That is --JUSTICE GINSBURG: -- wasn™t it? MR
+ KAYTAL: That is correct
+ And I think that the Petitioners agree with that as well
+ And that's I think a further limit on the way in which this 
+present violation theory operates as a matter of 
+practice
+ Now, this Court has said in cases such as Ledbetter that -- that there must be a present 
+violation, and disparate impact litigation looks quite 
+Official different than disparate treatment litigation in 
+practice, because disparate impact litigation doesn't 
+need that missing element that has been at issue in 
+Ledbetter and Evans and Ricks, of discriminatory intent 
+at that subsequent time of action
+ Here, in a disparate impact case, all that need be shown by the plaintiff is adverse impact, and 
+that adverse impact happens in each of those  rounds 
+of hiring
+ Each of the time -- each time the City used its test results and drew a line and said, you under , 
+we are not looking at you, that was action upon the 
+results, to use the language of (h)()
+ JUSTICE SCALIA: And that would be clear even though it had not been established much earlier 
+that the test was invalid
+ So a city could go along using a test that was an invalid test, not declared 
+such;  years later, somebody comes up and says: This test that is being applied to me is an invalid test
+ MR
+ KATYAL: That's exactly correct, Justice Scalia
+ JUSTICE SCALIA: What -- of what use is a statute of limitations that -- that -- that operates 
+that way? MR
+ KATYAL: Let me say two things: First is I think (h)() refers to "action upon the results,"  
+Official and that thing happened in  years is itself action 
+upon the results, and so I think as a statutory matter 
+the language decides it
+ Now, with respect to the policy reason, I think the reason is that otherwise Congress had to fear 
+precisely what you™re saying, that an employer  
+years from now would use that discriminatory test, 
+because they knew they had made it past the -day 
+initial phase of time, and then could use it for all 
+time
+ And so the statute of limitations and the concerns about repose work hand in hand with other 
+concerns of Title VII, and in particular incentivizing 
+employers to ensure voluntary compliance with the law of 
+Title VII, and which this Court said in Griggs, the goal 
+of which is to eradicate discrimination from the United 
+States' labor markets
+ CHIEF JUSTICE ROBERTS: So I suppose the benefit is not that the City knows it's safe -- it can 
+rely on a test and all that -- but knows that it only has 
+to pay  days back
+ MR
+ KATYAL: That is -- that is -- that is the benefit of that particular back pay limitation, yes
+ 
+But in a case like this, where the City knows very well, 
+this test is discriminatory and, indeed, has said so in 
+litigation, I think Congress wanted to incentivize and  
+Official make sure there was an ability for people to sue at each time that discriminatory test was used
+ If there are no further questions
+ CHIEF JUSTICE ROBERTS: Thank you, counsel
+ Ms
+ Solomon
+ ORAL ARGUMENT OF BENNA RUTH SOLOMON ON BEHALF OF THE RESPONDENT MS
+ SOLOMON: Thank you, Mr
+ Chief Justice, and may it please the Court: In January , the City adopted and announced an eligibility list for hiring candidates who 
+sat for the firefighters' examination
+ Petitioners were told that a priority pool had been created, that based 
+on their scores they were not classified in that pool, 
+and that further consideration of candidates would be 
+limited to those who were in the priority pool, at least 
+until everyone in that pool had been called for 
+processing
+ The City also publicly admitted that this tiered eligibility list had adverse impact on 
+African-Americans, and Petitioners were aware of this
+ 
+But Petitioners did not file charges challenging the 
+exam and the cutoff score within  days after the 
+tiered eligibility list was adopted and announced
+ Now they contend that charges can be filed  
+Official to challenge the same exam and the same cutoff score 
+every time the City hired from the priority hiring pool
+ 
+That position cannot be squared with the statute
+ 
+Calling other applicants from a hiring pool from which 
+Petitioners had already been excluded did not limit or 
+classify Petitioners in any way
+ JUSTICE GINSBURG: Suppose there were no list, but each time there was a hiring round the City 
+just took from the top -- from the top score down
+ 
+There™s no list, but each time the City uses the test 
+results and hires the people with the top scores
+ MS
+ SOLOMON: If I understand correctly, that would be the same case as this, for this reason: 
+A list is used in a couple of different ways
+ A list might be used to describe the strict rank ordering that 
+Your Honor is describing, and in that case, once there 
+is that kind of a list, it's the same as this case
+ What happened in this case after that kind of a list was made, we also drew another line, which was 
+the priority hiring pool
+ JUSTICE GINSBURG: No, my -- my hypothetical was there™s no list at all
+ MS
+ SOLOMON: If --JUSTICE GINSBURG: They just go back to the raw scores, and each time they picked the top people
+  
+Official MS
+ SOLOMON: So that actually -- if we™re going back to the scores but no announcement has been 
+made ever that we are going to use the scores in a 
+certain way, we agree that every time the city actually 
+consulted the scores, there would be a new claim
+ But that's because --JUSTICE GINSBURG: Well, what is -- what is the list, other than an administratively convenient way 
+to use the scores? MS
+ SOLOMON: The list was the device that limited and classified Petitioners in this case, and 
+that's why it's so important
+ Because in order to have a present cause of action, section (a)() -- under 
+section (a)(), which is the disparate impact provision, 
+Petitioners have to point to something in the charging 
+period that actually limited and classified them
+ And that was the effect of the list, and including the 
+priority hiring pool
+ In a case where there is no general practice, no announcement, no decision, nothing, but 
+rather every time the City makes hiring, the City 
+undertakes a new decision with new criteria, then it is 
+making a decision at that point; it is engaging in a 
+practice that is then at that time limiting and 
+classifying the Petitioners
+ What happened --
+Official JUSTICE GINSBURG: So even though there is a clear case on the merits of disparate impact, unless the 
+suit is commenced within  days of the announcement, 
+then it's as though it were lawful
+ That's your position
+ MS
+ SOLOMON: The statute, (a)(), requires an unlawful --JUSTICE GINSBURG: Is that -- is that --there's a free pass
+ You don't sue within  days of the compilation of the list and the notice of the list; you sue 
+ days later
+ The discriminatory practice gets frozen, the status quo gets frozen forever
+ That's -- that is your position, is it not? MS
+ SOLOMON: That is the function of the operation of the statute of limitations, and of course 
+it's not unique to Title VII
+ JUSTICE GINSBURG: But this is not exactly a title -- a statute of limitations
+ It's a time you have to file your charge
+ It's a charge filing
+ MS
+ SOLOMON: Correct
+ And --JUSTICE GINSBURG: There™s also a -year statute of limitations in Title VII
+ You can't get back pay, I think, for more than  years
+ MS
+ SOLOMON: The -day charging period under Title VII functions like a statute of limitations, 
+Official and when a timely charge is not filed, no recovery can 
+be had for that claim
+ And the Court has said that over and over in a series of disparate treatment cases
+ Now, the defining feature --JUSTICE GINSBURG: You -- you don't have one case, I think, certainly not from this Court, of 
+disparate impact
+ All the cases that you cite are disparate treatment cases
+ MS
+ SOLOMON: The cases are disparate treatment cases, Justice Ginsburg, but the rule should 
+be the same in this case for several reasons: First, 
+those cases reflect that the reason there is not 
+a present violation when the consequences of a prior 
+discriminatory act are felt is because the defining 
+feature of the claim is absent within the charging 
+period
+ Now, that is a perfectly good rule, no matter whether it's discriminatory treatment or discriminatory 
+impact
+ And in this case, the defining feature, namely disparate impact in the sense defined by the statute, 
+required by the statute, to limit or classify in a way 
+that denies people employment opportunities based on 
+race -- that defining feature was absent within the 
+charging period
+ JUSTICE BREYER: How is it absent? Because  
+Official the statute says that the established -- the -- it's 
+established -- namely, the unlawful employment practice 
+-- it's established only if, and certainly if, the 
+respondent uses --MS
+ SOLOMON: Right
+ JUSTICE BREYER: -- a particular employment practice that has a disparate impact
+ That refers back to (a)()
+ So back in that period, on a certain date, he used that limiting practice, and, therefore, on that 
+particular date, he established the unlawful employment 
+practice by using a test that limited, et cetera
+ MS
+ SOLOMON: I -- I have two responses, Justice Breyer, and the first is that section (k), which 
+is what Your Honor is quoting from, does not describe 
+accrual, and it does not define the underlying violation
+ 
+It talks about when an -- excuse me, when a violation is 
+established
+ And what's so interesting is that the reliance on those words "uses an employment practice" --
+it™s a few words plucked out of the middle of section (k)
+ You actually can't apply section (k) literally to this case and have anything that approaches 
+anything that makes sense
+ And that's because section (k) actually goes on after those words that get highlighted over and over, and it™s -- and it refers to  
+Official the rest of what happens in a case when a claim of disparate impact is tried
+ And so if you --JUSTICE SOTOMAYOR: So why don't we look at subsection (h) --MS
+ SOLOMON: Subsection --JUSTICE SOTOMAYOR: -- that says -- and it's an -- "it shall be an unlawful employment practice for 
+an employer to give and" -- conjunctive -- "and act 
+upon the results
+" MS
+ SOLOMON: Correct
+ JUSTICE SOTOMAYOR: So when you hire, aren't you acting upon the results? And how are you acting upon -- you may be acting upon it, as Petitioner argues, 
+when you classify, but why aren't you acting upon when 
+you hire? MS
+ SOLOMON: Because there is no act that limits and classifies
+ And what™s interesting about section (h), it's not --JUSTICE SOTOMAYOR: I -- I go back to Justice Breyer's point
+ Isn't it, in the very act of hiring, you are using the test results and saying --
+each time you do it, you™re saying: I'm going to cut off at this limit, and I'm not going to consider someone 
+outside of this limited tier
+  
+Official MS
+ SOLOMON: Well, that's what is actually missing in this case
+ The city did not go back to the test results, and it did not -- it did not create --
+engage in a new decision or a new practice
+ JUSTICE SOTOMAYOR: But isn't that what "practice and policy" means? Meaning that each time, as you continue forward, you are using a particular 
+practice, a particular policy? MS
+ SOLOMON: Petitioners continued to be ineligible for as long as the list was used in the way 
+that we said at the outset it was going to be used; 
+namely, that the well-qualified pool, the priority 
+hiring pool, would be called first
+ The reason they continued to be ineligible is because they had been limited and classified as 
+ineligible until the priority pool was hired first
+ 
+That was the only practice that had adverse impact 
+within -- as required by the statute, meaning limit and 
+classify
+ Now, to complete my answer to Justice Breyer --JUSTICE STEVENS: May I ask this question, Ms
+ Solomon? Would your argument be the same if the practice in this case were -- required a high school 
+diploma? 
+Official Did you understand my question? MS
+ SOLOMON: I'm sorry
+ I didn't realize you had finished
+ Excuse me
+ JUSTICE STEVENS: Suppose the practice were a high school diploma
+ Could that -- would you make the same argument as you're making today? JUSTICE GINSBURG: And let's add to that, that it was adopted  years ago --JUSTICE STEVENS: That™s right
+ JUSTICE GINSBURG: -- and Duke Power announced to the world that it was going to use a high 
+school diploma
+ Indeed, it listed in the county all of the high school graduates and said: This is the list
+ MS
+ SOLOMON: A case like that might present different accrual problems for this reason: There might be several appropriate times when a person affected by a 
+policy like that could be said actually to have been 
+limited and classified in their employment 
+opportunities
+ And it could be when they enter grade school, but that is not an appropriate time, so if it's 
+ years before the act -- so that person is -- is 
+roughly  years old
+ It could be when they apply to the employer
+ It could be a variety of other times
+ But those cases, whatever difficult accrual problems and questions they 
+Official present, they are not presented here, because this was a 
+closed universe
+ Everybody affected by the City's eligibility list and the test and the cutoff score knew 
+from the moment --JUSTICE STEVENS: No, but -- but in my example, everybody who is not a high school graduate 
+would have been affected right away
+ MS
+ SOLOMON: But if they are not interested in employment with that employer, then they are not --
+it -- you -- they are certainly affected in one sense of 
+the word, but they™re perhaps -- it would not be possible 
+to say their employment opportunities had been affected
+ We certainly agree that there should be one time to challenge every employment practice that has an 
+unlawful disparate impact, but the question in this case 
+is whether there is more than one to challenge exactly 
+the same thing? Petitioners --CHIEF JUSTICE ROBERTS: You force people to challenge the practice when they don't even know if it's 
+going to affect them
+ In the hypothetical that has been discussed, somebody who didn't graduate from high 
+school, you know, wants to be something other than a 
+firefighter
+ But that doesn't work out, and then he says, well, now I want to be a firefighter
+ And they say, well, you can't, because you didn't graduate from high  
+Official school
+ MS
+ SOLOMON: Right
+ CHIEF JUSTICE ROBERTS: And I think your position is that, well, he should have filed that 
+suit earlier, no? MS
+ SOLOMON: Our position is that the charging period runs from the unlawful practice
+ And the Court has stressed it is important to confirm --CHIEF JUSTICE ROBERTS: Well, but what is the unlawful practice? MS
+ SOLOMON: The unlawful practice here was limiting and classifying Petitioners in a way that 
+deprived them of their employment opportunities
+ This is what -- this -- what they were told --JUSTICE GINSBURG: Can we put that in concrete terms? It was the  percent cutoff, so that anybody who got below  percent on the test was never 
+going to be considered until all the first people who 
+got  to 
+ MS
+ SOLOMON: Correct
+ And after that decision was made, there was nothing else that Chicago 
+did that affected Petitioners in the terms required by 
+the statute
+ Hiring others did not adversely affect Petitioners because they were --JUSTICE SOTOMAYOR: So could you answer  
+Official Justice Stevens's hypothetical? What is the difference between those people and each person who does not have a 
+high school diploma is not -- and is not hired? Does that mean that the moment that they announce the high 
+school diploma requirement, that everybody who had 
+already received one, whether they wanted to work at 
+this job or not, had to sue, and it's only those people 
+who just received the high school diploma who can sue 
+ years later? MS
+ SOLOMON: The statute requires that the --the complainant be limited and classified in their 
+employment opportunity
+ So --JUSTICE SOTOMAYOR: So what is the difference between the policy announcement that each 
+time I hire, I'm not going to use a high school -- I'm 
+not going to look at people who don't have a high school 
+diploma, and I'm not going to look at people who don't 
+have a test score above 
+ What's the difference between those? MS
+ SOLOMON: The difference is that once Petitioners here were classified out of the eligible 
+pool for priority hiring, they were out
+ They were simply out
+ They were not being considered anymore at all
+ We didn't go back to look at the test
+ We didn't consider Petitioners
+ We didn't reject them each time
+  
+Official There could be --JUSTICE ALITO: Well, somebody getting --someone getting a letter that you sent to people who 
+were qualified didn't know that
+ The only thing that I see that you sent to the people who fell into the 
+qualified category was that it was unlikely, which I take 
+it means less than  percent, that they would be called 
+for further processing, but it was possible that they 
+would be called for further processing
+ You didn't tell them anything about -- you didn't tell them that you were 
+going to fill all of your available positions with 
+people who were classified as well qualified in that 
+letter --MS
+ SOLOMON: With respect --JUSTICE ALITO: -- did you? MS
+ SOLOMON: With respect, Justice Alito, the letter does say that because of the large number of 
+people who were classified well-qualified, a step ahead 
+of where Petitioners were classified, it was not likely 
+that they were going to be hired
+ JUSTICE ALITO: Right
+ That's right
+ MS
+ SOLOMON: And for that reason, that is when the injury and the impact was felt
+ Whatever else later happened, whether Chicago hired a lot of people, 
+Chicago hired no one, whether Chicago even hired some of  
+Official the Petitioners, they had years' worth of delay
+ And at this point in the litigation, it is undisputed
+ The City made  hires from the first use of the list
+ That's more than any other class --CHIEF JUSTICE ROBERTS: Just to follow up on Justice Alito's question, what if it were different? 
+What if the letter said, look, you didn't get, you™re 
+not well qualified, but we really do expect to hire a lot 
+more, so, you know, keep your fingers crossed
+ There™s a good chance that you are going to be hired
+ And you say those people should have sued right then? MS
+ SOLOMON: Correct
+ Because the impact, at a minimum, is the delay in hiring
+ And the Court has made quite clear that you don't -- a complainant or 
+plaintiff does not have to feel all of the consequences 
+right at the outset to --CHIEF JUSTICE ROBERTS: Well, that's kind of a bad policy, isn't it? You™re telling people who may probably not be injured at all -- you are saying, well, 
+you still have to go into Federal court and sue
+ MS
+ SOLOMON: With respect, Chief Justice Roberts, they are injured
+ Their hiring will be delayed, possibly substantially
+ CHIEF JUSTICE ROBERTS: Oh, sure
+ No, I  
+Official understand that, but, you know, let's say we 
+think we are going to hire -- if the budget plan goes 
+through, we think we™re going to hire everybody else 
+by -- in  months
+ And you™re saying, well, those people have to sue anyway because they are injured by 
+the -month delay
+ MS
+ SOLOMON: They are injured by a -month delay
+ CHIEF JUSTICE ROBERTS: Yes
+ MS
+ SOLOMON: But there may be circumstances in which information is not conveyed in a way that would 
+put a reasonable person on notice that he or she had a 
+claim right at the outset, and that relates also to the 
+high school diploma hypothetical
+ If the --JUSTICE ALITO: Well, why did the City say that it was planning to give a new test in  
+years and then wait more than a decade before giving a 
+new test? If I received one of these qualified letters, and I also -- and I knew in addition that the City was 
+going to give a test in  years, that might well 
+affect my incentive about bringing a lawsuit to 
+challenge this
+ MS
+ SOLOMON: But it wouldn't change the fact that there had been, at least a -- if you wait for 
+the next list, you still have been delayed at least   
+Official years in your ability to be hired as a firefighter
+ And as far as the reason why we didn't follow through on the 
+aspirational goal of giving another test within  years, 
+the tests are very difficult and expensive to deliver, 
+I think -- to develop, excuse me
+ The record in this case actually makes that clear
+ Despite rather significant steps, including the use of a prominent African-American industrial 
+psychologist to develop this test, it had severe adverse 
+impact
+ The test actually compares rather favorably to the test that was given in the City of New Haven, but 
+the district court invalidated it, and, you know, we did 
+undertake to develop a new test
+ But --JUSTICE ALITO: But you don't challenge that
+ MS
+ SOLOMON: -- surely the Court --JUSTICE ALITO: You don't challenge that
+ You now acknowledge that the Plaintiffs were treated 
+unlawfully
+ MS
+ SOLOMON: We have not pressed that claim
+ That is correct, Justice Alito, but --JUSTICE ALITO: And were you prejudiced by the delay in the filing of the EEOC charge? MS
+ SOLOMON: There was some testimony -- and we quote it in our brief -- about things that the person  
+Official responsible for setting the cutoff score could not 
+remember
+ But a statute of limitations actually doesn't require prejudice, so we didn't undertake to try to 
+prove that
+ The -- repose arises naturally at the end of the charging period
+ It's not something that -- that the defendant has to earn either by capitulating to the 
+plaintiffs' demands or otherwise proving prejudice
+ And in a case like this, it -- it wasn't possible simply to take the list down
+ The Court's opinion in Ricci makes that quite clear
+ Our expert told us all the way through the trial -- he testified 
+at the trial --JUSTICE GINSBURG: You didn't have to take the list down
+ You simply could have said: Anyone who got a passing score, anyone who is qualified -- we™re not 
+going to make the distinction between qualified and 
+unqualified
+ MS
+ SOLOMON: I -- I believe --JUSTICE GINSBURG: You didn't have to throw out the list
+ MS
+ SOLOMON: I believe --JUSTICE GINSBURG: You didn't have to throw out the test
+ MS
+ SOLOMON: I believe the Court's opinion in Ricci addresses that as well
+ That that's a -- a  
+Official misuse of the test scores
+ The expert was resolute even through the trial --JUSTICE GINSBURG: I thought the expert said -- the test devisor said he didn't make up that 
+ percent cutoff
+ That was Chicago that made that --that decision
+ MS
+ SOLOMON: He -- his reason for suggesting the  cutoff score was because of the 
+adverse impact
+ That was an attempt to deal with adverse impact, but his position was the test was valid 
+to measure the cognitive aspects that it was attempting 
+to measure, and that those related to the training 
+firefighters had to undergo in the academy
+ And he was clear as well, that a higher score created an inference that the person was more 
+qualified to -- to perform in the way --JUSTICE GINSBURG: But you -- you've lost --you've lost on that
+ MS
+ SOLOMON: We have
+ But the reason that I™m mentioning it is because it's not simply a matter 
+of -- of why don't you take the list down
+ At the time that the expert is telling us the test is valid and it 
+can -- it gives rise to an inference that people closer 
+to the top are better -- possess more of the cognitive 
+abilities that the test was testing for, we would have  
+Official at a minimum been courting disparate treatment liability 
+to adjust the scores, to randomize them further, or to 
+take the list down
+ But to return --JUSTICE GINSBURG: No, but -- but going to , opening up the classification, is not adjusting the 
+scores; it's not taking the list down; it's just saying 
+anyone who passes the test can proceed to the next step
+ MS
+ SOLOMON: It seriously diminished the opportunities of the people who were at  and above
+ 
+There were about , applicants at  or above, and 
+there were ,  or above
+ So calling in random order --CHIEF JUSTICE ROBERTS: You've got to -- I mean, you™ve just got to take your -- get as good 
+legal advice as you can and determine is it -- are we 
+going to be in more trouble if we follow the test or 
+more trouble if we -- if we take it down? People have to do that all the time
+ They look -- well, if I do this, I'm going to be in trouble; 
+if I do this, I'm going to -- but I have got to decide 
+what I should do
+ MS
+ SOLOMON: Correct, but read in conjunction with the -day charging period
+ And I would like to follow up just briefly on answers to 
+Justice Breyer and Justice Sotomayor
+  
+Official CHIEF JUSTICE ROBERTS: Well, I'm sorry
+ Read in conjunction with the  -- you have got to 
+finish that sentence at least, before --MS
+ SOLOMON: I -- I'm sorry
+ That was the -- so, yes, at the point where the employer is 
+assessing the options, the City was not sued within --
+excuse me, charges were not filed within  days after 
+the tiered eligibility list was adopted and announced
+ 
+Petitioners were aware that it had adverse impact
+ No charges were filed then; no charges were filed after the 
+first use of the list
+ So at some point when the employer is weighing the options, the employer can also factor in 
+the time to challenge this has passed
+ What Petitioners seek here is new opportunities --  --  opportunities to challenge 
+exactly the same thing that they -- that they would have 
+challenged if they had filed a charge promptly
+ They continue to emphasize that the eligibility pool, when 
+compared with the pool of applicants, had a disparate 
+impact
+ But that's not a new violation
+ That's not a new classification, and it doesn't limit anybody's 
+opportunities in any way beyond what they were already 
+limited
+ That's the old violation
+ That's the one they didn't charge
+ 
+Official Now, Petitioners do claim that the shortfall evidence showed that they -- showed and the use of the 
+list had disparate impact each time
+ But it actually didn't, either
+ That also was the old violation
+ That shortfall was compiled by comparing the number of 
+African-Americans who were hired using the  cutoff 
+score and the number who would have been called for 
+further processing if --JUSTICE SCALIA: How do you -- the problem I have with all of this -- it makes entire sense, except 
+when you read subpart (k), it says ﬁan unlawful 
+employment practice based on disparate impact is 
+establishedﬂ if ﬁa complaining party demonstrates that a 
+respondent uses a particular employment practice that 
+causes a disparate impact on the basis of race
+ﬂ MS
+ SOLOMON: Correct
+ But you have --JUSTICE SCALIA: Which is what happened here
+ MS
+ SOLOMON: But the fact --JUSTICE SCALIA: They used --MS
+ SOLOMON: Excuse me, Justice Scalia
+ The statute goes on, and it describes the later things 
+that happened at trial
+ So in our view, read literally --JUSTICE SCALIA: Where -- where does it go 
+Official on? To say what? MS
+ SOLOMON: It goes on to say that the respondent fails to demonstrate that the challenged 
+process is job-related, or subpart (ii), there is 
+an alternative practice with less disparate impact
+ So -- so (k), if (k) is going to be consulted at all, and 
+we do not think that it should be, because section 
+(e), which has always been thought of as the charging 
+period, talks about an alleged unlawful practice, and 
+that's what the person knows at the outset
+ Section (k) talks about the burden of proof and how you go about proving these at trial, and that's 
+why it uses the word "established
+" But that's also why it describes the entirety of what happens at trial
+ 
+Read literally, you can pluck a few words out of the --
+out of one of these provisions and say, aha, they used 
+an employment practice
+ You have to read the whole thing together if you™re going to read it at all, and 
+when you read the whole thing together, you come up with 
+the absurd result that the charging period doesn't run 
+until the district court brings the gavel down and 
+determines that an unlawful practice has been 
+established
+ In this case, that would have meant that the people  and below could file charges within  days  
+Official after the district court's decision, which is something 
+like  years after the practice in this case
+ And that's because that was the moment at which it was 
+established
+ And that's why we think that (k) does not bear on this
+ And (h) --JUSTICE BREYER: Is my impression -- is there anything else in that (k)? You see, it lists about  things, let's say  -- imagine
+ One of those things is that it was used
+ Now, all the other things there will not have been -- are things that --
+that -- to do with the test, basically
+ So you have like six or seven that have to do with the test and the 
+criteria, and then you have one that it was used
+ MS
+ SOLOMON: Right, and that's why --JUSTICE BREYER: And -- and so I thought, looking at the list, it's quite right that it's used for 
+a different purpose but --MS
+ SOLOMON: It's not --JUSTICE BREYER: But, I mean, this (k) has to do with a different thing, but -- but -- and the 
+critical element of it was that the practice be used
+ MS
+ SOLOMON: You -- but again, even if (k) is consulted -- and for the reasons that I just outlined 
+we don't think that it should be
+ It doesn't bear on accrual
+ But even if (k) is consulted, it doesn't -- 
+Official it doesn't say that any use of an employment practice is 
+-- is a new unlawful act
+ It has to be an employment practice that actually has disparate impact
+ JUSTICE BREYER: Well, you'd have to then say that all the things that are there, the other nine 
+and so forth -- all those nine things --MS
+ SOLOMON: This is actually --JUSTICE BREYER: Well --MS
+ SOLOMON: Excuse me, Justice Breyer
+ This is actually a slightly different point
+ At the outset, I indicated why section (k) does not bear on 
+accrual at all; it describes what happens at trial, and 
+for that reason --JUSTICE BREYER: Yes
+ MS
+ SOLOMON: -- you really can't pluck a few words out of the middle
+ JUSTICE BREYER: No, well, that's true --it does --MS
+ SOLOMON: But even if one is going to consult it to determine accrual, what it says is that 
+the use of an employment practice with adverse impact
+ 
+And in this case there was only one, and that one was 
+when Petitioners were limited and classified based on 
+the test scores
+ Nothing that happened after that, including hiring others, was an unlawful practice with  
+Official disparate impact in a way that affected the Petitioners
+ 
+They had already been rejected
+ When an employer says, I will not consider you for the position, or perhaps it says, I will not 
+consider you for the position until I have considered a 
+lot of other people first, that is a rejection
+ Nothing that happens after that, whether the person hires 
+somebody else, whether the person doesn't hire somebody 
+else, whether they change their mind and later hire the 
+person whom they had previously rejected -- Ricks, after 
+all had a grievance pending
+ It was certainly possible that that would change the outcome in the case, but the 
+Court, nonetheless, says you cannot wait for the 
+consequences to be felt
+ JUSTICE GINSBURG: That was a disparate treatment case
+ MS
+ SOLOMON: Correct, but there is no --JUSTICE GINSBURG: And the -- the argument here is disparate impact is different because there™s 
+no need to show intent of disparate impact
+ MS
+ SOLOMON: Correct
+ But the only practice in this case that had a disparate impact in the 
+sense used by the statute was when the tiered 
+eligibility list was made
+ After that, of course there was a consequence of that
+ Consequences can be felt in  
+Official employment for a long time
+ The people in the well-qualified pool were hired before Petitioners, they 
+were paid before Petitioners, they are going to get 
+their pensions before Petitioners
+ Those things continue to have consequences
+ But the Court has made clear that the consequences cannot be challenged by themselves unless 
+there actually is a present violation
+ Now, there is not even an argument in the other side's briefs, neither of them, that explains why 
+there was an adverse impact based on race under (a)() 
+at any point when the City used the list
+ If one reads the briefs very carefully, one will see that those times 
+when a claim is made in the briefs that we used an 
+unlawful practice, it always goes back to the test and 
+the list
+ Simply keeping the list up after we announce it is not a new violation
+ It is quite clear in the cases that the employer does not have to change a 
+decision in order to obtain repose
+ And, of course, the disparate treatment and disparate impact are simply different methods of proving 
+a claim
+ They are not different claims by themselves
+ In this case, in addition to the statutory language, 
+there are a number of policy reasons that while we don't  
+Official rely on them heavily, we do rely on the statute
+ They should nonetheless be considered in deciding this
+ 
+There was no sense in which a claim filed to challenge 
+the list was premature
+ It was the one act that actually limited and classified Petitioners
+ Everything else that happened after that either didn't affect the Petitioners at all, as in 
+hiring people who had made the cut, or it affected them 
+only in the colloquial sense, that the consequences of 
+the prior act continued
+ Chicago did not have to revisit this in order to obtain repose
+ The statute makes that quite clear
+ Mr
+ Payton emphasizes only the policy of righting employment wrongs, but there are other policies 
+in the statute
+ In addition to repose, the statute makes clear that claims should be brought to the EEOC at 
+the earliest opportunity
+ Excuse me
+ We ask that the judgment be affirmed
+ CHIEF JUSTICE ROBERTS: Thank you, counsel
+ Mr
+ Payton, you have  minutes remaining
+ REBUTTAL ARGUMENT OF JOHN A
+ PAYTON ON BEHALF OF THE PETITIONERS MR
+ PAYTON: Thank you
+  
+ Sotomayor
+ One is that there was no formula before
+ There was some general guidance that was given in the 
+statute
+ It's much like the proposition of good faith
+ Good faith is almost incapable of definition, yet every 
+circuit in the United States has a laundry list of 
+factors that are taken into account for good faith
+ Here, reasonable and necessary expenses under the old law had a few suggestions as to what 
+needed to be involved with them
+ Now we have a portion of another part of the triangle, which is under (b)
+ JUSTICE KENNEDY: But in a sense that cuts against you
+ As I was -- when I was reading your opening brief, it seemed to me the tone was, well, if 
+you accept the Respondent's position Congress did 
+nothing at all
+ Well, they did do something very important
+ They had a formula for disposable income
+ The question is, does that formula apply to projected? 
+Can that formula be modified altered or projected for 
+projected? So it's not as if Congress did nothing or it's not as if the amendment accomplishes nothing even 
+under the Respondent's view
+ It accomplished something very important
+ MR
+ HAMILTON: My answer, Justice Kennedy, is that the definition of the word, quote, "projected," 
+end of quote, has -- there's never has been one in the  
+ code
+ That was a term that was in the  code and is carried over into the present code
+ How it was applied is vastly different
+ The dispute under the prior law was over whether or not the 
+court could take into account changes in circumstances 
+which were likely to occur post-confirmation
+ And so we had cases like the Anderson v
+ Satterlee case out of the 
+Ninth Circuit and the Midkiff case out of the Tenth 
+Circuit that disagreed as to how that ought to be 
+applied
+ In the Anderson v
+ Satterlee case the Chapter  trustee requested that the debtor sign 
+essentially a pledge that they would devote their excess 
+income to the plan, and the Anderson court said: Wait a minute; there is another statute at issue here and that 
+is 
+  allows for the modification of the plan after the plan has been confirmed
+ Prior to the confirmation of the plan, the debtor still has the 
+ability -- and this ties in with some of the comments 
+made by Justice Alito -- the debtor still has the 
+ability to amend the plan under 
+ So all of these statutes need to be read together to show what the result is
+ Now the question is not whether or not changes should be taken into 
+account for post-confirmation that may be likely to  
+ occur, but whether or not the court may deviate from the 
+statute where Congress has said this is how we want you 
+to determine current monthly income, therefore 
+disposable income and consequently projected disposable 
+income
+ JUSTICE GINSBURG: But you already told us that there could be a deviation through this 
+(A)(ii)
+ And why, if that was all that needed to be done, did the trustee recommend, did the trustee say, 
+bankruptcy judge, let's move the period, let's use this 
+provision and we will get another period that doesn't 
+have those  months with the extraordinary income? MR
+ HAMILTON: No, Justice Ginsburg, and the reason is, is that that privilege is accorded only to 
+the debtor to move that -month period
+ Neither the unsecured creditors nor the trustee have the ability to 
+request that that -month period be moved
+ JUSTICE GINSBURG: Well, it could have been suggested to the debtor: You can accomplish what you want by using this provision
+ MR
+ HAMILTON: The record is silent as to whether or not that occurred
+ JUSTICE KENNEDY: What -- where can you move it? I don't really -- this is the same line of inquiry as Justice Ginsburg
+ What's the -- what has to be the  
+ 
+much beyond the date of what, the hearing? MR
+ HAMILTON: It would be up to confirmation, but the confirmation hearing could be 
+continued as the court saw fit
+ CHIEF JUSTICE ROBERTS: The review of the determination or the request to move the period is -- is 
+what? Up to the total discretion of the -- of the judge? MR
+ HAMILTON: It appears to be so under the statute, Chief Justice Roberts
+ CHIEF JUSTICE ROBERTS: So your objection to the fact that the judge has more discretion with respect 
+to defining "projected disposable" -- you don't mind the 
+discretion on the other side
+ MR
+ HAMILTON: No, Your Honor, I don't believe the discretion is not in determining the income, 
+only in determining the time period
+ CHIEF JUSTICE ROBERTS: Right, but the only purpose of moving the time period is to change the 
+income
+ MR
+ HAMILTON: That's true
+ And there are other options that the debtor had available in addition 
+to that, that we have referred to as the four options, 
+which would be the debtor could have here just delayed  
+ filing the case for a couple of months and these 
+problems would not have occurred
+ JUSTICE SCALIA: There is another discretion that you don't seem to object to
+ one way the debtor can get out of the bind that he's put 
+in by the fixing of the confirmed plan is simply to move 
+for a revision of the confirmed plan
+ MR
+ HAMILTON: Absolutely, Justice Scalia
+ JUSTICE SCALIA: What constrains the judge in allowing or not allowing the revision? Doesn't he have the same kind of discretion with regard to the 
+revision that you're objecting to with regard to his 
+establishing the payments? MR
+ HAMILTON: Justice Scalia, I don't think so
+  has been subject to quite a bit of litigation, but the argument that we make in our reply brief is that 
+it would be simply necessary to plug in and plug out 
+whatever the change in circumstance is
+ So the debtor would be able to say, my wife's income is now gone, so we want to take that out 
+of the formula
+ JUSTICE SCALIA: But that's the same thing that's being argued here, that -- that you start with 
+the fixed calculation based on the  months before and 
+then you have to show that there were some extraordinary  
+ circumstances that justify a change
+ I don't see that there's any difference
+ MR
+ HAMILTON: There may not be, except that there is a statutory requirement as to how that is 
+accomplished and that's where the (A)(ii) comes 
+into play
+ It's not so much that there is a problem JUSTICE SCALIA: What your case comes down to is the bankruptcy court can do this, but it has to do 
+it by simply revising the plan, not by establishing the 
+plan initially but by revising it
+ MR
+ HAMILTON: Not necessarily, Your Honor
+ That certainly is one way
+ JUSTICE SCALIA: Maybe? MR
+ HAMILTON: It may be, yes
+ It depends on the facts of the case
+ CHIEF JUSTICE ROBERTS: Well, that's a good answer, isn't it, because your point would be the 
+statute does not allow that exercise of discretion with 
+respect to projected disposable income, but it does in 
+the other areas
+ MR
+ HAMILTON: Well, again I respectfully disagree, Chief Justice Roberts
+ JUSTICE SCALIA: That was a friendly question
+  
+ MR
+ HAMILTON: I'm sorry? I'm sorry, I didn't hear
+ CHIEF JUSTICE ROBERTS: No, my -- my point and what I thought your point would be is that the fact 
+that there is exercise of discretion in two different 
+areas is not the problem
+ The problem is that in one area the discretion is specifically permitted and in the 
+other area, projected disposable income, it's not
+ MR
+ HAMILTON: I agree
+ (Laughter
+ ) JUSTICE ALITO: But can the -- can the plan be modified based on -- can the plan be modified based 
+on something that was known before the plan was 
+confirmed? MR
+ HAMILTON: That depends on which jurisdiction one would be in, Justice Alito
+ The most JUSTICE ALITO: Well, if it can't, then how is this modification remedy going to work? MR
+ HAMILTON: I think it should be
+ For example, a good example of this would be debtor is 
+expected  years from now to no longer have to repay a 
+(k) loan
+ And so one view would be that you ought to take that into account as of that date and figure those 
+calculations, which becomes extremely unwieldy
+ You are 
+ guessing at that point
+ The debtor may say: Well, I may be losing that, but I don't know what my actual 
+circumstances are going to be  years from now
+ Chapter  is a fluid process
+ JUSTICE ALITO: Your argument is that the Court has to confirm a plan that is really not 
+confirmable because the debtor can't possibly make the 
+payments under the plan, but then can turn around 
+immediately and modify the plan so that it does call for 
+payments to be made
+ MR
+ HAMILTON: No, Your Honor
+ That is not my argument
+ JUSTICE ALITO: explain it, then? MR
+ HAMILTON: Well, what we are saying is that this plan cannot be confirmed as it stands because 
+the debtor would have to be able to make those payments 
+and the debtor obviously is not capable of making those 
+payments
+ But it's because she chose the wrong options
+ JUSTICE GINSBURG: But let me just stop you there, because then the answer you gave to the Chief and 
+to Justice Scalia doesn't fit
+ the bankruptcy judge is not going to confirm the plan 
+was she has to pay over $, a month, because she  
+ could never do that
+ So you are not going to get that confirmed plan which could be amended later
+ MR
+ HAMILTON: Well, I agreed with that
+ I may have misunderstood the question that I was asked
+ 
+But what I'm saying is that the statute needs to be 
+followed and if the debtor had followed the statutes 
+here then the debtor likely could have obtained a 
+confirmed plan by moving that -month time frame
+ JUSTICE GINSBURG: Well, what in addition to -- you brought up the  solution that she doesn't do 
+what the statute tells her to do, so she's able to move 
+it if the judge agrees
+ And you said she has other options
+ MR
+ HAMILTON: Yes
+ Well, the other options -- and I referred to them as the four options and the 
+(A)(ii) is one of those options
+ As I said, she could have delayed filing the case
+ There is nothing in the schedules that would indicate that she was filing 
+this bankruptcy under exigent circumstances
+ There is no foreclosure, there is no repossession, there's no 
+garnishment, there's no lawsuit
+ So delay would have been a possible, and a debtor is always able to 
+determine the date of the filing of the petition
+ The second thing that she could have done is file a Chapter , and this is the anomaly between  
+ Chapter  and Chapter , is that she would have 
+qualified in all likelihood for a discharge under 
+Chapter  because she would have met the special 
+circumstances test in (b)
+ JUSTICE GINSBURG: But then the creditors would have been a lot worse off, would they not have 
+been? MR
+ HAMILTON: That's very possible, but it's a formula that Congress thought to place into 
+JUSTICE GINSBURG: Well, why would -- why would the trustee be urging the possibility that it 
+would be okay for her to file under Chapter , in which 
+case the unsecured creditors would get very little, but 
+it's not okay for her to use chapter  with a plan that 
+would give the unsecured creditors substantial payments? MR
+ HAMILTON: Here, Justice Ginsburg, the reason is plain and simple, and that was I sought to 
+enforce the rule of law in order to have the courts 
+determine how the rules were supposed to be interpreted
+ 
+By my view, it seemed like that had she followed the 
+rules maybe she would have gotten there, but the way she 
+did it she can't
+ It's kind of like driving a car
+ You can't expect that a the car is going to perform well if 
+you don't turn the engine on
+  
+ JUSTICE SCALIA: MR
+ HAMILTON: And here she didn't turn the engine on
+ JUSTICE SCALIA: Can I come back to Justice Ginsburg's question about whether there would 
+ever be the opportunity to adjust the confirmed plan? 
+Because as you say, the plan here would not have been 
+confirmed, but that -- that isn't the case always
+ I mean, in many cases a plan would be confirmed because 
+the -- the bankrupt could -- could barely make the 
+payments that it requires; and then when it -- it is 
+clear that, because of the extraordinary event in the 
+preceding  months, the bankrupt is -- is not going to 
+have that -- that amount of money, there would be the 
+opportunity to adjust
+ MR
+ HAMILTON: Maybe not -- I'm sorry
+ JUSTICE SCALIA: In other words, is your response to Justice Ginsburg "always," that it will 
+always be the case that where there would be an 
+adjustment under this theory, there would not have been 
+a confirmation in the first place? MR
+ HAMILTON: If the plan is not confirmable by an analysis of Schedules I and J, which 
+are the income and expenses statutes, I am not going to 
+recommend confirmation, and nor do I think any trustee 
+ would
+ Any events that are in the equation before the date of confirmation would likely be then subject to 
+, the res judicata provisions of chapter 
+ So if the plan is confirmed, say in Stephanie Lanning's case, 
+with these facts known, then she would not be able to 
+come in afterwards and ask for the court to modify under 
+ because that's part of the confirmation order
+ The other options that were available -- we discussed briefly the ability to file this as a Chapter 
+ She also could have converted this case to a Chapter  post-petition with the same result, or she could have 
+dismissed this case and refiled
+ JUSTICE GINSBURG: Isn't that -- wouldn't that amount to just a -- a waste of everybody's time, to 
+dismiss it and then refile it, and then she gets a time 
+period that doesn't -- why -- why not just drop out 
+those  months that are not representative of her 
+income? MR
+ HAMILTON: Because, Justice Ginsburg, the statute does not permit that
+ It's not within the formula, and that's the question: Is the formula binding or is it not binding? If it is binding then this -- obviously
+ Congress intended a more rule-bound statute
+ It got that
+ It was obvious that it intended to reduce judicial discretion, and the statute seems to  
+ accomplish that
+ JUSTICE GINSBURG: But the thing is -- but you have explained, your number one solution for her is 
+this  route, which is -- gives lots of discretion in 
+the court
+ MR
+ HAMILTON: Only in moving the -month period, Justice Ginsburg
+ JUSTICE GINSBURG: Yes
+ MR
+ HAMILTON: That would be the only discretion that the statute would appear to accord to 
+the court
+ CHIEF JUSTICE ROBERTS: Where is that, by the way, the provision that allows it to move the 
+-month period? MR
+ HAMILTON: It's in (A) and it provides that the term "current monthly income" means 
+the average monthly income from all sources that the 
+debtor receives, or in a joint case the debtor and the 
+debtor's spouse receive, without regard to whether such 
+income is taxable income derived during the -month 
+period ending on -- and then we come to subsections (i), 
+little (i) -- or (ii)
+ And those are -- that's the disjuncture; it's the -month period prior or some other 
+time frame, and the language is important
+ JUSTICE ALITO: What do you say about cases  
+ in which moving the -month period can't solve the 
+problem? For example, if the debtor had good income for many years going back, but then slight -- shortly before 
+the filing of the plan loses his or her job, and there 
+is no prospect that the debtor is going to get another 
+job? Or it could be the converse, has very low income for a long period and then right before gets a job
+ So you are not going to be able to cure those problems by 
+moving the -month period
+ What do you do then? MR
+ HAMILTON: Well, Justice Alito, I think I would tie in  with respect to the first 
+proposition, and that is if the debtor's circumstances 
+have markedly changed, then the debtor has the ability 
+to file an amended plan; and that amended plan could ask 
+the court to move that time frame forward to a 
+confirmation hearing that would take into account the 
+drop in income
+ With respect to the second part of your proposition, and that is an increase in income, then I 
+as Chapter  trustee would have the ability to object 
+to it on the basis of -- of good faith under either 
+(a)() or (a)(), either the plan or the filing 
+of the case itself
+ And those -- the filing of the (a)() was the primary way in which all of these 
+disputes were resolved before the  amendments which  
+ brought in subsection (b) to  which introduced the 
+concept of disposable income
+ JUSTICE SOTOMAYOR: How do you file an amended plan and have the court restart the clock, when 
+(A) says only if the debtor has not filed a 
+schedule of current income? If there's been a plan confirmed or a plan proposed, then the income schedule 
+had to have been filed
+ MR
+ HAMILTON: JUSTICE SOTOMAYOR: You don't do one without the other
+ MR
+ HAMILTON: Those are two different propositions, Your Honor
+ One is if the plan is confirmed and one if it is not confirmed
+ If it is not confirmed, then you are correct; at some point the 
+trustee and the court are going to want to see a 
+Schedule I and J to see what the actual income and 
+expenses are
+ If the plan has already been confirmed, then the ability to change the plan has to be done under 
+JUSTICE SOTOMAYOR: Forget about 
+ I'm going to the situation where the plan has been proposed, 
+let's say
+ The courts -- if a schedule of income has been filed, then it's without any jurisdiction to change 
+the -month lookback period, correct?  
+ MR
+ HAMILTON: I don't agree with the word "jurisdiction," Justice Sotomayor
+ JUSTICE SOTOMAYOR: Well, it can't under (A)
+ MR
+ HAMILTON: The debtor would certainly have the ability to ask the court to be excused from 
+that requirement given a change in circumstances
+ But again it would be the formula that would be honored, 
+rather than the court substituting judicial discretion
+JUSTICE SCALIA: Can I ask -- yes, there is one more question
+ MR
+ HAMILTON: Okay
+ JUSTICE SCALIA: Can I ask whether , which you have now invoked, does not provide the same 
+kind of discretion to the court that you are objecting 
+to? What -- what standards are there for granting or not granting modification of the plan? Is it pretty much up to the judge? MR
+ HAMILTON: No
+ I believe again the court is bound, Justice Scalia, by the (A) formula
+ 
+It's obvious that Congress intended the formula
+ It would not make much sense to read the statute to have 
+some other formula
+ 
+ JUSTICE SCALIA: Well, then -- then -- okay
+ You are between a rock and a hard place
+ Either  gets you out of that formula, which is what you've said, 
+it's one way out, or it isn't
+ Which is it? MR
+ HAMILTON: I haven't said that it gets me out of the formula
+ It gets me out of the time frame issue, because certainly the statute doesn't take into 
+specific account what happens if the debtor loses a job, 
+say, post-petition? Obviously -- example, husband loses the job at Goodyear after the bankruptcy petition is 
+filed
+ And I think  is broad enough to allow an amendment which would involve only moving the time 
+frame
+ JUSTICE SCALIA: Okay
+ So any -- any MR
+ HAMILTON: I believe so, Justice Scalia
+ JUSTICE SCALIA: -- subsequent to the filing
+ MR
+ HAMILTON: If there are no other questions I would like to reserve the remainder of my 
+time, Chief Justice Roberts
+ CHIEF JUSTICE ROBERTS: Thank you, counsel
+ Mr
+ Goldstein
+ ORAL ARGUMENT OF THOMAS C
+ GOLDSTEIN ON BEHALF OF THE RESPONDENT 
+ MR
+ GOLDSTEIN: Mr
+ Chief Justice, and may it please the Court: The Court, I think, has the parties' arguments very well in hand
+ I think the -- the one point that I can hopefully address, and it is I think 
+the hardest part of our case, is to address the issue 
+that Justice Alito raised, and that is, is there an 
+anomaly in the fact that in BAPCPA Congress added the 
+-month period, which would suggest perhaps that 
+Congress was trying to lock in a particular period that 
+we would look at
+ And the answer to that question is no, and I want to take you to the relevant statutory provisions
+ 
+Everything is going to be in the cert petition
+ I am going to start in the petition appendix at , which is 
+, which is the operative provision here
+ And (b)() tells us that if the trustee or a creditor 
+objects, then as of the effective date of the plan it's 
+only going to be confirmed in subsection (b), which is 
+the third full paragraph on page  is going to control
+ The plan has to provide that all of the debtor's projected disposable income to be received in 
+the applicable commitment period beginning on the date 
+the first payment is due under the plan will be applied 
+to make payments to unsecured creditors under the plan
+ 
+ And the thing to note first about that provision is that it, too, sets a timetable
+ It's not just projected disposable income, but it's projected 
+disposable income of a very particular type, to be 
+received in the applicable commitment period
+ So unless there is something particularly strange about the 
+definition of "disposable income," Congress specified a 
+period that the income is going to be measured in, and 
+that's over the course of the plan; the word "projected" 
+tells us to get a realistic estimation of what that 
+amount of money's going to be
+ Now, my friend makes the point that disposable income after BAPCPA is a defined term; the 
+definition comes in the next paragraph; it's subsection 
+(), (b)()
+ For purposes of this subsection the term "disposable income" means current monthly income 
+received by the debtor subject to some deductions and 
+then the expenses
+ So then we have to go to the definition of "current monthly income
+" Current monthly income is in ; it's at page 
+ That's where we get the -month period
+ And it tells us that current monthly income is the average 
+monthly income from all sources, so it's very 
+encompassing, without regard to whether such income is 
+taxable income derived during the -month period
+ 
+ So, my friend's argument is that, well, Congress said  months
+ The answer to that point is a couple fold
+ First, as was suggested in the first half-hour, Congress was addressing a very specific 
+problem there
+ Before BAPCPA courts didn't know what the -- didn't agree on what the baseline was for 
+determining someone's income
+ Some courts would say, all right, you are a Chapter  debtor, right away I'm going to look at the 
+latest month
+ Some courts said  months
+ We have a court in our brief that said  years
+ So, we have to have a starting point to project from
+ But the second point is that this term "current monthly income" isn't principally a Chapter  
+term at all
+ So, my friend's argument is that Congress stuck this -month period into Chapter , so it would 
+be very anomalous if we could just -- in effect, he says 
+we are throwing it out, we are giving the district 
+judges discretion
+ It's not quite right
+ The place to look is in section , which is two pages later
+  is a Chapter  provision
+ And my friend started out by saying the problem with our 
+position is that we were not following the Chapter  
+means test
+ That's the key
+ borrowed from Chapter 
+ So (b)()(A)(i) is at the 
+ beginning of page  of the appendix
+ And, so, we are in a Chapter  case here
+ And this is the means test
+ It tells us that: "In considering under paragraph ," so we are trying to 
+figure out if there is a presumption of abuse under 
+Chapter  -- "whether the granting of relief would be an 
+abuse of the provisions of this chapter, the court shall 
+presume abuse exists if the debtor's current monthly 
+income, reduced by the amounts determined under clauses 
+, , and " -- those are expense clauses -- "and 
+multiplied by  is not less than" a certain amount
+ So what happened is Congress in BAPCPA created this presumption of abuse in Chapter  and it 
+then borrowed that concept, as my friend pointed out, in 
+Chapter 
+ So that -month period has real force and effect in the Bankruptcy Code in Chapter 
+ So it's not like Congress in Chapter  fixed the -month period, 
+which would give -- have a sort of a gravitational pull
+ 
+You wouldn't want to throw that out too lightly
+ Justice Sotomayor, I do agree that we ought to be pretty -- we ought to stick to it
+ It indicates Congress is concerned with the -month period
+ But it's not like Congress added to Chapter  this -month 
+concept
+ It added it to Chapter , where it's in full force and effect
+  
+ JUSTICE SCALIA: You -- you -- you have lost me
+ MR
+ GOLDSTEIN: Okay
+ JUSTICE SCALIA: MR
+ GOLDSTEIN: Sure
+ It's back
+ We have to go back two pages
+ JUSTICE SCALIA: No, I got -- I got it there
+ MR
+ GOLDSTEIN: Okay
+ Sure
+ I'm sorry
+ Can I make one other point about that language, just to repeat it again? That the courts The term is "current monthly income
+" So we are in Chapter , so four lines down"
+ "The court shall presume abuse exists if the debtor's current monthly 
+income" -- that's the  months, current monthly income
+ 
+That's the -month period of income
+ JUSTICE SCALIA: I -- I -- I see
+ I see
+ MR
+ GOLDSTEIN: See, that's mostly where it matters
+ Then Congress borrowed it in Chapter 
+ But it didn't get rid of, as was pointed out before, the 
+term -- "projected"; it didn't get rid of the period, 
+the commitment period
+ But I do want to point out something very particular about this language
+ Here's the phrase: 
+ "Current monthly income, reduced by the amounts 
+determined under clauses , , and " -- those are 
+expenses -- "and multiplied by 
+" That's what my friend says the phrase "projected disposable income to 
+be received over the applicable commitment period" is
+ Our point is that if Congress intended that mechanical formulation, it would have used the exact 
+words that I have just read from you in Chapter , 
+because that's mechanical
+ JUSTICE KENNEDY: Without the word "projected"? MR
+ GOLDSTEIN: I'm sorry? JUSTICE KENNEDY: Without the word "projected"? MR
+ GOLDSTEIN: That's exactly
+ They used "multiplied
+" And Congress did that several times in BAPCPA and before BAPCPA
+ When Congress wanted, look, we are going to have a mathematical formula, it used a 
+mathematical formula
+ CHIEF JUSTICE ROBERTS: Why don't you follow his suggestion and just move the -month period, because 
+the statute specifically grants that authority to the 
+judge? MR
+ GOLDSTEIN: Sure
+ Let me make a few points about that, sir
+ So I'll again read the language  
+ again
+ So we are on 
+ It says that -- little (ii) is going to be -- it's going to be " months ending on the 
+date on which current income is determined by the court 
+for purposes of this title if the debtor does not file 
+the schedule of current income
+" A couple OF points about that
+ 
+debtor ratchet, right
+ The creditor and the trustee, if the debtor a month before confirmation gets a new job or 
+their expenses go down -- let's say you had a car, but 
+you know that the car payments are going to be done
+ 
+Under the trustee's view, then you still get to count 
+the car payments which are totally pretend, or if you 
+got a much higher paying job
+ In fact, in this case she did get a higher paying job
+ Towards the end of the period, she got a raise
+ And we say that has to be counted, too
+ We have to have a debtor and creditor-neutral provision
+ In a statute that's designed to make sure the debtor pays a 
+much as possible to her creditors, it's very strange to 
+put this entirely in the debtor's hands
+ JUSTICE ALITO: Can I ask you this
+ There seems to be at least a subtle difference between your 
+position and the government's position
+ You say that the projected disposable income will be different from  
+ the disposable income calculated during the lookback 
+period when it is known or virtually certain that there 
+will be differences in income or expenses
+ And the government says that there is a difference when 
+something is likely to occur in the future
+ Where do you -- where do you get from the statute your known or virtually certain differences? MR
+ GOLDSTEIN: The contrast between  and 
+ What I tried to do in my brief, and I have laid it out at the beginning of the argument section
+ 
+That's where we try to articulate our rule
+ What we have done is we have looked at the cases
+ As you pointed out, this is pre-BAPCPA practice
+ Courts have set a pretty high bar, both in terms of the level of 
+certainty and the degree of deviation
+ And courts have said -- I will give you an example that will illustrate the difference perhaps
+ 
+You have times when someone expects to get a raise
+ 
+They don't know that they are going to get it, or they 
+expect to get a promotion
+ And courts will say, even if that's pretty likely, until you have actually got it we 
+are not going to count it for purposes of (b); come 
+back under 
+ And we point out in our merits brief that in fact, it's not quite on point, but she got a settlement  
+ post-confirmation here, and under  that money was 
+applied
+ So, Justice Scalia, there are post-confirmation events, but if you know ahead of 
+time -- and this case is a perfect example, it -- we 
+know she is not going to get another buyout from Payless 
+Shoe Stores
+ When it's known or virtually certain, we think that is sufficient -- akin to Justice Sotomayor's 
+point about, you know, making it hard
+ Let me make one other point
+ I wanted to finish off my answer to the Chief Justice about 
+ 
+This provision has taken on greater significance in the 
+oral argument and the reply brief of the Petitioner
+ I did want to point out to the Court a provision that is 
+not reproduced in the parties' briefs, but if the Court 
+were to go this route it would want to be aware of, and 
+that's (i)
+ And (i) tells us that you do have to file the forms at the beginning or you have to file them 
+within  days, but upon request of the debtor made 
+within  days after the date of filing the petition, 
+the court may allow the debtor an additional period of 
+not to exceed  days
+ So it does seem to constrain the power of the bankruptcy court to shift this period all 
+around
+  
+ So, I have made two points
+ One is it's a one-way ratchet for the debtor; second, it's not 
+unlimited
+ The third is it just doesn't make any sense
+ Why would Congress design a system that would have all 
+of these machinations
+ If we agree that Congress wants -- it seems my friend and I agree that Congress 
+believes that she shouldn't have to make the payments 
+that would be required under the trustee's reading of 
+"projected disposable income
+" The question is how we get there
+ The trustee's answer is that you are required by the text; I'm sorry, Congress took this 
+option away
+ And I think that, as I have explained, the term "projected disposable income to be received in the 
+applicable commitment period" really is not language 
+that you would ordinarily construe to ignore changes 
+CHIEF JUSTICE ROBERTS: Well, I think -- I think that's exactly right when you look at term 
+"projected disposable income
+" MR
+ GOLDSTEIN: Yes
+ CHIEF JUSTICE ROBERTS: But if you look as MR
+ GOLDSTEIN: Yes
+ 
+ CHIEF JUSTICE ROBERTS: -- as a defined term 
+different -- different argument, different kettle of 
+fish
+ I mean, because particularly in a statute intended to restrict discretion, it's a way to do it
+ 
+You look at it in the abstract, "projected disposable 
+income," it doesn't achieve that objective
+ MR
+ GOLDSTEIN: And that is exactly, Mr
+ Chief Justice, why I started with the definition of 
+"current monthly income in the -month period
+" I agree that it is an important point
+ It is their strongest argument
+ My only point is that I have explained, I think, why Congress put the -month period in for 
+purposes of Chapter  and also to have the starting 
+point
+ If I -- to give you an example, take inflation
+ If we were to define inflation as the amount in the rise 
+in prices over the previous  months, if Congress did 
+that in a statute and then told us to look at projected 
+inflation, we would still not ignore things that will 
+tell us that there are going to be -- there has been an 
+oil price spike or an increase in health care costs
+ It would take a pretty firm, firm period that told us to 
+only look into the past and not look into the future, 
+particularly when the whole point of the statute is to 
+ make sure that the money goes into the creditor's hands 
+that the debtor is able to pay
+ On the point of discretion, I should also say BAPCPA as a whole was intended to reduce discretion
+ 
+And, so, it's kind of odd to say that the answer to our 
+position is to turn to all of these other discretionary 
+CHIEF JUSTICE ROBERTS: What if you -- you wanted to achieve your friend's result and you had a 
+definition of disposable income, and you wanted the 
+court to -- you don't want to say project that forward, 
+what -- what word would be more natural than saying 
+projected? MR
+ GOLDSTEIN: I -- I -- I would use the language that Congress did in 
+ Remember, the current monthly income reduced by the amounts determined 
+under clauses , , and  and multiplied by 
+ CHIEF JUSTICE ROBERTS: No, that's altering disposable income -- the definition of disposable 
+income
+ I'm asking isn't the most natural word to achieve your friend's result to use projected
+ What other word would you say when you say this is the period 
+you look at and you want to take it forward? MR
+ GOLDSTEIN: Multiply
+ And Congress did that a bunch of times
+ Projected -- if we try to  
+ project something, we try and make the -- and everybody 
+agrees on the definition, so really, it's not an unusual 
+term
+ It is: You make your best estimate of the future based on the data you have now
+ My friend is right
+ One piece of data we have now is her previous  months' 
+income
+ Another piece of data is we know that she's not going to have the same income in the future
+ If there are no further questions
+ CHIEF JUSTICE ROBERTS: Thank you, Counsel
+ Ms
+ Harrington
+ ORAL ARGUMENT OF SARAH HARRINGTON ON BEHALF OF THE UNITED STATES, AS AMICUS CURIAE, SUPPORTING RESPONDENT MS
+ HARRINGTON: Mr
+ Chief Justice, and may it please the Court: In bankruptcy, as in many areas of the law, Congress has tried to balance on the one hand, doing 
+case-specific justice, and on the other hand, ensuring 
+that the statutory scheme is administrable
+ Now, Congress certainly could have chosen to elevate 
+simplicity over accuracy by telling bankruptcy courts to 
+take a debtor's current disposable income and multiply 
+that number by the number of months in the plan in 
+assessing whether the plan is confirmable
+ But there are several strong signals in the code that that is  
+ actually not what Congress intended courts to do
+ JUSTICE ALITO: But do you think bankruptcy courts are supposed to be economic forecasters? For example, if you -- after calculating the debtor's income 
+during the -month period, the -month lookback period, 
+should the bankruptcy court said, well -- say: Well, it's -- inflation is projected to be such-and-such over 
+the term of this plan, so I am just going to increase it 
+by the amount of inflation; or: This person works in a particular industry where historically, over the last 
+five years or ten years, there's been a  percent 
+increase in salary per year, so I'm going to multiply it 
+by -- multiply the disposable income figure like that? MS
+ HARRINGTON: Certainly not, Justice Alito
+ JUSTICE ALITO: Well, why not? You say that the bankruptcy courts should take into account things 
+that are likely to occur in the future
+ MS
+ HARRINGTON: we are not saying that bankruptcy courts should ever 
+speculate about what might happen in the future
+ What we are saying is that bankruptcy courts should take into 
+account what they know, in this case, already has 
+happened, but also what they know will happen
+ And so to give an example of a change that would benefit  
+ creditors, if as -- as I mentioned earlier, if a debtor 
+has secured a higher-paying job just before or just 
+after she filed her petition, a Court should be able to 
+take into account the fact that her income going forward 
+would be greater than would be reflected in the 
+calculation of her current disposable income
+ JUSTICE SCALIA: Well, "know will happen" is quite different from "likely to happen," and I thought 
+your test was likely to happen
+ MS
+ HARRINGTON: Well, likely to happen based on what you know now
+ I think -- we haven't suggested a particular burden of proof
+ JUSTICE SCALIA: Not -- not likely, based on what you know
+ Well, that's quite different from you know it will happen
+ MS
+ HARRINGTON: Right
+ So there is an example mentioned earlier: If the debtor is repaying a loan to her (k) program, that is the type of loan 
+that can't be extended time-wise
+ And so she will keep making those payments, which will be deducted as an 
+expense in the calculation of her current disposable 
+income, but -- but you know at a certain point, she is 
+likely to stop making those payments
+ JUSTICE SCALIA: Is there a difference between your test and the Respondent's test?  
+ MS
+ HARRINGTON: Not according to what I heard Mr
+ Goldstein say at the argument
+ Again, we do JUSTICE SOTOMAYOR: His words were "known to a virtual certainty," which are -- likely to happen is 
+different than likely to happen
+ MS
+ HARRINGTON: I think, in part, it depends on what type of change you are talking about
+ 
+Again, we would never say that a court should speculate 
+about what should happen
+ But, for instance, to take another example on the expense side, if a debtor when 
+she proposes her plan owns a second home, a vacation 
+home that is secured by a mortgage, then that secured 
+debt payment is an expense that would be deducted from 
+her income in the calculation of her current disposable 
+income
+ But if she proposes to surrender that property as a condition of her plan, she will no longer have that 
+debt payment going forward
+ And so that's the type of -- so it will no longer be an expense going forward
+ 
+Under Petitioner's view, a court would not be able to 
+JUSTICE SCALIA: That's -- that's "know will happen
+" That is "know will happen
+" But I don't know how you can, at one and the same time, say: Courts shall not speculate, and then say that the test is 
+ "likely to happen
+" MS
+ HARRINGTON: JUSTICE SCALIA: I mean, to -- you know, to look forward and say: Is it likely or not likely? That's speculation
+ I don't know a better definition of speculation, to tell you the truth
+ MS
+ HARRINGTON: Okay
+ But then, we wouldn't -- we are not trying to advance that view of 
+"likely
+" And again, in this case the change had already occurred, so there is no uncertainty about what 
+her situation is now and what we can project it to be 
+going forward
+ CHIEF JUSTICE ROBERTS: It seems to me that, 
+well, depending on how broad a theory you are adopting 
+of what's projected and what's not, that you are taking 
+into account a lot of things that are more properly 
+taken into account when it comes to whether the plan 
+should be confirmed or not
+ MS
+ HARRINGTON: CHIEF JUSTICE ROBERTS: What's going to happen? What's the situation going to be? What should, you know, the creditors get? What should the debtor get? There is no reason to kind of shoehorn those into the projected disposable income
+  
+ MS
+ HARRINGTON: Well, except that if the creditor or a trustee objects, then the calculation of 
+projected disposable income is one of the conditions of 
+confirmability of the plan
+ The court can't confirm it CHIEF JUSTICE ROBERTS: Well, is that -- I mean, let's say your friend wins up to the point and 
+somebody else, when it gets to confirmation, can say: 
+Well, look, you know, there was this big payout before 
+the filing
+ So don't confirm it
+ We know she has got all this -- all this other money
+ That -- it could do it that way, couldn't it? MS
+ HARRINGTON: I'm sorry, if she got a higher-paying job just before? Is that what you're suggesting? CHIEF JUSTICE ROBERTS: Well, whatever the situation is, can't that be taken into account when it 
+comes to confirmation? MS
+ HARRINGTON: Well, it could affect the -- well, one thing that is important to note that hasn't 
+been brought up is under Section (a)(), the court 
+is actually -- which is the feasibility provision -- the 
+Court is actually required to think about what is going 
+to happen in the future, whether a debtor is going to be 
+able to repay her creditors
+ And so it doesn't make 
+ very much sense to, on the one hand, require a court to 
+consider what it knows will happen in the future in 
+determining feasibility, and then on the other hand, if 
+there's an objection by the creditor or the trustee and 
+(b) comes into play, to prohibit a court from 
+considering the same facts it knows about what is going 
+JUSTICE ALITO: What if the debtor is a waiter and during the last month of the -month period, 
+because of some change of the economy the waiter's tips 
+have gone up either way up or way down? What's the court supposed to do then? MS
+ HARRINGTON: Well, I think one purpose of having the -month lookback period in the calculation 
+of current income is exactly to take into account those 
+situations
+ There are many people who are gainfully employed full time, but whose -- whose income fluctuates 
+over time
+ And so requiring that courts use the -month lookback period, I think, gives creditors a better sense 
+of whether the current income figure provided by the 
+debtor is accurate
+ It reduces the chance for strategic filing because it sort of takes some of the significance 
+away of the time of filing
+ And so it seems fairer in that case to consider that -month average in a case where income  
+ fluctuates up and down as an accurate sense of what the 
+-- what the debtor's current income is
+ And again, in many -- in a significant number of cases the calculation 
+of a current disposable income will be a good prediction 
+of what the debtor's disposable income will be going 
+forward
+ JUSTICE GINSBURG: How do you deal with the Petitioner's -- the two arguments Petitioner makes? One is that on the expense side, Congress provided for 
+special circumstances, exceptions, and it didn't on the 
+income side? MS
+ HARRINGTON: Well, the special circumstances exception comes in, in the calculation of 
+the debtor's current disposable income, but it doesn't 
+tell you what to do in terms of projecting that 
+disposable income
+ And so you can adjust what you think the current disposable income is based on an expense 
+that isn't accounted for in the standard expenses or an 
+expense that is accounted for, but is higher than is 
+accounted for in those expenses
+ But again, it doesn't tell you what to do -- how to project that number going 
+forward
+ JUSTICE GINSBURG: What about the argument that this is a simple thing; she didn't have to file the 
+plan -- she didn't have to file the petition at a time  
+ when those two months would be in the -month lookback
+ 
+She could have waited
+ MS
+ HARRINGTON: Well, that is certainly true of this debtor, of the Respondent in this case
+ 
+That is not an option available to all debtors, many of 
+whom are facing foreclosure proceedings or imminent 
+foreclosure proceedings
+ Delay is simply not an option
+ And if I could address Section (A)(A)(ii) option that the Petitioner offers -- I 
+mean, one thing to note is it doesn't give the Court the 
+discretion to set any other -- to just pick any other 
+-month lookback period
+ They pick a date and go  months back from whatever that date is
+ So if a change occurs very soon before the filing of the petition, it 
+makes it very hard for a court to use that provision to 
+change the lookback period because you would have to 
+wait  months, essentially, after the filing of the 
+petition to set it back
+ But again, the biggest problem with using that section as a workaround is that that is an option 
+that is available to debtors, but not to creditors
+ If a debtor files a Chapter  petition along with all the 
+Schedules that are required under Section  of the 
+code, then the debtor has no option for -- excuse me, 
+the creditor has no option and the trustee has no  
+ CHIEF JUSTICE ROBERTS: Well, the creditor has the option of objecting the confirmation of the 
+plan
+ MS
+ HARRINGTON: They can object to confirmation of the plan, but on what -- what basis? If the Petitioner argues that the calculation of projected 
+disposable income is merely a mechanical multiplication 
+of the current disposable income times  or , then 
+they have no way of allowing the court to take account 
+of a change that has happened just before or after the 
+time of the petition that would inure to the creditor's 
+benefit
+ CHIEF JUSTICE ROBERTS: They can't say: I object because the -month period is unrepresentative 
+because of this particular event? MS
+ HARRINGTON: They could say that, but it's not clear in the code that that is a basis for 
+refusing to confirm a plan
+ I think they would have to CHIEF JUSTICE ROBERTS: Does the government have a position on that? MS
+ HARRINGTON: I think unless there were bad faith it's not clear how that can be a basis for not 
+confirming a plan, and that was the -- the reason that  
